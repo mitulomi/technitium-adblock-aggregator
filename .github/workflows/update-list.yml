@@ -1,0 +1,28 @@
+name: Update Technitium Blocklist
+on:
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: pip install requests idna
+      - name: Run Aggregator
+        run: python aggregator.py
+      - name: Commit & Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add blocklist.txt
+          git commit -m "Automated blocklist update: $(date +'%Y-%m-%d %H:%M')" || exit 0
+          git push
