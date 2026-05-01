@@ -1,1 +1,24 @@
+# --- ESSENTIALS (Ad-Blocking & Privacy) ---
+# Hagezi Multi Normal - Der aktuell beste Allrounder
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt
 
+# AdAway - Fokus auf mobile Werbung und Apps
+https://adaway.org/hosts.txt
+
+# --- SECURITY & THREAT INTEL (Malware & Phishing) ---
+# URLHaus - Blockiert bekannte Malware-Verbreitungswege
+https://urlhaus.abuse.ch/downloads/hostfile/
+
+# PhishTank - Schutz vor aktuellen Phishing-Seiten
+https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
+
+# Stalkerware - Schutz vor Spionage-Apps
+https://raw.githubusercontent.com/Stalkerware-Indicators/full/master/all-hosts.txt
+
+# --- OS SPECIFIC (Telemetry & Tracking) ---
+# Windows SpyBlocker - Verhindert "Nach-Hause-Telefonieren" von Windows
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+
+# --- SPAM & TLD PROTECTION ---
+# Hagezi TLD Spam - Blockt ganze Top-Level-Domains, die fast nur für Spam genutzt werden
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tld-spam.txt
