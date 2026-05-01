@@ -1,1 +1,40 @@
+# --- SYSTEM & UPDATES ---
+# Microsoft & Windows Updates
+microsoft.com
+windowsupdate.com
+live.com
+outlook.com
 
+# Linux & DietPi Essentials
+debian.org
+dietpi.com
+github.com
+githubusercontent.com
+kernel.org
+
+# Linux Mint & Ubuntu Specifics (für Mint-Clients)
+linuxmint.com
+ubuntu.com
+canonical.com
+launchpad.net
+ppa.launchpadcontent.net
+
+# --- INFRASTRUCTURE ---
+# Time Synchronization (NTP)
+pool.ntp.org
+time.google.com
+
+# Connectivity & Mirror Detection
+archive.ubuntu.com
+security.ubuntu.com
+deb.debian.org
+security.debian.org
+
+# DynDNS & Remote Access
+duckdns.org
+ident.me
+ifconfig.me
+
+# --- VALIDATION ---
+google.com
+bing.com
