@@ -1,6 +1,6 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-08-01 06:26:05
-# Total Unique Domains: 392507
+# Update: 2026-08-02 06:30:06
+# Total Unique Domains: 392503
 
 0-105.com
 0-9-8-7-6-5-4-3-2-1-0.live
@@ -46009,6 +46009,7 @@ aidijia999.com
 aidiscord.jiayiapi.cn
 aidiscord.whalespet.com
 aidjekibawa9jv7.53244ds.xyz
+aidlifempowerment.com
 aidmoving.com
 aidnnrue2.duckdns.org
 aidojdaaijioaad89.top
@@ -73184,7 +73185,6 @@ arewa.ng
 arewwancdquyxeth-dot-millinium.ey.r.appspot.com
 arexzsa.000webhostapp.com
 areyouable.za.com
-areyouready.co.za
 areyoureadytocompete.xyz
 areyourobotornot.blogspot.com
 arezcs.000webhostapp.com
@@ -95189,7 +95189,6 @@ ayudaapplemx.com
 ayudabancaria.weebly.com
 ayudabancolombia.com
 ayudabancolombla.webcindario.com
-ayudaclientes.bntrab.sbs
 ayudaenlinea.vastserve.com
 ayudainteractiva.webcindario.com
 ayudanecesaria22.000webhostapp.com
@@ -108727,7 +108726,6 @@ beagle-antelope-ktw8.squarespace.com
 beaglepupslovers.com
 beagoodfrnd.netlify.app
 beaheaa.com
-beak.in
 bealert.online.homesbyleah.co.ke
 bealocalexp.com
 beam-r2hwfsze7h0mrn54fcpv.netlify.app
@@ -117724,7 +117722,6 @@ bnecf.blogspot.sn
 bnehomeimprovement.com
 bnert-106161.weeblysite.com
 bnes-andyanes.firebaseapp.com
-bnet-api.playm8ru.win
 bnet.aaplumb.org
 bnet.becomingmyownboss.biz
 bnet.dinevenice.com
@@ -137662,7 +137659,6 @@ cl.org-notify.beckerpumps.mx
 cl.s10.exct.net
 cl.selfhost.co.in
 cl.serveirc.com
-cl.ssouy.com
 cl.ws000nsxc.cloudns.asia
 cl05460.tmweb.ru
 cl09.cl-three.space
@@ -145033,6 +145029,7 @@ compujordan.com
 compulates.myftp.org
 compulogicpc.com
 compuretail.com
+compuserviceonline.com.br
 computador30horas.com
 computationalcenter.com.ar
 computech24x7.in
@@ -149893,7 +149890,6 @@ cs.ausics.net
 cs.bruin.com.au
 cs.emxdgt.com
 cs.esportsvotes.com
-cs.go.kg
 cs.jungara.com.au
 cs.lkqd.net
 cs.media.net
@@ -170019,7 +170015,6 @@ ebu.com.uy
 ebubxsbsqh.duckdns.org
 ebuddynews.com
 ebullienceinabundance.com
-ebullientlife.in
 eburdwanmuktodhara.org.in
 eburkhardt.techvalleyabbottabad.pk
 ebusiness-bofamerica.online
@@ -194267,7 +194262,6 @@ fluidal-clay.000webhostapp.com
 fluidcontitech.com
 fluiddeliverymanagement.com
 fluidesclimat.com
-fluidfilm.bg
 fluidou-71.ml
 fluiptvserver.com
 flukm.github.io
@@ -198461,6 +198455,7 @@ fullstack-flare-soft-internship.vercel.app
 fullstack-netflix-b3pk1cv3j-ayothegod.vercel.app
 fullstack-netflix-clone-pi.vercel.app
 fullstack-netflix-clone.vercel.app
+fullstacknir.com
 fullsuara.pages.dev
 fullthrottlebottles.com
 fulltp.xyz
@@ -223934,7 +223929,6 @@ hobgsmlqqmipvrnj-dot-millinium.ey.r.appspot.com
 hobhkk7262owivg.cc
 hobnw-hiaaa-aaaam-abaga-cai.raw.ic0.app
 hoboauvitrznpoer-dot-millinium.ey.r.appspot.com
-hobobot.net
 hobokenpetz.com
 hocallost.com
 hochthurn.de
@@ -227922,7 +227916,6 @@ humanshushy.com
 humansupport.serveirc.com
 humansync.net
 humanwarnings.com
-humasjatim.id
 humayunsaghir.github.io
 humbaur.hr
 humbertocarpio.com
@@ -240608,6 +240601,7 @@ isikliegzos.com
 isikowear.com
 isim.net.ua.usrfiles.com
 isimizdeyiz.duckdns.org
+isiore.com.co
 isipulsa.lol
 isisidjdh.000webhostapp.com
 isitawesome.com
@@ -242311,6 +242305,7 @@ ixiaoqi.cc
 ixicbd.com
 ixie1.weebly.com
 ixindamix.org
+ixirgroup.com
 ixjgpzmibh.5q5e5o.cn
 ixjnzitelqmeuoxrhtehcatajj.triple-upgrade-293822.rj.r.appspot.com
 ixlosmebel.uz
@@ -251156,7 +251151,6 @@ jynrv.blogspot.sn
 jynv.top
 jyohb.blogspot.sn
 jyoncv7f.firebaseapp.com
-jyothishmathi.in
 jyoti0552cs171011.github.io
 jyoti798.github.io
 jyotir-1924.github.io
@@ -272231,7 +272225,6 @@ lulzasegundavlaoficial.com
 lum22-8cfp.vercel.app
 lum22.vercel.app
 lum4.com
-lumacrea.com
 lumanfountiose.com
 lumaqest.vercel.app
 lumbalm.authorizeddns.org
@@ -281136,7 +281129,6 @@ mam.eupoweconru.com
 mama-muda-jamannowww.000webhostapp.com
 mama-rab.net
 mamaandmimi.com
-mamabearcoffee.com
 mamabearhikes.com.au
 mamacehin.com
 mamachumbas.com
@@ -297672,6 +297664,7 @@ mobil-easy-webb.cyou
 mobil-paypl.000webhostapp.com
 mobil.nugmui.de
 mobil.uyap-gov.com
+mobilab.by
 mobilacikdenizkredi.cf
 mobilacikdenizkredi.ga
 mobilacikdenizkredi.gq
@@ -316584,6 +316577,7 @@ nusaefa.tuskilenstileawitesokemog.link
 nusantarajayakonveksi.com
 nusapintar.masuk.id
 nusaspin.co-ud.com
+nusatoyota.co.id
 nusbpvjhbhhdkqsu-dot-millinium.ey.r.appspot.com
 nusciwgtmrxrsdwbhjqoyomizz-dot-glmar9393293232323.uk.r.appspot.com
 nusirei.com
@@ -333808,6 +333802,7 @@ pfaqaqacizuefeet-dot-millinium.ey.r.appspot.com
 pfaqezewnwnokdmb-dot-millinium.ey.r.appspot.com
 pfarmania.com
 pfastelinho.groks-the.info
+pfatrivandrum.org
 pfaxsydzmcosfsgb-dot-millinium.ey.r.appspot.com
 pfbfinancialassts.com
 pfbid0hecxzdghajjktlqyypwbuurpgynu6n7ojnelemoqtlnotifid.my.id
@@ -335703,6 +335698,7 @@ planet-olivine-beechnut.glitch.me
 planet-strengthened-bactrosaurus.glitch.me
 planet-super-turkey.glitch.me
 planetanaturalaju.com.br
+planetariumobil.ro
 planetbait.com
 planetodoo.kinsta.cloud
 planetofscissors.com
@@ -365926,7 +365922,6 @@ roblox-app.com
 roblox-gift.xyz
 roblox-help.com
 roblox-verification.com
-roblox-xeno.info
 roblox.cam
 roblox.cd
 roblox.com.ag
@@ -380717,6 +380712,7 @@ tan-vr.com
 tandlab.jp
 tandlaegerneistoden.dk
 taneshabhatt09.github.io
+tangentwaves.com
 tangerine-gelato-e637c8.netlify.app
 tangerine-pudding-d450f1.netlify.app
 tangkeyang.pages.dev
@@ -385379,7 +385375,6 @@ uplifioac.vercel.app
 uplinof-eight.vercel.app
 upload.mobpowertech.com
 uploadingyourproject687268747isjhgjjmz.pages.dev
-uploadloop.com
 uploads-gain.vercel.app
 uploads.dev30vps045401.managerc20vpx5903.host
 uploads.mngrc24srv09527.site
@@ -387448,7 +387443,6 @@ vehiclesellercenter.com
 veidrodis.weebly.com
 veinstreatmentmiami.com
 vekqodovanfxiugmicjypf-svfe9-h10sau.vercel.app
-vektorex.com
 vela.iad-01.braze.com
 velastrae-vault.pages.dev
 velazquezinc.com
@@ -388643,6 +388637,7 @@ wangshang-whatsappweb.com.cn
 wannacryransomware.github.io
 wanshante.pilot45.com
 wanteg.icu
+wantsellonline.com
 wap-whatsapp.com.cn
 wap.023556.com
 wap.078bd.cn
@@ -391095,6 +391090,7 @@ www.srmdata-us.com
 www.srmdata.com
 www.ss-01.com
 www.starcountry.net
+www.steamrub.com
 www.storygize.net
 www.summerhamster.com
 www.support-data.com
