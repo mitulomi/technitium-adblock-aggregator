@@ -1,6 +1,6 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-08-07 05:38:09
-# Total Unique Domains: 392530
+# Update: 2026-08-08 04:53:25
+# Total Unique Domains: 392519
 
 0-105.com
 0-9-8-7-6-5-4-3-2-1-0.live
@@ -31669,7 +31669,6 @@ abdul-moeiz-raja.github.io
 abdul-moeiz.github.io
 abdul-rasheed-talal.github.io
 abdul-soharab.github.io
-abdulahad.net
 abdulahad56.github.io
 abdulazizakyol.com
 abdulazizjonka.github.io
@@ -53762,7 +53761,6 @@ amazom.mndlrt.shop
 amazom.mokurs.xyz
 amazom.monwe.xyz
 amazom.mtdnfr.shop
-amazom.my
 amazom.myvnc.com
 amazom.nbhaafuih.xyz
 amazom.nmfdkf.cyou
@@ -108730,7 +108728,6 @@ beagle-antelope-ktw8.squarespace.com
 beaglepupslovers.com
 beagoodfrnd.netlify.app
 beaheaa.com
-beak.in
 bealert.online.homesbyleah.co.ke
 bealocalexp.com
 beam-r2hwfsze7h0mrn54fcpv.netlify.app
@@ -129739,7 +129736,6 @@ canreal.pt
 canslalskjiushd6743gh.firebaseapp.com
 canstudio.sa.com
 cansuyusulama.com
-canta-cn.com
 cantabriaeventos.com
 cantar-te.com
 canterburydietitians.co.nz
@@ -131175,7 +131171,6 @@ cashbacks.space
 cashbacks.top
 cashbckmobi.com
 cashbee.top
-cashblaq.fit
 cashbook.net.au
 cashbooma.vercel.app
 cashcredit.com.hk
@@ -137702,7 +137697,6 @@ cl86632.tw1.ru
 cl880425-wordpress-s3md1.tw1.ru
 cl92622.tmweb.ru
 cl96695-wordpress-rylzu.tw1.ru
-cla.stingold.com
 cla2020gov.com
 cla9konfirmasiidhadiah2025rs.pages.dev
 claaim-resmii-giveeawey-rp10jutaa.danalu.my.id
@@ -140236,7 +140230,6 @@ cn.plhhovyj.com
 cn.rkzmx.com
 cn.sekmx.com
 cn.sqhuabang.com
-cn.unionlever.com
 cn.vcbjmx.com
 cn.wanbo18.pro
 cn.wanbo31.bet
@@ -149726,7 +149719,6 @@ crypt-ledger-live-login.vercel.app
 cryptallstars.online
 cryptdapp.pages.dev
 cryptenlogoins.webflow.io
-crypter00.gt.tc
 crypticcar.com
 crypticinsights.com
 crypticoin.netlify.app
@@ -149799,6 +149791,7 @@ cryptoinz.eu
 cryptokeyshield.com
 cryptologinhelp.webflow.io
 cryptoloicn.webflow.io
+cryptomeshforge5.lol
 cryptometamask-wallet-extantion.webflow.io
 cryptomixer.at
 cryptomixer.guru
@@ -156636,7 +156629,6 @@ deliveryfilekit.ga
 deliveryfromdhl.com
 deliverygumtree.com
 deliveryma.temp.swtest.ru
-deliverymailreport.co.za
 deliveryn-login.alfisal.com
 deliverynote1.club
 deliveryofvoiceactivation.s3.eu-central-1.amazonaws.com
@@ -164784,7 +164776,6 @@ donadecasaecia.com
 donaghyvina.com
 donagt.com
 donajuguete.org
-donal.gt.tc
 donald-welb.000webhostapp.com
 donaldgoulard1.wixsite.com
 donaldgoulard51.wixsite.com
@@ -165237,7 +165228,6 @@ download.tfyxzai.com
 download.tiktok906.com
 download.tiktoks971.com
 download.tkk-mall.icu
-download.ubua.online
 download.windowsmicrosoft.ml
 download.zachchan.workers.dev
 download1.uchihaudin.workers.dev
@@ -170441,6 +170431,7 @@ eclectiquedesign.com
 eclipse-decipher.pages.dev
 eclipse-gear.com
 eclipsebank.directsmailsolution.com
+eclipsebible.com
 eclipsefilmsandphoto.com
 eclipsevpn-new.com
 eclubyou.com
@@ -171692,6 +171683,7 @@ effective-solution658239.click
 effective-solution666234393.click
 effective-waffle.vercel.app
 effective.com.uy
+effectively32.infinityfree.me
 effectivemarketing.in
 effectuate.eu
 effem.corporacionfrm.org
@@ -174333,6 +174325,7 @@ endorse.dessertboxku.gif15.duckdns.org
 endorsed-loran.000webhostapp.com
 endorseddu.com
 endpoint-fail.vercel.app
+endpoint.project0.cc
 endrizzi.com
 enduld.tk
 endurable-emerald-lip.glitch.me
@@ -190140,6 +190133,7 @@ fernandxk2.serv00.net
 fernangas.es
 ferncreekchiro.com.usrfiles.com
 ferncrest.com
+ferncurrent14.com
 fernestatesales.com
 fernhill.bravusmentores.com
 fernier-bearings.000webhostapp.com
@@ -203240,7 +203234,6 @@ gestmsmions.firebaseapp.com
 gestordepartes.com
 gestoriacampalans.com
 gestoriaenparaguay.com.py
-gestroom.it
 gesundheit-zu-hause.com
 gesx.top
 get--opportunity-to-be-verified.vercel.app
@@ -208670,7 +208663,6 @@ granpallars.com
 grant.atozgroup.ir
 grantedtrustbank.com
 granteducationgroup.com
-grantexx.com
 granti-bbva-online.cekilisgunu.com.tr
 grantikrediibasvuru.vercel.app
 grantisorgubilgi.com.tr
@@ -228461,7 +228453,6 @@ hwww-roblox.com
 hwxvqfaexh.duckdns.org
 hwxxqvayl8hhvfme.jimdofree.com
 hwy.pages.dev
-hwykplqn.xyz
 hx4vp6.webwave.dev
 hx5.readyloading.com
 hxaaybnfta.temp.swtest.ru
@@ -231960,6 +231951,7 @@ ikgviosz.weebly.com
 ikhmepft.com
 ikiginqfyr.duckdns.org
 ikikuiu.weeblysite.com
+ikincielesyaciankara.com.tr
 ikitele.vercel.app
 ikiztarim.com
 ikjgttlfww.duckdns.org
@@ -243658,6 +243650,7 @@ jaw3eqz.duckdns.org
 jaw3eqz3.duckdns.org
 jaw3eqz4.duckdns.org
 jawaharchannel.in
+jawaratekno.com
 jawasunda.my.id
 jawatan-kosong-perkhidmatan.com
 jawatan-kosong-siti-nor-musthapa.cs-service.biz.id
@@ -260743,6 +260736,7 @@ lawayaddauze-2067.vercel.app
 lawerencesfranklin.com
 lawetasandomierz.pl
 laweuqkomqsuboybevyblymbmo-dot-gl9393jan.uk.r.appspot.com
+lawfirm.paperbirdtech.com
 lawful-pokes.000webhostapp.com
 lawgarrido.filesusr.com
 lawgiver-acquisitio.000webhostapp.com
@@ -265429,7 +265423,6 @@ linktoico.000webhostapp.com
 linktra.sbs
 linktraa.xyz
 linktrade.pp.ua
-linktrap.co
 linktwo-sigma.vercel.app
 linkupyouaccnt.weebly.com
 linkuyyghjghdgkihkijhjmghb.blogspot.sn
@@ -265520,7 +265513,6 @@ liohu870.github.io
 liok.pages.dev
 lioktkhyvb.duckdns.org
 lion-etil.com
-lion44.net
 lionart.fr
 lionbanques.com
 lioncavepoker.com
@@ -270790,7 +270782,6 @@ loopyy-perfeect.duckdns.org
 loose-contract-walker-professionals.trycloudflare.com
 loosingweightnow.com
 loostorm.co.kr
-loosun.net
 lootdweller.sa.com
 lootevents.itemdb.com
 lootko.com
@@ -272239,7 +272230,6 @@ lulzasegundavlaoficial.com
 lum22-8cfp.vercel.app
 lum22.vercel.app
 lum4.com
-lumacrea.com
 lumanfountiose.com
 lumaqest.vercel.app
 lumbalm.authorizeddns.org
@@ -280212,6 +280202,7 @@ mailgate.caq.com.au
 mailgate.sspl.com.au
 mailgcccdeduowa.my-free.website
 mailgdgttess255.wixsite.com
+mailglobalsbg.com
 mailguard.ie
 mailguard.ru.com
 mailgw.metrowestapartmentsorlando.com
@@ -286674,6 +286665,7 @@ merhabaistanbul.net
 merhitranspttion.com
 meriblouse.com
 merick5.com
+meridia.rs
 meridianbrandy.com
 meridican.net
 merigift.com
@@ -319887,7 +319879,6 @@ oilgasdieselgovoff.wixsite.com
 oilkmmzx.cf
 oilwykvrnr.duckdns.org
 oilymedication.cn
-oim.doganltd.com.tr
 oim.qjk.mybluehost.me
 oimos.com.mx
 oimszcofiqvmshvhwnrnyemtzwtmtfzbncvg-dot-cryptic-now-290917.ey.r.appspot.com
@@ -328667,7 +328658,6 @@ panel-hostpolnt-ch.franckdubois.ca
 panel-intro.parsonline.com
 panel-one.ru
 panel-sagem-urls-celebs.trycloudflare.com
-panel.b2brouter-secure.com
 panel.hiddify.top
 panel.home.pl.muna.it
 panel.moat.com
@@ -330514,7 +330504,6 @@ paymentapply.xyz
 paymentauth-payees.com
 paymentauthorise-login.com
 paymentauthorization-9a4.pages.dev
-paymentautomations.biz
 paymentcards.buzz
 paymentcheck-review.com
 paymentdatapal.000webhostapp.com
@@ -354987,6 +354976,7 @@ quyendong.com
 quynhanhi006.servebbs.com
 quynhff.sukien-freefire.garenaaa.io.vn
 quynhff.sukien-freefire.garenaaa.vn
+qv.co.ke
 qvajdangwg.duckdns.org
 qvakysuktkdfyeibmbgkcwouwh-dot-gloff849483.uk.r.appspot.com
 qvbgt.blogspot.am
@@ -364516,6 +364506,7 @@ ripple-mulberry-ketch.glitch.me
 ripple-notch-gasosaurus.glitch.me
 ripple-promo.org
 ripple-twilight-aragosaurus.glitch.me
+rippled.cleverpondky.com
 ripplegiveaway.net
 ripq.buyive.top
 ripristina-dati-isp.com
@@ -376180,6 +376171,7 @@ skozch.com
 skrem-meta.pages.dev
 skrill-app.co.com
 skrill-login.top
+skript.club
 sksvamsi.github.io
 sktptf2.xyz
 sky-100142.weeblysite.com
@@ -379231,7 +379223,6 @@ streamline-line.vercel.app
 streamline-local-manage-uid36729041.vercel.app
 streamlined-byte.vercel.app
 streamlined-exit.vercel.app
-streammobs.com
 streamnf.com
 streamweb33images.com
 streamyq-gold.vercel.app
@@ -388841,6 +388832,7 @@ we2transfer-9iyd.vercel.app
 we3bwebma1l-r0unclcube-web3nail-nailweb-deliv3ry.glitch.me
 we901.s3.us-east-1.amazonaws.com
 weaaletphantom.webflow.io
+wealthishealth.free.je
 wealthy-achieved-pudding.glitch.me
 wealtrix.digital
 wearehivemind.com
@@ -390776,7 +390768,6 @@ wots-wep-web.ru
 wowanalytics.co.uk
 wowoproject-com.pages.dev
 woxzsakwad.info
-wp.ameyiando.com
 wp.autodiscover.3lo.com.au
 wp.pilot45.com
 wp.tectrics.com
@@ -391098,12 +391089,12 @@ www.mczbf.com
 www.medises.co.kr
 www.myvcart.com
 www.namuvpn.com
+www.nccommunication.be
 www.newkey.co.kr
 www.newsbreak.com
 www.notbak.com
 www.npttech.com
 www.ojang.pe.kr
-www.propertiesofcayman.com
 www.reifenquick.de
 www.saf-oil.ru
 www.salonmarketing.ca
@@ -391115,7 +391106,6 @@ www.srmdata-us.com
 www.srmdata.com
 www.ss-01.com
 www.starcountry.net
-www.steamrub.com
 www.storygize.net
 www.summerhamster.com
 www.support-data.com
@@ -391437,7 +391427,6 @@ xiaomi-cloud.support
 xiaomi-mipdx.cn.miaozhen.com
 xiaozbcg.akuanakmamah.de
 xiashan.pilot45.com
-xiazaixitong8.com
 xibloxreborn.serv00.net
 xicix.sa.com
 xidnaindz.nvia.biz.id
@@ -391748,6 +391737,7 @@ yahyonail.wixstudio.com
 yaihooo-system.ziltalokka-f21.workers.dev
 yairix.github.io
 yakocx-vnmk.vercel.app
+yakult-hk.com
 yamaxun.tianzhe.cn
 yaml-val.icu
 yamusiala2.com
@@ -392307,7 +392297,6 @@ zharo.icikiwirmas.com.rtxt.topup-center.com
 zhbhcmvraebwagfybs1pbnquy29t.directsmailsolution.com
 zhelp-supports.business-minagne.com
 zhh08b3.wixsite.com
-zhigao5191.com
 zhiyang-edu.cn
 zhnetwork.cn
 zhnwvyuwtc.duckdns.org
