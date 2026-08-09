@@ -1,6 +1,6 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-08-08 04:53:25
-# Total Unique Domains: 392519
+# Update: 2026-08-09 05:01:05
+# Total Unique Domains: 392531
 
 0-105.com
 0-9-8-7-6-5-4-3-2-1-0.live
@@ -14860,7 +14860,6 @@
 45-95-11-102.cprapid.com
 45-ekansh.github.io
 45-n-wh-customph-an00-family-sigur-ccusa-wat.sgp1.digitaloceanspaces.com
-45.135.194.70.ptr.pfcloud.network
 45.141.515702157022.410.ardestankimiacable.com
 45.142.208.144.sslip.io
 45.38.3.121.sslip.io
@@ -31669,6 +31668,7 @@ abdul-moeiz-raja.github.io
 abdul-moeiz.github.io
 abdul-rasheed-talal.github.io
 abdul-soharab.github.io
+abdulahad.net
 abdulahad56.github.io
 abdulazizakyol.com
 abdulazizjonka.github.io
@@ -72604,6 +72604,7 @@ arc9823421.royalwebhosting.net
 arca2.danielgabinio.com
 arcacg.com
 arcade.business
+arcade.cleverpondky.com
 arcadecats.com
 arcadegamesrfun.com
 arcadesports.io
@@ -97196,6 +97197,7 @@ backup.sspl.com.auwww.backup.sspl.com.au
 backup.synergyglobal.one
 backup.system-ledger.live
 backup.tamga.net.ua
+backup.tkspr1v.com
 backup.utsafrica.com
 backup.vnateqi.workers.dev
 backup.walletconnect-ledger.com
@@ -104082,6 +104084,7 @@ balticportsconference.com
 baltim-joy.shop
 baltimorebreakrooms.com
 baltimoretrips.com
+baltos.online
 balufabrics.com
 balvenraal.netlify.app
 bam.bz
@@ -106996,6 +106999,7 @@ batumi.net
 baturite.ce.gov.br
 batvrms.net
 bauamvhyvocgkomc-dot-millinium.ey.r.appspot.com
+bauble.cleverpondky.com
 baublesandbagsonline.com
 baucarshopee1418.weebly.com
 baucarshopee1433.weebly.com
@@ -108728,6 +108732,7 @@ beagle-antelope-ktw8.squarespace.com
 beaglepupslovers.com
 beagoodfrnd.netlify.app
 beaheaa.com
+beak.in
 bealert.online.homesbyleah.co.ke
 bealocalexp.com
 beam-r2hwfsze7h0mrn54fcpv.netlify.app
@@ -122787,7 +122792,6 @@ broadnetla.net
 broadusent.com
 broadusmt.buzz
 broadviewsoftare.com
-broadwalkindia.com
 broadwayadvisory.com
 broadwayelectric.com
 broadwaygalleries.net
@@ -132457,6 +132461,7 @@ cdn.dragon.cere.network
 cdn.dynamicyield.com
 cdn.easyapple.diy
 cdn.exelator.com
+cdn.file6.goodid.com
 cdn.firstimpression.io
 cdn.flashtalking.com.edgekey.net
 cdn.flurry.com
@@ -140230,6 +140235,7 @@ cn.plhhovyj.com
 cn.rkzmx.com
 cn.sekmx.com
 cn.sqhuabang.com
+cn.unionlever.com
 cn.vcbjmx.com
 cn.wanbo18.pro
 cn.wanbo31.bet
@@ -147349,11 +147355,11 @@ coraimareyesc.com
 coral-candle-atrociraptor.glitch.me
 coral-fluttering-diamond.glitch.me
 coral-kjasdghg-gf2xo.ondigitalocean.app
-coralasargetia.ro
 coralgables-bridals.com.usrfiles.com
 coraliax.vercel.app
 corallz.com
 coralon.com
+coralwebqe.help
 corazondelmadidi.com
 corazonesunidosep.org
 corazonmayagt.com
@@ -156629,6 +156635,7 @@ deliveryfilekit.ga
 deliveryfromdhl.com
 deliverygumtree.com
 deliveryma.temp.swtest.ru
+deliverymailreport.co.za
 deliveryn-login.alfisal.com
 deliverynote1.club
 deliveryofvoiceactivation.s3.eu-central-1.amazonaws.com
@@ -165224,7 +165231,6 @@ download.pdf00.com
 download.sada-group.com
 download.securetnet.com
 download.suxiazai.com
-download.tfyxzai.com
 download.tiktok906.com
 download.tiktoks971.com
 download.tkk-mall.icu
@@ -165263,7 +165269,6 @@ downtowndallasnews.com
 downtowndavis.org
 downtowninv.pages.dev
 downtownresident.org
-dowonline.ru
 dowsingdesign.com
 dowxon.fr
 dox-wlletconnect.gitbook.io
@@ -177520,7 +177525,6 @@ evanescent-mesquite-jet.glitch.me
 evangelion-event-m11.duckdns.org
 evangelion-event.duckdns.org
 evangj-wixsite-com.filesusr.com
-evangroup.ru
 evanrunnergames.github.io
 evansmeatmarket.com
 evanstonmotorcycleclassic.com
@@ -202629,6 +202633,7 @@ genconis.ir
 gencu.dynvpn.de
 gendang88.com
 gendarmeriegouveur.wixsite.com
+genddos.st
 gendelivery.live
 genderdatakenya.org
 gendo-mode.web.app
@@ -203234,6 +203239,7 @@ gestmsmions.firebaseapp.com
 gestordepartes.com
 gestoriacampalans.com
 gestoriaenparaguay.com.py
+gestroom.it
 gesundheit-zu-hause.com
 gesx.top
 get--opportunity-to-be-verified.vercel.app
@@ -207350,7 +207356,6 @@ googleservisler.com
 googlesocialweb.standardseoservices.com
 googlesrc.us
 googlesyndication.com
-googletagamnager.com
 googletest.jontzeng.com
 googlething-part-2.toast12.repl.co
 googleweblight.com
@@ -218304,7 +218309,6 @@ heaenyf.icu
 heaenyh.icu
 heaenyi.icu
 heahe.co.za
-heajost.online
 heal-post-traumatic-stress.com
 healapv6a9d6a.co.vu
 healbrighta.vercel.app
@@ -242311,7 +242315,6 @@ ixiaoqi.cc
 ixicbd.com
 ixie1.weebly.com
 ixindamix.org
-ixirgroup.com
 ixjgpzmibh.5q5e5o.cn
 ixjnzitelqmeuoxrhtehcatajj.triple-upgrade-293822.rj.r.appspot.com
 ixlosmebel.uz
@@ -243110,6 +243113,7 @@ jalta-jp.com
 jalzis21jcfo4t.relapsetracker.com
 jam-art.net
 jam-bo.ru
+jam.cleverpondky.com
 jam.gimbori.cyou
 jam3a.me
 jamaes-jca.kleap.co
@@ -267852,6 +267856,7 @@ load-facebookus-53920297.the222.ca
 load-facebookus-81644800.the222.ca
 load-paxful.pro
 load.cofry.com
+load.dstat.top
 load.exelator.com
 load.fomo.com
 load.latestcache.com
@@ -272230,6 +272235,7 @@ lulzasegundavlaoficial.com
 lum22-8cfp.vercel.app
 lum22.vercel.app
 lum4.com
+lumacrea.com
 lumanfountiose.com
 lumaqest.vercel.app
 lumbalm.authorizeddns.org
@@ -279159,6 +279165,7 @@ mail.sieunaiss.com
 mail.sign-myphone.com
 mail.sihgyr.c505.net
 mail.silavpravde.info
+mail.silverrockay.pro
 mail.simonebellucci.it
 mail.simpower.com.cn
 mail.singapore-naughty-girl.citzy19.pw
@@ -279217,6 +279224,7 @@ mail.sport-predictor.cu.ma
 mail.spotifybyhardik.freewebhostmost.com
 mail.spotifyyclonne.freewebhostmost.com
 mail.spotonroofing.com.au
+mail.springnetpm.pro
 mail.sqaccountinformation.tk
 mail.sqareeednet.org
 mail.sqaurareee.net
@@ -279766,6 +279774,7 @@ mail.whtsapjoinxnx.autojoinx.com
 mail.whvp552.srtk.my.id
 mail.wijewardena.com
 mail.wildpridesafaris.com
+mail.windycreekbc.pro
 mail.wingsclothing.co.in
 mail.wininn.duckdns.org
 mail.wintools.com.cn
@@ -279846,6 +279855,7 @@ mail.yupribo.e6hdx.my.id
 mail.ywhns4.meclickts.my.id
 mail.z-protection.business-minagne.com
 mail.zammy.akuanakmamah.de
+mail.zanyyewuh.pro
 mail.zebrogs.com
 mail.zeltech.com.au
 mail.zenservices.net
@@ -280224,7 +280234,6 @@ mailhub-root.web.app
 mailibex0b.weeblysite.com
 mailidorange.weebly.com
 mailifo-105600.square.site
-mailify.cc
 mailii.ga
 mailin.attollo.com.au
 mailin.caq.com.au
@@ -324301,6 +324310,7 @@ ordoguard.com
 ordre6356435.market
 orebu-cloud-3bde.lwvemrlaensi.workers.dev
 oreg-start-leadger.webflow.io
+oregano.brightleafrv.com
 oregeryshop01.top
 oregeryshop02.top
 oregeryshop03.top
@@ -324425,7 +324435,6 @@ orieninsidewoe.flazio.com
 orient-co.km1r8.com
 orient-water.com
 orientgrammarschools.edu.pk
-orienttaxtile.com
 orifl21ame01.000webhostapp.com
 oriflamegiftforyou1.000webhostapp.com
 origa-cloud-b38d.c71rcsyb.workers.dev
@@ -336771,7 +336780,6 @@ poconofarmsrealestate.com
 poconokosher.com
 poconoshotels.com
 poconoslakefronthomes.com
-pocopaco.co.za
 pocrovskiihram.ru
 pocrtalpersssocnas-bencochiile-cl.drdssf.com
 poctza-logowanie.pages.dev
@@ -375575,7 +375583,6 @@ shop.fbfb.site
 shop.fbshtfs.com
 shop.futocoin.cc
 shop.jimpike.com.au
-shop.mediasova.ru
 shop.nihell58.xyz
 shop.phjxweb.com
 shop.store-tiktok.com
@@ -375846,6 +375853,7 @@ silver-river.pages.dev
 silverchalrpartners.com
 silvermob.com
 silverpeak.jdevcloud.com
+silverrockay.pro
 silverstarfacilities.com
 silverstripe.vizeabo.biz.id
 simage2.pubmatic.com
@@ -376293,6 +376301,7 @@ smartrequest.pages.dev
 smartresolution.pages.dev
 smartsankarcode.github.io
 smartsitecompany.com
+smartsummitlo.pro
 smarttag.rubiconproject.com
 smartwebtechnologies.in
 smartypie112.github.io
@@ -376543,7 +376552,6 @@ soft-sawine-4598cd.netlify.app
 soft-side-946015.framer.app
 soft.110route.com
 softappef.vercel.app
-softcatalog.ru
 softcore01.github.io
 softcrateea.vercel.app
 softifly.com
@@ -377020,6 +377028,7 @@ sprightly-still-2f3726.netlify.app
 spring-glitter-e38d.e36osck8.workers.dev
 spring-pond-4903.fly.dev
 spring.frestaici.ru.com
+springnetpm.pro
 springserve.com
 sprint-srs-appopen.asapp.com
 sprint.asapp.com
@@ -377154,6 +377163,7 @@ ssdk.adkmob.com
 sse.qubit.com
 sserverfit.com
 sservletailview.flazio.com
+ssh.microc2.lol
 ssh.net-upt.com
 sshippingline.com
 sshort-market.co
@@ -379223,6 +379233,7 @@ streamline-line.vercel.app
 streamline-local-manage-uid36729041.vercel.app
 streamlined-byte.vercel.app
 streamlined-exit.vercel.app
+streammobs.com
 streamnf.com
 streamweb33images.com
 streamyq-gold.vercel.app
@@ -382849,7 +382860,6 @@ tpfranchiseengagements.com
 tpfranchiseinquiries.com
 tpg-wswhatsapp.cc
 tpo-yu.xyz
-tpp.om-stock.com
 tps-wlb-uswest.dvgtm.akadns.net
 tps.doubleverify.com
 tps10232.doubleverify.com
@@ -384012,6 +384022,7 @@ tricazo.com
 tricky-choice-692439.framer.app
 trieezrwaashr.webflow.io
 triezooiostart.webflow.io
+triflackcom.com
 triforma.com.ar
 triggers.wfxtriggers.com
 trigondigital.in
@@ -387010,6 +387021,7 @@ utah-gov-yq.guru
 utah-gov-yx.life
 utarget.ru
 utctime.tiltingpoint.io
+utensil.cleverpondky.com
 utgferc.duckdns.org
 uth---sso---kucon--index.webflow.io
 uth--netcoin-m--cdn----auth.webflow.io
@@ -390469,6 +390481,7 @@ windroara.vercel.app
 winds-soft.com
 windstreamupgradeservice.pages.dev
 windstreamupgradeservicess.pages.dev
+windycreekbc.pro
 winer23444.pages.dev
 winfast.wtf
 winfunlight.com
@@ -391070,11 +391083,9 @@ www.drgenov.com
 www.exoduswallet.at
 www.first-security-verden.de
 www.geoplugin.net
-www.gestroom.it
 www.google-analytics.com
 www.googleadservices.com
 www.hostingcloud.science
-www.hqsblog.com
 www.hseda.com
 www.intelligradeeducation.vicentecisnerospub.com
 www.jozefinskiatelje.si
@@ -392198,6 +392209,7 @@ zamithcoffee.pt
 zandona.com.au
 zanku.purlpage.com
 zanotira-fulomine.pages.dev
+zanyyewuh.pro
 zaper.fi
 zapframeg.vercel.app
 zapnet.ru.com
@@ -392297,6 +392309,7 @@ zharo.icikiwirmas.com.rtxt.topup-center.com
 zhbhcmvraebwagfybs1pbnquy29t.directsmailsolution.com
 zhelp-supports.business-minagne.com
 zhh08b3.wixsite.com
+zhigao5191.com
 zhiyang-edu.cn
 zhnetwork.cn
 zhnwvyuwtc.duckdns.org
@@ -392414,7 +392427,6 @@ zoom-call29072025callerid9237xzue07930conference-secured.s3-bkk.nipa.cloud
 zoom.readyex-eg.com
 zora-hold-3ue.pages.dev
 zoravine-tulanexo.pages.dev
-zoredaye.com
 zorentila.vercel.app
 zorf-meta-nilk-biz.pages.dev
 zorf-meta-tix-biz.pages.dev
