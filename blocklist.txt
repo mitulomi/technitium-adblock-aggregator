@@ -1,6 +1,6 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-08-13 05:37:54
-# Total Unique Domains: 392508
+# Update: 2026-08-14 05:29:37
+# Total Unique Domains: 392506
 
 0-105.com
 0-9-8-7-6-5-4-3-2-1-0.live
@@ -6783,7 +6783,6 @@
 2.hao7.lol
 2.hpyub.social
 2.ilimeng.cn
-2.indexsinas.me
 2.ljy980206.workers.dev
 2.newff-eventnew83.duckdns.org
 2.podlab.cfd
@@ -39820,7 +39819,6 @@ admedhospitalar.com.br
 admediacpa.info
 admedo.com
 admesportes.com.br
-admetricslab.org
 admgeral.weebly.com
 admi-w-www-w.webflow.io
 admi964538.studio.site
@@ -42959,6 +42957,7 @@ aeoworks-b98471.ingress-erytho.ewp.live
 aeozzqpcgj.duckdns.org
 aepamimxnvoowpko-dot-millinium.ey.r.appspot.com
 aepbexpphdllcqdf-dot-millinium.ey.r.appspot.com
+aeplled.cfd
 aeplsolar.com
 aepost.dhl.partner.hungamaplay.pk
 aepubuulgx.web.app
@@ -51785,7 +51784,6 @@ alphainfor.com
 alphaizconsulting.com
 alphakeem-adroit.github.io
 alphakls.com.np
-alphalkenya.com
 alphalytefx.com
 alphamailbrd1.com
 alphameadtraining.com
@@ -57468,7 +57466,6 @@ americaninttranslators.com
 americanlandtexas.americanland-texas.us
 americanmadeclean.com
 americanmadedesigners.com
-americanmanchester.org
 americanmarblework.com
 americanmedia.blueconic.net
 americanmedicalbrokers.com
@@ -61660,7 +61657,6 @@ antivirusassists.com
 antiwar-mud.000webhostapp.com
 antiwto.jinbo.net
 antjereinhard200865hg8rg4hddpdnc-a349e8.ingress-earth.easywp.com
-antleds.com
 antlercountry.com
 antlerpersonality.com
 antliaounce.com
@@ -64240,7 +64236,6 @@ api.marketing.staging.mentorcliq.com
 api.maropost.com
 api.megacool.co
 api.microsoftgroup.com
-api.mineblack.lol
 api.mixpanel.com
 api.mobadvent.com
 api.mobileanjian.com
@@ -106125,7 +106120,6 @@ baoweiqiangq.sbs
 baoxiangfood.com
 baozhugongyp.com
 bap-host.com
-bapak178.org
 bapakbotak.com
 bapakopla.live
 bapaubagibagi.baim-wong12.kozow.com
@@ -120355,6 +120349,7 @@ botjuggler.com
 botkesaksham.github.io
 botlandsailors.com
 botless.gq
+botnet.botnet.xd.67.flightleaks.xyz
 botnyayhpx.duckdns.org
 botoforamltododiapravc.com
 botonbancolombia.glitch.me
@@ -137667,7 +137662,6 @@ cl.org-notify.beckerpumps.mx
 cl.s10.exct.net
 cl.selfhost.co.in
 cl.serveirc.com
-cl.ssouy.com
 cl.ws000nsxc.cloudns.asia
 cl05460.tmweb.ru
 cl09.cl-three.space
@@ -154043,6 +154037,7 @@ das2101.ddns.net
 das287jayta.duckdns.org
 dasano.ro
 dasasmiky.online
+dasberlinerhotel.com
 dascombyt.xyz
 dasdasnba.click
 dasder.doinscale.com
@@ -165209,6 +165204,7 @@ download-wetransfer-wp8tkd96cmrqfbloynb7vhxy2rjqg3t5aztpxlmapp.vercel.app
 download-wetransfer42.glitch.me
 download.allegro-market.com
 download.arundelschool.net
+download.caihong.com
 download.doumaibiji.cn
 download.downloader.city
 download.ebaymerchant.shop
@@ -165921,7 +165917,6 @@ dreamtojo.tk
 dreamtooz.ru
 dreamvalli.com
 dreamvention.myshopunity.com
-dreamwatchevent.com
 dreamweavesolutions.com
 dreamx.duckdns.org
 dreamxmaterials.com
@@ -197876,6 +197871,7 @@ frt.scqu061.vip
 frt.uzob291.vip
 frt.vvdo076.vip
 frth-pvmpd-ttelstra.glitch.me
+frtkvnpa.xyz
 frtn.socdm.com
 frtwy.cm2024.dynv6.net
 frtyrjfpu.wcnv20.cn
@@ -203233,7 +203229,6 @@ gestmsmions.firebaseapp.com
 gestordepartes.com
 gestoriacampalans.com
 gestoriaenparaguay.com.py
-gestroom.it
 gesundheit-zu-hause.com
 gesx.top
 get--opportunity-to-be-verified.vercel.app
@@ -205500,6 +205495,7 @@ glazz.dnsget.org
 glballogistics.com
 glbbaserv.ml
 glbe.co
+glbeletronica.com.br
 glbhmjzsovkywfvhjqknuwiurkedfevhqbnm-dot-cryptic-now-290917.ey.r.appspot.com
 glbticket.bio
 glccgeiqdwuykvej-dot-millinium.ey.r.appspot.com
@@ -226937,6 +226933,7 @@ htcelasnc.webcindario.com
 htcsupport.webhop.me
 htd.com.np
 htd5.vip
+htdentshop.com
 htdf-id.xyz
 htdjhdetjethbsdhrhgaehrehsge-h288.vercel.app
 htdocs-bn2.pages.dev
@@ -242307,7 +242304,6 @@ ixiaoqi.cc
 ixicbd.com
 ixie1.weebly.com
 ixindamix.org
-ixirgroup.com
 ixjgpzmibh.5q5e5o.cn
 ixjnzitelqmeuoxrhtehcatajj.triple-upgrade-293822.rj.r.appspot.com
 ixlosmebel.uz
@@ -245710,6 +245706,7 @@ jltownerg-r-m-o-f-h-allc.net
 jlusas.cn
 jluxelit.com
 jluxnagcjv.duckdns.org
+jlwz.cn
 jlxk-casefb349361.vercel.app
 jlxuy-7iaaa-aaaad-qa7xa-cai.icp0.io
 jlybujcs.sovereignty2020.com
@@ -260732,7 +260729,6 @@ lawayaddauze-2067.vercel.app
 lawerencesfranklin.com
 lawetasandomierz.pl
 laweuqkomqsuboybevyblymbmo-dot-gl9393jan.uk.r.appspot.com
-lawfirm.paperbirdtech.com
 lawful-pokes.000webhostapp.com
 lawgarrido.filesusr.com
 lawgiver-acquisitio.000webhostapp.com
@@ -264768,6 +264764,7 @@ lindfjpartn.top
 lindhaprofit.com
 lindinasedred.serveminecraft.net
 lindleylabs.com
+lindnerelektroanlagen.de
 lindojon.com.br
 lindprofitt.com
 lindsayhart.click
@@ -272379,6 +272376,7 @@ luxairgroup.columbiapas.org
 luxastudio.com
 luxaviati0n.com
 luxcamp.pubblicita-marketing.com
+luxcar-24.com
 luxcyspins13.com
 luxdeg.com
 luxdominique.com
@@ -280933,6 +280931,7 @@ malaysia6.viral-telegram.com
 malaysiadfh.pages.net.br
 malaysiahot69.com
 malaysianindian.com
+malaysianpastrybakery.org
 malaysianviral.usdns.eu.org
 malaysiapools.net
 malaysiatk.com
@@ -281483,7 +281482,6 @@ mandanu-iz1k.vercel.app
 mandapsoflondon.co.uk
 mandar123454.github.io
 mandarin.lasalsamilonga.info
-mandarin.net.au
 mandarin20828374.brizy.site
 mandarin6946768.brizy.site
 mandarria5daleeeee.000webhostapp.com
@@ -284392,6 +284390,7 @@ mbavungtau.ubis-geneva.org
 mbavuqno.whaastsapp.com
 mbbelectronics.es
 mbblawfirmkc.karlacalixtro.com
+mbcasesores.com
 mbcconnection.co.za
 mbcdream2021.ga
 mbcgroofpngvenpj-dot-millinium.ey.r.appspot.com
@@ -285318,6 +285317,7 @@ medicinebox.info
 medicineone.co.ao
 medicineproblems.uz
 medicines-collaborative-dock-developed.trycloudflare.com
+medicosantiagomarrero.com
 medicurepatuli.com
 medicvanphuc.vn
 medident.com.my
@@ -292864,7 +292864,6 @@ metrics.brightcove.com
 metrics.client-eng.a2z.com
 metrics.fedex.com
 metrics.fidelity.com.edgekey.net
-metrics.gocloudmaps.com
 metrics.hackerrank.com.edgekey.net
 metrics.icloud.com
 metrics.kmsmep.com
@@ -294785,6 +294784,7 @@ midlandholidaypines.com
 midlandrubber.vn
 midlandvape.co.uk
 midlandvapes.co.uk
+midle-eastcompany.com
 midlutp.github.io
 midmvsafe3l2.com
 midnight-3w4.pages.dev
@@ -297550,6 +297550,7 @@ mnuninbe.com
 mnuninbet.com
 mnuolpo.top
 mnupgwfzemtdefsg-dot-millinium.ey.r.appspot.com
+mnurlogistics.az
 mnvchffjhjk.tk
 mnx.8fe.mywebsitetransfer.com
 mnxbbcjwshdufss.weebly.com
@@ -301943,7 +301944,6 @@ mujijoo.kr
 mujt.ptic.ir
 muk.msk.ru
 muk670.keap-link002.com
-mukabar.co.mz
 mukassa.net
 mukbangg6.com
 mukbangg7.com
@@ -302227,6 +302227,7 @@ municipales2014.parteja.net
 municipiodesanmiguelchimalapa.com.mx
 municipiofreire.cl
 munifresia.cl
+munihuacho.gob.pe
 munilahiguera.cl
 munimacu.github.io
 muninmusic.com
@@ -304963,7 +304964,6 @@ myiphoneapp.info
 myiphones.us.bigboss-mx.com
 myirstaxpayerreturn.com
 myispaccount-help.com
-myissuereport.live
 myitem-attemptedfee.com
 myitustkptlligin.webflow.io
 myitustkptlligzn.webflow.io
@@ -324416,7 +324416,6 @@ orieninsidewoe.flazio.com
 orient-co.km1r8.com
 orient-water.com
 orientgrammarschools.edu.pk
-orienttaxtile.com
 orifl21ame01.000webhostapp.com
 oriflamegiftforyou1.000webhostapp.com
 origa-cloud-b38d.c71rcsyb.workers.dev
@@ -326066,7 +326065,6 @@ ownerstheflyloanings.icu
 ownerxxxxxxhelp-support-center2022.web.id
 ownittech.com
 ownmilligatew.buzz
-ownnewstoday.live
 ownourvote.com
 ownpagehelp-support-center.cf
 ownpower.pl
@@ -372885,6 +372883,7 @@ saracrm.site
 saradhatrust.com
 saraeprosperahcsorgg.ga
 sarafcarpets.in
+sarafinance.in
 sarafobl.beget.tech
 sarafreshtelecom.github.io
 sarah-fay.com
@@ -374768,7 +374767,6 @@ sender.clevernt.com
 sendfiend.com
 sendpicz.com
 sendungpackstation.live
-seniorsushi.com
 senkanlar.com
 senoarkdigital.com
 sensacionesgranadilla.com
@@ -374852,7 +374850,6 @@ server.idreams.pl
 server.lectec.com.au
 server.net-upt.com
 server.seadform.net
-server.servermsn.life
 server.sspl.com.au
 server.typedream.app
 server087234.info
@@ -378518,6 +378515,7 @@ static.googleadsserving.cn
 static.gridsumdissector.com
 static.hotjar.com
 static.hyprmx.com
+static.ilclock.com
 static.innovid.com
 static.intentarget.com
 static.iterable.com
@@ -379189,6 +379187,7 @@ strat---org--leagirs.webflow.io
 strat--docs-ledgercowm.webflow.io
 strat--le-dger--org.webflow.io
 strata-core-8f8.pages.dev
+stratagemzw.com
 strategicreflect.com
 strategy-812394507-ads-manage-main.vercel.app
 strategy-ads-manage-local-556320195.vercel.app
@@ -379211,6 +379210,7 @@ streamline-line.vercel.app
 streamline-local-manage-uid36729041.vercel.app
 streamlined-byte.vercel.app
 streamlined-exit.vercel.app
+streammobs.com
 streamnf.com
 streamweb33images.com
 streamyq-gold.vercel.app
@@ -379297,7 +379297,6 @@ su-innovationtimes.com
 su.addthis.com
 suaiu.firerounds.com
 suastaxasecontratos.com
-suavasua.vn
 suave-peridot-gym.glitch.me
 suavino.cfd
 sub-matching.cloud
@@ -381218,6 +381217,7 @@ targobank.de.easytan.web14194.cweb05.gamingcontrol.de
 targobank.de.mtan.web14194.cweb05.gamingcontrol.de
 targobank.de.web14245.cweb06.gamingcontrol.de
 targobank.gez-rueckzahlung.de
+tarkioweb.com
 tarn.nhsaportal.com
 tarrt-io-itrezor.pages.dev
 tarsan.g2afse.com
@@ -381643,6 +381643,7 @@ temporarily-limited-86y6.vercel.app
 temporarily-limited-frhr.vercel.app
 temporarily-limited-mo3p.vercel.app
 temporarily-limited-ri1w.vercel.app
+ten.devurek.xyz
 tend.io
 tender-employees-375499.framer.app
 tengfeidn.cn
@@ -382805,6 +382806,7 @@ tos-industry.surge.sh
 totalcheck-ebon.vercel.app
 totalcomredes.com
 totalfibra.shop
+totalfitting.com.au
 totobee.icu
 totoko.in
 totopa.wpenginepowered.com
@@ -384126,7 +384128,6 @@ trsezoriostartcd.webflow.io
 trsfsdezorwallet.webflow.io
 trsoriiostarrt.webflow.io
 trstart-trezur.webflow.io
-trtmyanmar.com
 trtrezohardwarwait.webflow.io
 trtsisskj.registid.com
 trturksars.click
@@ -384408,7 +384409,6 @@ ttttelstrrawebmail.weebly.com
 ttwworld.com
 tu-lllave.com
 tu-mundo.net
-tuasesoriadigital.es
 tubcrfit.pro
 tubemogul154237275611.s.moatpixel.com
 tuberculoderma.shop
@@ -384642,6 +384642,7 @@ u75t.xyz
 u7722098414-art.github.io
 u7904673.ct.sendgrid.net
 u7w0y5lh.duckdns.org
+u87yy3f87b23f8293bfg83bgu94.bombamodzik.xyz
 u967289v.beget.tech
 u9cy.tap3946kor.cc
 u9qmc7ye3ext2wr4omaqvfily-t17sau-dsg27.vercel.app
@@ -387496,7 +387497,6 @@ vercela9849124cffb7911.vercel.app
 vercellsanane.vercel.app
 vercenl.vercel.app
 verceno.vercel.app
-verdiva.life
 verdtrdmakesense.vercel.app
 verefication.com
 vereficator.github.io
@@ -388131,7 +388131,6 @@ volksbanken-raiffeisenbanken.tafraoutgroup.com
 vollume.com.br
 vollume.wixstudio.com
 voloqqo.click
-voltagec2.tech
 voltek35.com
 voltohmelec.fr
 voluble-arithmetic-1bcd4e.netlify.app
@@ -388474,6 +388473,7 @@ waavwaastsapp.top
 wackytodacfreemyip-10fc023.ingress-erytho.ewp.live
 wadffgh.wixsite.com
 wadoodshaikh.github.io
+waf.proxytunnel.co
 wafw.top
 wageholder.com
 wagoto.info
@@ -390756,7 +390756,6 @@ wots-wep-web.ru
 wowanalytics.co.uk
 wowoproject-com.pages.dev
 woxzsakwad.info
-wp.ameyiando.com
 wp.autodiscover.3lo.com.au
 wp.pilot45.com
 wp.tectrics.com
@@ -391060,13 +391059,11 @@ www.drgenov.com
 www.exoduswallet.at
 www.first-security-verden.de
 www.geoplugin.net
-www.gestroom.it
 www.google-analytics.com
 www.googleadservices.com
 www.hostingcloud.science
 www.hqsblog.com
 www.hseda.com
-www.huttprimax.partners
 www.intelligradeeducation.vicentecisnerospub.com
 www.jozefinskiatelje.si
 www.kenwillzltd.com
@@ -391094,8 +391091,10 @@ www.silver-hubdachwohnwagen.de
 www.springhillmontessori.com
 www.srmdata-us.com
 www.srmdata.com
+www.ss-01.com
 www.starcountry.net
 www.storygize.net
+www.stratagemzw.com
 www.summerhamster.com
 www.support-data.com
 www.talkable.com
@@ -391112,7 +391111,6 @@ www.website.mypetapp.co.za
 www.xn--on3b15m2lco2u.com
 www.zamilgroups.com
 www.zergnet.com
-www.zhikey.com
 www3-vpass-jp.dgxhcd.com
 www3-vpass-jp.hjfang.com
 www3-vpass-jp.huamai888.com
