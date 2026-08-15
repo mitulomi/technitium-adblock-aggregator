@@ -1,6 +1,6 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-08-14 05:29:37
-# Total Unique Domains: 392506
+# Update: 2026-08-15 04:26:40
+# Total Unique Domains: 392507
 
 0-105.com
 0-9-8-7-6-5-4-3-2-1-0.live
@@ -9726,7 +9726,6 @@
 2gnl.pages.dev
 2go-eg.com
 2gobud4amirjhydaats9eb7z86.liusanjie.cc
-2goelectricity.co.za
 2goldies.com
 2gurus.co.za
 2gwjyt625.top
@@ -46011,7 +46010,6 @@ aidijia999.com
 aidiscord.jiayiapi.cn
 aidiscord.whalespet.com
 aidjekibawa9jv7.53244ds.xyz
-aidlifempowerment.com
 aidmoving.com
 aidnnrue2.duckdns.org
 aidojdaaijioaad89.top
@@ -72724,7 +72722,6 @@ archivio.galatina.it
 archivo121.click
 archivohistoriaeconomicamexico.com
 archivos.escuelacentinela.cl
-archivoscrosoft.com
 archivosdelestado.com.co
 archivosysuministros.com
 archivotomasmontero.org
@@ -97209,7 +97206,6 @@ backupimmediatelyassestprotection.hosted.phplist.com
 backupinstant.com
 backupio.xyz
 backupkabackup.pages.dev
-backupso.com
 backupsys-lens.vercel.app
 backyard-productions.ch
 backyard.caq.com.au
@@ -137662,6 +137658,7 @@ cl.org-notify.beckerpumps.mx
 cl.s10.exct.net
 cl.selfhost.co.in
 cl.serveirc.com
+cl.ssouy.com
 cl.ws000nsxc.cloudns.asia
 cl05460.tmweb.ru
 cl09.cl-three.space
@@ -146842,7 +146839,6 @@ context.vc
 contextual.media.net
 contigorentacar.com
 contineljs.com
-continentalgroup.net.in
 continentalpacifictextile.com
 continually-pan-used-shake.trycloudflare.com
 continualreservas.com
@@ -163683,7 +163679,6 @@ doc-worldside-online.web.app
 doc-xls-view.vercel.app
 doc.abv.uyo.temporary.site
 doc.e-docssig.com
-doc.e-statements.app
 doc.files.dns-cloud.net
 doc.google.share.pressurecookerindia.com
 doc.iasaude.pt
@@ -165162,6 +165157,7 @@ down.rmsitexzweb.cc
 down.t0kanpoaket.biz
 down.t0kbnpobket.biz
 down.t0kdnpodket.biz
+down.unicron-cdn.click
 down.zhuolin.workers.dev
 down2earth127.wixsite.com
 downaloedd-liive-ledger.webflow.io
@@ -172883,7 +172879,6 @@ eliorinteriors.com
 eliquidexperience.com
 elisabethnicole.com
 elisabungalov.com
-elisans.novayonetim.com
 elisashopping.gq
 elisasmail.pages.dev
 elisemetzger.com
@@ -191950,7 +191945,6 @@ file.netools.workers.dev
 file.purchasedoc.workers.dev
 file.sharedd-project-document.workers.dev
 file.srfreightbd.com
-file.uhsea.com
 file.zeahezea.sa.com
 file05.onedrive0001.workers.dev
 file0900.com
@@ -194066,7 +194060,6 @@ floodcleanupbakersfield.com
 floodsd.com
 flooringandconcrete.com
 flooringexpert.com
-flooriscoveringworld.com
 floorsdirectltd.co.uk
 floortjemutsaers.nl
 floozboncoin.000webhostapp.com
@@ -203222,13 +203215,13 @@ gestiononlinear.com
 gestionpersonaldeseguros.w3spaces.com
 gestionpyme.cl
 gestionsegurovirtual.brizy.site
-gestionycobranzas.com
 gestiscionline.com
 gestiscismartbper.com
 gestmsmions.firebaseapp.com
 gestordepartes.com
 gestoriacampalans.com
 gestoriaenparaguay.com.py
+gestroom.it
 gesundheit-zu-hause.com
 gesx.top
 get--opportunity-to-be-verified.vercel.app
@@ -207001,7 +206994,6 @@ golows.net
 golq2zo1jv.monitorminor.com.tr
 golshere.com
 golswhats.ru
-golvteametvarberg.se
 gomacthsety-97836.click
 gomaespumaamedida.es
 gomaidan.in
@@ -242304,6 +242296,7 @@ ixiaoqi.cc
 ixicbd.com
 ixie1.weebly.com
 ixindamix.org
+ixirgroup.com
 ixjgpzmibh.5q5e5o.cn
 ixjnzitelqmeuoxrhtehcatajj.triple-upgrade-293822.rj.r.appspot.com
 ixlosmebel.uz
@@ -248770,7 +248763,6 @@ joker-auto.pl
 joker-auto24.pl
 joker-autohandel.net.pl
 joker-ua.com.ua
-joker.aec944b68370194a50.link
 joker.ms989freedom.workers.dev
 jokercity303.com
 jokerlaw.com
@@ -260729,6 +260721,7 @@ lawayaddauze-2067.vercel.app
 lawerencesfranklin.com
 lawetasandomierz.pl
 laweuqkomqsuboybevyblymbmo-dot-gl9393jan.uk.r.appspot.com
+lawfirm.paperbirdtech.com
 lawful-pokes.000webhostapp.com
 lawgarrido.filesusr.com
 lawgiver-acquisitio.000webhostapp.com
@@ -270545,6 +270538,7 @@ lombiaservi.bancocol.repl.co
 lomehuajskley-81901morksanshey19s.duckdns.org
 lomejordesalamanca.es
 lomentos7tri.ru
+lomeqpe.com
 lomeshdave.com
 lomginr0nfficial0nlinestiem3yui1nimessoftsi.cf
 lomginr0nfficial0nlinestiem3yui1nimessoftsi.gq
@@ -281482,6 +281476,7 @@ mandanu-iz1k.vercel.app
 mandapsoflondon.co.uk
 mandar123454.github.io
 mandarin.lasalsamilonga.info
+mandarin.net.au
 mandarin20828374.brizy.site
 mandarin6946768.brizy.site
 mandarria5daleeeee.000webhostapp.com
@@ -292864,6 +292859,7 @@ metrics.brightcove.com
 metrics.client-eng.a2z.com
 metrics.fedex.com
 metrics.fidelity.com.edgekey.net
+metrics.gocloudmaps.com
 metrics.hackerrank.com.edgekey.net
 metrics.icloud.com
 metrics.kmsmep.com
@@ -314290,6 +314286,7 @@ nodelet-coreless.com
 nodelive.sbs
 nodelman.org
 nodemainnet.pages.dev
+nodemetrics3379.com
 nodeny.targetspot.com
 nodep-games.com
 nodepagedata.xyz
@@ -319870,6 +319867,7 @@ oilgasdieselgovoff.wixsite.com
 oilkmmzx.cf
 oilwykvrnr.duckdns.org
 oilymedication.cn
+oim.doganltd.com.tr
 oim.qjk.mybluehost.me
 oimos.com.mx
 oimszcofiqvmshvhwnrnyemtzwtmtfzbncvg-dot-cryptic-now-290917.ey.r.appspot.com
@@ -370088,7 +370086,6 @@ sabinayoga.top
 sabine.co.in
 sabineschippers.nl
 sabinternational.eu
-sablayan.seasonshotelmindoro.com
 sable-different-custard.glitch.me
 sable-difficult-cartwheel.glitch.me
 sable-interesting-bait.glitch.me
@@ -374024,6 +374021,7 @@ search.supplyframe.com
 search02-mobile.de
 search03-mobile.de
 searchhh-page.business-minagne.com
+seasquadshipping.com
 seavvicess.weebly.com
 seawayprintings.com
 sebastianidk.github.io
@@ -374801,6 +374799,7 @@ serasa-experian.webnode.page
 serasa.descomplica2025.store
 serasa2025.online
 serasalimpanomes.netlify.app
+serdaregitim.com
 serdtfngbfv3.pages.dev
 seren-arch.pages.dev
 serene-hertz.34-125-197-109.plesk.page
@@ -376313,6 +376312,7 @@ smileybins.co.ke
 smiteattacekr.org
 smkalbasyariyahpkc.sch.id
 smmcj.pages.dev
+smmnet.store
 smmpush.com
 smnedc.webwave.dev
 smogtokenfix.pages.dev
@@ -384000,7 +384000,6 @@ tricazo.com
 tricky-choice-692439.framer.app
 trieezrwaashr.webflow.io
 triezooiostart.webflow.io
-triflackcom.com
 triforma.com.ar
 triggers.wfxtriggers.com
 trigondigital.in
@@ -384128,6 +384127,7 @@ trsezoriostartcd.webflow.io
 trsfsdezorwallet.webflow.io
 trsoriiostarrt.webflow.io
 trstart-trezur.webflow.io
+trtmyanmar.com
 trtrezohardwarwait.webflow.io
 trtsisskj.registid.com
 trturksars.click
@@ -384137,7 +384137,6 @@ trud-meta-flen-biz.pages.dev
 true-center-527250.framer.app
 trueawsclicknetappread.hosted.phplist.com
 truebellcapital.com.au
-trueinggrik.com
 trueizoraasallet.webflow.io
 truewarstoriespodcast.com
 truex.com
@@ -391059,15 +391058,16 @@ www.drgenov.com
 www.exoduswallet.at
 www.first-security-verden.de
 www.geoplugin.net
+www.gestroom.it
 www.google-analytics.com
 www.googleadservices.com
 www.hostingcloud.science
 www.hqsblog.com
-www.hseda.com
 www.intelligradeeducation.vicentecisnerospub.com
 www.jozefinskiatelje.si
 www.kenwillzltd.com
 www.khavar.com
+www.knockknock.top
 www.konsor.ru
 www.leanplum.com
 www.lightboxcdn.com
@@ -391093,6 +391093,7 @@ www.srmdata-us.com
 www.srmdata.com
 www.ss-01.com
 www.starcountry.net
+www.steamrub.com
 www.storygize.net
 www.stratagemzw.com
 www.summerhamster.com
@@ -391111,6 +391112,7 @@ www.website.mypetapp.co.za
 www.xn--on3b15m2lco2u.com
 www.zamilgroups.com
 www.zergnet.com
+www.zhikey.com
 www3-vpass-jp.dgxhcd.com
 www3-vpass-jp.hjfang.com
 www3-vpass-jp.huamai888.com
@@ -392284,7 +392286,6 @@ zharo.icikiwirmas.com.rtxt.topup-center.com
 zhbhcmvraebwagfybs1pbnquy29t.directsmailsolution.com
 zhelp-supports.business-minagne.com
 zhh08b3.wixsite.com
-zhigao5191.com
 zhiyang-edu.cn
 zhnetwork.cn
 zhnwvyuwtc.duckdns.org
