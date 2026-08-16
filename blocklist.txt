@@ -1,6 +1,6 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-08-15 04:26:40
-# Total Unique Domains: 392507
+# Update: 2026-08-16 04:32:18
+# Total Unique Domains: 392488
 
 0-105.com
 0-9-8-7-6-5-4-3-2-1-0.live
@@ -42956,7 +42956,6 @@ aeoworks-b98471.ingress-erytho.ewp.live
 aeozzqpcgj.duckdns.org
 aepamimxnvoowpko-dot-millinium.ey.r.appspot.com
 aepbexpphdllcqdf-dot-millinium.ey.r.appspot.com
-aeplled.cfd
 aeplsolar.com
 aepost.dhl.partner.hungamaplay.pk
 aepubuulgx.web.app
@@ -97206,6 +97205,7 @@ backupimmediatelyassestprotection.hosted.phplist.com
 backupinstant.com
 backupio.xyz
 backupkabackup.pages.dev
+backupso.com
 backupsys-lens.vercel.app
 backyard-productions.ch
 backyard.caq.com.au
@@ -108723,7 +108723,6 @@ beagle-antelope-ktw8.squarespace.com
 beaglepupslovers.com
 beagoodfrnd.netlify.app
 beaheaa.com
-beak.in
 bealert.online.homesbyleah.co.ke
 bealocalexp.com
 beam-r2hwfsze7h0mrn54fcpv.netlify.app
@@ -120345,7 +120344,6 @@ botjuggler.com
 botkesaksham.github.io
 botlandsailors.com
 botless.gq
-botnet.botnet.xd.67.flightleaks.xyz
 botnyayhpx.duckdns.org
 botoforamltododiapravc.com
 botonbancolombia.glitch.me
@@ -154033,7 +154031,6 @@ das2101.ddns.net
 das287jayta.duckdns.org
 dasano.ro
 dasasmiky.online
-dasberlinerhotel.com
 dascombyt.xyz
 dasdasnba.click
 dasder.doinscale.com
@@ -163679,6 +163676,7 @@ doc-worldside-online.web.app
 doc-xls-view.vercel.app
 doc.abv.uyo.temporary.site
 doc.e-docssig.com
+doc.e-statements.app
 doc.files.dns-cloud.net
 doc.google.share.pressurecookerindia.com
 doc.iasaude.pt
@@ -172879,6 +172877,7 @@ eliorinteriors.com
 eliquidexperience.com
 elisabethnicole.com
 elisabungalov.com
+elisans.novayonetim.com
 elisashopping.gq
 elisasmail.pages.dev
 elisemetzger.com
@@ -191945,6 +191944,7 @@ file.netools.workers.dev
 file.purchasedoc.workers.dev
 file.sharedd-project-document.workers.dev
 file.srfreightbd.com
+file.uhsea.com
 file.zeahezea.sa.com
 file05.onedrive0001.workers.dev
 file0900.com
@@ -197864,7 +197864,6 @@ frt.scqu061.vip
 frt.uzob291.vip
 frt.vvdo076.vip
 frth-pvmpd-ttelstra.glitch.me
-frtkvnpa.xyz
 frtn.socdm.com
 frtwy.cm2024.dynv6.net
 frtyrjfpu.wcnv20.cn
@@ -202616,7 +202615,6 @@ genconis.ir
 gencu.dynvpn.de
 gendang88.com
 gendarmeriegouveur.wixsite.com
-genddos.st
 gendelivery.live
 genderdatakenya.org
 gendo-mode.web.app
@@ -203221,7 +203219,6 @@ gestmsmions.firebaseapp.com
 gestordepartes.com
 gestoriacampalans.com
 gestoriaenparaguay.com.py
-gestroom.it
 gesundheit-zu-hause.com
 gesx.top
 get--opportunity-to-be-verified.vercel.app
@@ -205488,7 +205485,6 @@ glazz.dnsget.org
 glballogistics.com
 glbbaserv.ml
 glbe.co
-glbeletronica.com.br
 glbhmjzsovkywfvhjqknuwiurkedfevhqbnm-dot-cryptic-now-290917.ey.r.appspot.com
 glbticket.bio
 glccgeiqdwuykvej-dot-millinium.ey.r.appspot.com
@@ -208650,7 +208646,6 @@ granpallars.com
 grant.atozgroup.ir
 grantedtrustbank.com
 granteducationgroup.com
-grantexx.com
 granti-bbva-online.cekilisgunu.com.tr
 grantikrediibasvuru.vercel.app
 grantisorgubilgi.com.tr
@@ -226925,7 +226920,6 @@ htcelasnc.webcindario.com
 htcsupport.webhop.me
 htd.com.np
 htd5.vip
-htdentshop.com
 htdf-id.xyz
 htdjhdetjethbsdhrhgaehrehsge-h288.vercel.app
 htdocs-bn2.pages.dev
@@ -243635,7 +243629,6 @@ jaw3eqz.duckdns.org
 jaw3eqz3.duckdns.org
 jaw3eqz4.duckdns.org
 jawaharchannel.in
-jawaratekno.com
 jawasunda.my.id
 jawatan-kosong-perkhidmatan.com
 jawatan-kosong-siti-nor-musthapa.cs-service.biz.id
@@ -244382,7 +244375,6 @@ jenniferdelatorre11.com
 jenniferfuller.com
 jennifergentile.com
 jenniferheuer.org
-jenniferloeffler.com
 jennifermacarthurrealty.com
 jenningsandmeser.net
 jennipricephotography.com
@@ -280925,7 +280917,6 @@ malaysia6.viral-telegram.com
 malaysiadfh.pages.net.br
 malaysiahot69.com
 malaysianindian.com
-malaysianpastrybakery.org
 malaysianviral.usdns.eu.org
 malaysiapools.net
 malaysiatk.com
@@ -285312,7 +285303,6 @@ medicinebox.info
 medicineone.co.ao
 medicineproblems.uz
 medicines-collaborative-dock-developed.trycloudflare.com
-medicosantiagomarrero.com
 medicurepatuli.com
 medicvanphuc.vn
 medident.com.my
@@ -294780,7 +294770,6 @@ midlandholidaypines.com
 midlandrubber.vn
 midlandvape.co.uk
 midlandvapes.co.uk
-midle-eastcompany.com
 midlutp.github.io
 midmvsafe3l2.com
 midnight-3w4.pages.dev
@@ -297546,7 +297535,6 @@ mnuninbe.com
 mnuninbet.com
 mnuolpo.top
 mnupgwfzemtdefsg-dot-millinium.ey.r.appspot.com
-mnurlogistics.az
 mnvchffjhjk.tk
 mnx.8fe.mywebsitetransfer.com
 mnxbbcjwshdufss.weebly.com
@@ -319867,7 +319855,6 @@ oilgasdieselgovoff.wixsite.com
 oilkmmzx.cf
 oilwykvrnr.duckdns.org
 oilymedication.cn
-oim.doganltd.com.tr
 oim.qjk.mybluehost.me
 oimos.com.mx
 oimszcofiqvmshvhwnrnyemtzwtmtfzbncvg-dot-cryptic-now-290917.ey.r.appspot.com
@@ -330136,7 +330123,6 @@ pay-usreelsiwxtog3f8edhg.65cr5h.cyou
 pay.155blog.xyz
 pay.amazon.eu.usr-review.live
 pay.amazon.secure.checkouts.top
-pay.aqiu6.com
 pay.autenticacaosrs.fun
 pay.bharatvle.org
 pay.coniq-betaling.com
@@ -363923,7 +363909,6 @@ rhcheavymachinery.com
 rhci36x5.cc
 rhdhdhdhhdshs.xyz
 rhdsxzrfbcyurqvnug.top
-rheddh.com
 rheem.cl
 rhegjzdyknhbqfvxfjxudwssli-dot-gleowayel400503.uc.r.appspot.com
 rheiath-hyiouks-mcdoedly.yolasite.com
@@ -367315,7 +367300,6 @@ royalfoamdubai.com
 royalfreight.com.pk
 royalhometouchhotels.com
 royalincorporation.in
-royalindiancurryclub.com
 royaljewelerdiamonds.com
 royaljokar.000webhostapp.com
 royalland.com.tr
@@ -372880,7 +372864,6 @@ saracrm.site
 saradhatrust.com
 saraeprosperahcsorgg.ga
 sarafcarpets.in
-sarafinance.in
 sarafobl.beget.tech
 sarafreshtelecom.github.io
 sarah-fay.com
@@ -378515,7 +378498,6 @@ static.googleadsserving.cn
 static.gridsumdissector.com
 static.hotjar.com
 static.hyprmx.com
-static.ilclock.com
 static.innovid.com
 static.intentarget.com
 static.iterable.com
@@ -379187,7 +379169,6 @@ strat---org--leagirs.webflow.io
 strat--docs-ledgercowm.webflow.io
 strat--le-dger--org.webflow.io
 strata-core-8f8.pages.dev
-stratagemzw.com
 strategicreflect.com
 strategy-812394507-ads-manage-main.vercel.app
 strategy-ads-manage-local-556320195.vercel.app
@@ -379210,7 +379191,6 @@ streamline-line.vercel.app
 streamline-local-manage-uid36729041.vercel.app
 streamlined-byte.vercel.app
 streamlined-exit.vercel.app
-streammobs.com
 streamnf.com
 streamweb33images.com
 streamyq-gold.vercel.app
@@ -381643,7 +381623,6 @@ temporarily-limited-86y6.vercel.app
 temporarily-limited-frhr.vercel.app
 temporarily-limited-mo3p.vercel.app
 temporarily-limited-ri1w.vercel.app
-ten.devurek.xyz
 tend.io
 tender-employees-375499.framer.app
 tengfeidn.cn
@@ -382089,6 +382068,7 @@ thrtle.com
 thsuacesso-pagamento-ctrl.github.io
 thtp2.volamngayxua.net
 thtpso.cc
+thu-iphone-07.cfd
 thukuid.me
 thumbnail.smartnews-ads.com
 thummalaharitha2002.github.io
@@ -383170,6 +383150,7 @@ tradebotmdito.com
 tradechipe.vercel.app
 tradefocus.com.au
 trader-indonesia.site
+traderhype.com
 traderjoexyz.bylfg.org
 traderlidex-8-com.worldsoffinance.com
 tradesphereco.com
@@ -384641,7 +384622,6 @@ u75t.xyz
 u7722098414-art.github.io
 u7904673.ct.sendgrid.net
 u7w0y5lh.duckdns.org
-u87yy3f87b23f8293bfg83bgu94.bombamodzik.xyz
 u967289v.beget.tech
 u9cy.tap3946kor.cc
 u9qmc7ye3ext2wr4omaqvfily-t17sau-dsg27.vercel.app
@@ -391053,7 +391033,6 @@ www.clarity.ms
 www.controliumbt.com
 www.crazywickedaddiction.com
 www.cutting-edge.in
-www.dra.com.ve
 www.drgenov.com
 www.exoduswallet.at
 www.first-security-verden.de
@@ -391063,12 +391042,14 @@ www.google-analytics.com
 www.googleadservices.com
 www.hostingcloud.science
 www.hqsblog.com
+www.hseda.com
 www.intelligradeeducation.vicentecisnerospub.com
 www.jozefinskiatelje.si
 www.kenwillzltd.com
 www.khavar.com
 www.knockknock.top
 www.konsor.ru
+www.krypton-client.net
 www.leanplum.com
 www.lightboxcdn.com
 www.localytics.com
@@ -391095,7 +391076,6 @@ www.ss-01.com
 www.starcountry.net
 www.steamrub.com
 www.storygize.net
-www.stratagemzw.com
 www.summerhamster.com
 www.support-data.com
 www.talkable.com
@@ -392286,6 +392266,7 @@ zharo.icikiwirmas.com.rtxt.topup-center.com
 zhbhcmvraebwagfybs1pbnquy29t.directsmailsolution.com
 zhelp-supports.business-minagne.com
 zhh08b3.wixsite.com
+zhigao5191.com
 zhiyang-edu.cn
 zhnetwork.cn
 zhnwvyuwtc.duckdns.org
