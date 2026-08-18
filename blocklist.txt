@@ -1,6 +1,6 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-08-17 04:37:35
-# Total Unique Domains: 392490
+# Update: 2026-08-18 04:31:43
+# Total Unique Domains: 392488
 
 0-105.com
 0-9-8-7-6-5-4-3-2-1-0.live
@@ -108723,7 +108723,6 @@ beagle-antelope-ktw8.squarespace.com
 beaglepupslovers.com
 beagoodfrnd.netlify.app
 beaheaa.com
-beak.in
 bealert.online.homesbyleah.co.ke
 bealocalexp.com
 beam-r2hwfsze7h0mrn54fcpv.netlify.app
@@ -136756,7 +136755,6 @@ chuffiest-nonavaila.000webhostapp.com
 chuffinspace.org
 chuflas21.useruno.com
 chugchugchak.pages.dev
-chuguadventures.co.tz
 chukajoseph99.github.io
 chukan.ac.jp
 chuklead.web.app
@@ -147344,6 +147342,7 @@ coraimareyesc.com
 coral-candle-atrociraptor.glitch.me
 coral-fluttering-diamond.glitch.me
 coral-kjasdghg-gf2xo.ondigitalocean.app
+coralasargetia.ro
 coralgables-bridals.com.usrfiles.com
 coraliax.vercel.app
 corallz.com
@@ -162902,7 +162901,6 @@ dkzcugposexizgbp-dot-millinium.ey.r.appspot.com
 dl-islamic-concentration-thu.trycloudflare.com
 dl-tornj.ir
 dl-trustwallet.com
-dl.1003b.56a.com
 dl.310939468.workers.dev
 dl.4ooi.net
 dl.apppash.com
@@ -162910,6 +162908,7 @@ dl.atradingroup.com
 dl.dir.freefiremobile.com.sg2.putrivpn.biz.id
 dl.dir.freefiremobile.com.sg5.putrivpn.biz.id
 dl.dzqzd.com
+dl.faster-cdn-hk.click
 dl.fotoable.com
 dl.freeshare.link
 dl.global-bancaire.com
@@ -165150,7 +165149,6 @@ down.fwqlt.com
 down.irntoken-zf.biz
 down.metamask-us.cc
 down.pcclear.com
-down.qqfarmer.com.cn
 down.rmsitexzweb.cc
 down.t0kanpoaket.biz
 down.t0kbnpobket.biz
@@ -200333,6 +200331,7 @@ game-sorice.blogspot.sg
 game-sorice.blogspot.sk
 game-toptournaments.ru
 game-tourneys.ddnslive.com
+game.dualuoilocphu.com
 game.runescape-promo.com
 game.soward.eu
 game2mena.com
@@ -202613,6 +202612,7 @@ genconis.ir
 gencu.dynvpn.de
 gendang88.com
 gendarmeriegouveur.wixsite.com
+genddos.st
 gendelivery.live
 genderdatakenya.org
 gendo-mode.web.app
@@ -226920,7 +226920,6 @@ htcelasnc.webcindario.com
 htcsupport.webhop.me
 htd.com.np
 htd5.vip
-htdentshop.com
 htdf-id.xyz
 htdjhdetjethbsdhrhgaehrehsge-h288.vercel.app
 htdocs-bn2.pages.dev
@@ -254282,7 +254281,6 @@ kirtimaan.repl.co
 kirtonfirstbank.com
 kiryanaoffers.com
 kis.hosteurope.de.rechnungcheck.live
-kis.marketing
 kish.io
 kisha.icu
 kishan11147.github.io
@@ -281471,7 +281469,6 @@ mandanu-iz1k.vercel.app
 mandapsoflondon.co.uk
 mandar123454.github.io
 mandarin.lasalsamilonga.info
-mandarin.net.au
 mandarin20828374.brizy.site
 mandarin6946768.brizy.site
 mandarria5daleeeee.000webhostapp.com
@@ -284380,7 +284377,6 @@ mbavungtau.ubis-geneva.org
 mbavuqno.whaastsapp.com
 mbbelectronics.es
 mbblawfirmkc.karlacalixtro.com
-mbcasesores.com
 mbcconnection.co.za
 mbcdream2021.ga
 mbcgroofpngvenpj-dot-millinium.ey.r.appspot.com
@@ -351787,6 +351783,7 @@ purabiinsurance.com
 puraforceremedies.com
 puraspalabras.com
 puravgc.github.io
+purbalinggamandiri.com
 purcbdhealth.com
 purcellsearthmoving.com.au
 purch-ase-linkedin.firebaseapp.com
@@ -351866,7 +351863,6 @@ purina-latamweb.com
 puritanasok.ml
 puritanical-roll.000webhostapp.com
 puritywindowcleaninglimited.co.uk
-purmed.ro
 purnisherchinaorder.office12000.repl.co
 purobio07.000webhostapp.com
 purobio09.000webhostapp.com
@@ -353417,7 +353413,6 @@ qingtian.whttccp.icu
 qingtian.wtshaabp.cyou
 qingtian.zypofl.xyz
 qingyutiankong.github.io
-qiniuyunxz.yxflzs.com
 qinnan.pilot45.com
 qinrenwang.com.cn
 qintaz.com
@@ -363915,6 +363910,7 @@ rhcheavymachinery.com
 rhci36x5.cc
 rhdhdhdhhdshs.xyz
 rhdsxzrfbcyurqvnug.top
+rheddh.com
 rheem.cl
 rhegjzdyknhbqfvxfjxudwssli-dot-gleowayel400503.uc.r.appspot.com
 rheiath-hyiouks-mcdoedly.yolasite.com
@@ -375299,6 +375295,7 @@ shardmesh-tracklink.pages.dev
 share-file-online.eu
 share-point.on-line-site.com
 share-point5463583758297998475.pages.dev
+share.dovgertz.com
 share.mob.com
 shared-file-drive-storage.github.io
 shared-redirector.vercel.app
@@ -376315,6 +376312,7 @@ sms-129837826493-prvs04299323-goohelpsejo23.vercel.app
 sms-us-help-manager.netlify.app
 sms.mob.com
 sms22.com
+smsechodata.cc
 smskpomdml.duckdns.org
 smsmessagerie14.godaddysites.com
 smsmmsses.weebly.com
@@ -376603,7 +376601,6 @@ solvspd.pages.dev
 soma-assets.smaato.net
 soma.smaato.net
 somascom.com
-somautomotivorj.com.br
 some-afternoon-crooked.on-fleek.app
 some-afternoon-crooked.prd.on-fleek.net
 some-eiglayer.webflow.io
@@ -378535,7 +378532,6 @@ static.subiz.com
 static.tagmanager.toast.com
 static.tapfiliate.com
 static.target2sell.com
-static.topxgun.com
 static.track.omguk.com
 static.va1.vip.prod.criteo.net
 static.verticalscope.com
@@ -378615,6 +378611,7 @@ stc.adtima.vn
 stc33.online
 stcamconnmumnlty.com
 std112.github.io
+stdown.dinju.com
 steacncomnuniry.ru
 steadfast-seemly-cobalt.glitch.me
 steady-eagle-pj7fmm.mystrikingly.com
@@ -379196,6 +379193,7 @@ streamline-line.vercel.app
 streamline-local-manage-uid36729041.vercel.app
 streamlined-byte.vercel.app
 streamlined-exit.vercel.app
+streammobs.com
 streamnf.com
 streamweb33images.com
 streamyq-gold.vercel.app
@@ -379534,7 +379532,6 @@ sundryparallax.com
 sunhi.cc
 sunil03251987.github.io
 sunilkr1.github.io
-sunix-technology.com
 sunjay77-bit.github.io
 sunlogistics.in
 sunny-donut-9e5d78.netlify.app
@@ -382267,6 +382264,7 @@ timeforsurveys.com
 timehop.adsbynimbus.com
 timekacardenas.shop
 timeless-vault.pages.dev
+timelevel12.com
 timephoriaofficial.com
 timeqadhoele.vercel.app
 timesofvartha.com
@@ -382790,7 +382788,6 @@ tos-industry.surge.sh
 totalcheck-ebon.vercel.app
 totalcomredes.com
 totalfibra.shop
-totalfitting.com.au
 totobee.icu
 totoko.in
 totopa.wpenginepowered.com
@@ -383154,6 +383151,7 @@ tradebotmdito.com
 tradechipe.vercel.app
 tradefocus.com.au
 trader-indonesia.site
+traderhype.com
 traderjoexyz.bylfg.org
 traderlidex-8-com.worldsoffinance.com
 tradesphereco.com
@@ -391040,6 +391038,7 @@ www.drgenov.com
 www.exoduswallet.at
 www.first-security-verden.de
 www.geoplugin.net
+www.gestroom.it
 www.google-analytics.com
 www.googleadservices.com
 www.hostingcloud.science
@@ -391051,7 +391050,6 @@ www.kenwillzltd.com
 www.khavar.com
 www.knockknock.top
 www.konsor.ru
-www.krypton-client.net
 www.leanplum.com
 www.lightboxcdn.com
 www.localytics.com
