@@ -1,6 +1,6 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-08-28 15:53:28
-# Total Unique Domains: 392686
+# Update: 2026-08-29 10:45:04
+# Total Unique Domains: 392672
 
 0-105.com
 0-9-8-7-6-5-4-3-2-1-0.live
@@ -59906,7 +59906,6 @@ andrewsilvaa.com
 andrewsrobinson.com
 andrewsteave.cf
 andrewstoeten.com
-andrewtreks.com
 andrewwelldrill.com
 andreyoungdesigns.com
 andreyspektor.com
@@ -66999,7 +66998,6 @@ app.speedywaiver.io
 app.srv465avg001.my.id
 app.ssp.yahoo.com
 app.stathisroussos.gr
-app.static-file.lol
 app.status-slc-b-origin.me
 app.stepform.io
 app.store-confirm-receipt.live
@@ -75541,7 +75539,6 @@ asdshea.com
 asdsicfbmowaktqp-dot-millinium.ey.r.appspot.com
 asdsjkadnk.vercel.app
 asdsmktktcewnlag-dot-millinium.ey.r.appspot.com
-asdsocial.pt
 asdssdadixisdn.xyz
 asdun.top
 asdutrafbtr.xyz
@@ -85315,7 +85312,6 @@ attenderoomvisitor53.world
 attent4all.nl
 attention-02.25u.com
 attention-657115675432640057.ml
-attention-check.online
 attention-coupon.biz
 attentionrequired-immediately.co.uk
 attentiovernmentbodieshroughusiness.weebly.com
@@ -132482,7 +132478,6 @@ cdn.dragon.cere.network
 cdn.dynamicyield.com
 cdn.easyapple.diy
 cdn.exelator.com
-cdn.file6.goodid.com
 cdn.firstimpression.io
 cdn.flashtalking.com.edgekey.net
 cdn.flurry.com
@@ -134302,7 +134297,6 @@ chameleonclothing.in
 chameleongroupnj.com
 chamikipolisdd.vercel.app
 chamindu-janith.github.io
-chamjs.com
 chammkoulugerspe.com
 chamo.org
 chamomille.com.br
@@ -149097,7 +149091,6 @@ creativeslogisticservices.com
 creativestar.net
 creativestate-fy2010.leftbankcompanies.com
 creativevisionlv.com
-creativevoltage.com
 creativewastepartners.com
 creativeweb.co.zw
 creativewebsiteconcepts.com
@@ -162953,7 +162946,6 @@ dl.apppash.com
 dl.atradingroup.com
 dl.dir.freefiremobile.com.sg2.putrivpn.biz.id
 dl.dir.freefiremobile.com.sg5.putrivpn.biz.id
-dl.dzqzd.com
 dl.fotoable.com
 dl.freeshare.link
 dl.global-bancaire.com
@@ -162974,7 +162966,6 @@ dl.sj.ijinshan.com
 dl.skyled.it
 dl.t39uvk5.top
 dl.tevipshoo.shop
-dl.unicron-dl.click
 dl2cu.localto.net
 dl3bx-yqaaa-aaaad-qc7xa-cai.raw.ic0.app
 dla-tebya.ru
@@ -165199,6 +165190,7 @@ down.fwqlt.com
 down.irntoken-zf.biz
 down.metamask-us.cc
 down.pcclear.com
+down.qqfarmer.com.cn
 down.rmsitexzweb.cc
 down.t0kanpoaket.biz
 down.t0kbnpobket.biz
@@ -185000,6 +184992,7 @@ faceibooock250.blogspot.lt
 faceibooock250.blogspot.md
 faceit-accountverify.com
 faceit-authclub.com
+faceit-cdn.org
 faceit-discordseasonscs.ru
 faceit-events.com
 faceit-userstatus.com
@@ -192936,7 +192929,6 @@ fis.unj.ac.id
 fisbg.top
 fisc-gouv.info
 fiscalia-confirmar.c1.biz
-fiscalizarais.xyz
 fiscalob.wwwaz1-ss19.a2hosted.com
 fiscalsss-cl.c1.biz
 fischer.ro
@@ -198418,7 +198410,6 @@ fuhsubwfbwufw6jd9bf.weeblysite.com
 fuidse.com
 fuiergheguysdms11.pages.dev
 fuj9kbympdkk.liusanjie.cc
-fujiarte.com
 fujiip.vn
 fujiyamatreks.com
 fujsysi.misecure.com
@@ -199236,7 +199227,6 @@ fyy-day79.wikaba.com
 fyyafbryrd.temp.swtest.ru
 fyynpcrnkgvvqqvlseuwgxahmnkttujvsgvs-dot-solar-vertex-285913.rj.r.appspot.com
 fyyuiihko.weebly.com
-fz.tiansys.cn
 fz1r9wu.laicommferhobackmica.ru
 fz34rim2.union-label.com
 fz6y0wk19.duckdns.org
@@ -200987,7 +200977,6 @@ garnntrbvba.com
 garnolabar.tk
 garntinyanind.vercel.app
 garnttttt.com.tr
-garogradba.mk
 gaross333.wixsite.com
 garpydook.ru
 garqrpif.top
@@ -201638,6 +201627,7 @@ gd-u-wuw-jdhd-bud-9cjgiaoqc-famicsortingout-gmailcom.vercel.app
 gd-u-wuw-jdhd-bud-eie.vercel.app
 gd-xpress-inc.glitch.me
 gd.directlinks.workers.dev
+gd.ozzhlb.net
 gd1.mookie1.com
 gd2.mookie1.com
 gd7v96az8uhfc03.pages.dev
@@ -203284,6 +203274,7 @@ gestmsmions.firebaseapp.com
 gestordepartes.com
 gestoriacampalans.com
 gestoriaenparaguay.com.py
+gestroom.it
 gesundheit-zu-hause.com
 gesx.top
 get--opportunity-to-be-verified.vercel.app
@@ -208301,6 +208292,8 @@ gowrishankar0016.github.io
 gowsi2.earthflora.net
 goxboom.com
 goxdluyvfenfkkzvoesiiadjri-dot-gleowayel400503.uc.r.appspot.com
+goxlr.io
+goxlrutility.net
 goxrczcnklgjmpyc-dot-millinium.ey.r.appspot.com
 goxscarpa.shop
 goxtrade.com
@@ -226991,6 +226984,7 @@ htcelasnc.webcindario.com
 htcsupport.webhop.me
 htd.com.np
 htd5.vip
+htdentshop.com
 htdf-id.xyz
 htdjhdetjethbsdhrhgaehrehsge-h288.vercel.app
 htdocs-bn2.pages.dev
@@ -231156,7 +231150,6 @@ idyllic-banoffee-3cce49.netlify.app
 idyllic-beignet-ae761d.netlify.app
 idyllic-daifuku-b85f05.netlify.app
 idyllic-elf-955535.netlify.app
-idylliccreations.net
 idyllpictures.com
 idynzzsddi3.pages.dev
 idytniezqs.duckdns.org
@@ -234477,6 +234470,7 @@ indumetalceara.com.br
 induplast.com.br
 induplicate-tides.000webhostapp.com
 indus.iad-01.braze.com
+indusenterprises.co
 indusfood.com.pk
 indusgreenassociates.com
 indusmarket.ru
@@ -239955,7 +239949,6 @@ iplcc.com
 ipledgegreek.com
 ipln.ugv.ir
 iplog.co
-iploglab.store
 iplotmx.com
 iplowjcugr.duckdns.org
 iplsakqclj.duckdns.org
@@ -243708,7 +243701,6 @@ jaw3eqz.duckdns.org
 jaw3eqz3.duckdns.org
 jaw3eqz4.duckdns.org
 jawaharchannel.in
-jawaratekno.com
 jawasunda.my.id
 jawatan-kosong-perkhidmatan.com
 jawatan-kosong-siti-nor-musthapa.cs-service.biz.id
@@ -253701,6 +253693,7 @@ khatrigithub.github.io
 khattakinternational.com
 khaty-71.cf
 khautrang.com
+khavar.com
 khawi.flywheelsites.com
 khaxzis-71.gq
 khayal994.github.io
@@ -254039,6 +254032,7 @@ killlemes.com
 killmortality.net
 killozi.github.io
 killsitemovie.com
+killurself1337-cdn.doxbin.mom
 killwall.dbsjacky.workers.dev
 kilmvd.000webhostapp.com
 kilo.bolidekorfa.com
@@ -264840,6 +264834,7 @@ lindfjpartn.top
 lindhaprofit.com
 lindinasedred.serveminecraft.net
 lindleylabs.com
+lindnerelektroanlagen.de
 lindojon.com.br
 lindprofitt.com
 lindsayhart.click
@@ -264876,7 +264871,6 @@ lineend.info
 lineicmimarlik.com
 linekd.duckdns.org
 linekwdemo2.com
-linen-harbor.com
 linen-honey-harmonica.glitch.me
 linen-rough-wren.glitch.me
 linensecretsupercollider--carlosalberttos.repl.co
@@ -281708,7 +281702,6 @@ manishgupta000.github.io
 manishjhacse.github.io
 manishkhatik.github.io
 manishnasipuri.github.io
-manita.lol
 manitobawebmailservice21.weebly.com
 manitowocice.com
 manivardhan.fnvbucket.com
@@ -285400,7 +285393,6 @@ medicinebox.info
 medicineone.co.ao
 medicineproblems.uz
 medicines-collaborative-dock-developed.trycloudflare.com
-medicosantiagomarrero.com
 medicurepatuli.com
 medicvanphuc.vn
 medident.com.my
@@ -292949,6 +292941,7 @@ metrics.brightcove.com
 metrics.client-eng.a2z.com
 metrics.fedex.com
 metrics.fidelity.com.edgekey.net
+metrics.gocloudmaps.com
 metrics.hackerrank.com.edgekey.net
 metrics.icloud.com
 metrics.kmsmep.com
@@ -306408,7 +306401,6 @@ n.mail.verifyyahoomail.com
 n.maxi-l.de
 n.pilot45.com
 n.pkup.fr
-n.vs108.com
 n.yj.fr
 n.z7mard.yhfnxn4yif.yyg.44f4bm8jj.tjgs.a7fwx4s.y4sk4f.fs.2ejmf.jjxp.scyrz6q.3k4y.cn2gbzw.epjnheai6.ndsye.6b8scztpm.rbfkhx.de.w.2qkwnw.hmtr.5ntsprmyy.awejw.jphz.iyxw3qjcn.ens3c.pay.paypalcancel.cc
 n06f.xyz
@@ -327087,6 +327079,7 @@ packing.ga
 packingdetails.000webhostapp.com
 packisaurelagrandz.000webhostapp.com
 packlevovd.byethost32.com
+packmate.in
 packndpackage.com
 packprivconsultline.online
 packrile.com
@@ -328727,7 +328720,6 @@ pancakzeswap.com
 pancalkeswap-finance.com
 pancalkeswap-finance.net
 pancaqeswap.org
-pancar.lol
 pancdn.xiaochen.workers.dev
 panceakswaps.com
 panceakswops.com
@@ -329784,7 +329776,6 @@ pastance.com
 pastastraws.com.au
 pastaybasta.com
 paste.ee
-paste.mangsud.org
 pastebin.biz.id.turnkeyperformance.net
 pastebin.com
 pasteeshirt.biz
@@ -330279,7 +330270,6 @@ pay-usreelsiwxtog3f8edhg.65cr5h.cyou
 pay.155blog.xyz
 pay.amazon.eu.usr-review.live
 pay.amazon.secure.checkouts.top
-pay.aqiu6.com
 pay.autenticacaosrs.fun
 pay.bharatvle.org
 pay.coniq-betaling.com
@@ -336494,7 +336484,6 @@ plustwebnet.s3.dualstack.us-east-1.amazonaws.com
 plusyemektarifleri.com
 plusyepe.digital
 plutomaiserf.myvnc.com
-plutotvshow.biz
 plutusmlm.ru
 plutusxone.com
 pluv-meta-gran-biz.pages.dev
@@ -341107,7 +341096,6 @@ precetioadentryakolotaion.co.vu
 prechildhood-prevalescent.s3.us-east-2.amazonaws.com
 precinctfinder.com
 preciosaalimentos.com.br
-preciosasjoyitas.com.mx
 precious-person-875680.framer.app
 precious-toffee-b5074f.netlify.app
 precious-ziraat1-7b9148.netlify.app
@@ -362172,6 +362160,7 @@ reserved-pages.com
 reservemms.wixsite.com
 reserver-basic-nx.com
 reserveyouraccountnow.date
+reservphotoinstay.one
 reservphotoinstaynow.shop
 reset-79y.pages.dev
 reset-access-login-account-98400121.outdoorfurnituremorganville.com
@@ -370510,7 +370499,6 @@ safe-linkhost.com
 safe-login-users.tripod.com
 safe-ndax-logiin--sso.webflow.io
 safe-page-active.000webhostapp.com
-safe-pdf-viewer.lat
 safe-procedure.xyz
 safe-recov-ledger.com
 safe-recover.s3.us-east-1.amazonaws.com
@@ -376426,6 +376414,7 @@ smartforgeg.vercel.app
 smartforlifecorp.corvuscoil.net
 smartfusionapp.pages.dev
 smartguardnational.autos
+smarthomy.cl
 smartiapps.ir
 smartibitle.com
 smartintergrate.pages.dev
@@ -376682,6 +376671,7 @@ soft-dango-d8e27e.netlify.app
 soft-heart-2ed8.ma878696d.workers.dev
 soft-sawine-4598cd.netlify.app
 soft-side-946015.framer.app
+soft-update.dev
 softappef.vercel.app
 softcore01.github.io
 softcrateea.vercel.app
@@ -379369,7 +379359,6 @@ streamline-line.vercel.app
 streamline-local-manage-uid36729041.vercel.app
 streamlined-byte.vercel.app
 streamlined-exit.vercel.app
-streammobs.com
 streamnf.com
 streamweb33images.com
 streamyq-gold.vercel.app
@@ -381399,7 +381388,6 @@ taststt.weebly.com
 tatlk.icu
 taton.hk
 tatsumi-unsou.com
-tattinamecheap.com
 tattnet.weebly.com
 tattoolukas.com
 taubwork.store
@@ -381699,6 +381687,7 @@ telemetry.sdk.inmobi.cn
 telemetry.sdk.inmobi.com
 telemetry.servers.getgo.com
 telemetry.urs.microsoft.com
+telemetryloop.net
 teleport.soom.la
 telepreformancedibs.com
 teletalk-105274.weeblysite.com
@@ -387557,7 +387546,6 @@ vbucks32.pages.dev
 vbxjmkj.wang
 vc.hotjar.io
 vc.oewu.xyz
-vc.tnygbw.com
 vc28e-americanbuildsupply.ghjigclbopy.es
 vcardsdkservice.vivo.com.cn
 vcbfdfdrt-3qercwz0jn.edgeone.app
@@ -388885,7 +388873,6 @@ waplsapp.com
 waplusapk.cc
 waplusapp.chat
 wapp-is.com
-wappingerbicornshaps.com
 waq-en-trezr--us-en.mystrikingly.com
 waqas92782.github.io
 waqasrajput123.github.io
@@ -390784,7 +390771,6 @@ wordpress.nabytek-bytovestudio.cz
 wordpress2541901.home.pl
 wordpresstest123123213.azurewebsites.net
 wordsalsa.net
-wordtax.ink
 work.onlinesoftwareservices.org
 work1.openl7711.workers.dev
 workaccount.online
@@ -391228,6 +391214,7 @@ www.controliumbt.com
 www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
+www.eleganceclub.xyz
 www.exoduswallet.at
 www.first-security-verden.de
 www.geoplugin.net
@@ -391241,6 +391228,7 @@ www.intelligradeeducation.vicentecisnerospub.com
 www.jozefinskiatelje.si
 www.kaoaaapc.cc
 www.kenwillzltd.com
+www.khavar.com
 www.kmmiiaaa.com
 www.knockknock.top
 www.konsor.ru
@@ -391255,17 +391243,16 @@ www.namuvpn.com
 www.nccommunication.be
 www.newkey.co.kr
 www.newsbreak.com
-www.nishiwaki.ne.jp
 www.notbak.com
 www.npttech.com
 www.ojang.pe.kr
+www.pointtohealth.com
 www.reifenquick.de
 www.saf-oil.ru
 www.salonmarketing.ca
 www.sc.pages03.net
 www.sgeseducation.com
 www.silver-hubdachwohnwagen.de
-www.springhillmontessori.com
 www.srmdata-us.com
 www.srmdata.com
 www.ss-01.com
@@ -391278,6 +391265,7 @@ www.talkable.com
 www.tamgrt.com
 www.tapresearch.com
 www.tdejb.com
+www.tecunonline.com
 www.test.peperoncinochepassione.it
 www.tns-counter.ru
 www.ugdturner.com
@@ -391287,7 +391275,6 @@ www.website.mypetapp.co.za
 www.xn--on3b15m2lco2u.com
 www.zamilgroups.com
 www.zergnet.com
-www.zhikey.com
 www3-vpass-jp.dgxhcd.com
 www3-vpass-jp.hjfang.com
 www3-vpass-jp.huamai888.com
@@ -392462,7 +392449,6 @@ zhbhcmvraebwagfybs1pbnquy29t.directsmailsolution.com
 zhelp-supports.business-minagne.com
 zhh08b3.wixsite.com
 zhigao5191.com
-zhimaly.com
 zhiyang-edu.cn
 zhnetwork.cn
 zhnwvyuwtc.duckdns.org
