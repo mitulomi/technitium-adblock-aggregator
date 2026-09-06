@@ -1,6 +1,6 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-09-05 08:02:05
-# Total Unique Domains: 392670
+# Update: 2026-09-06 08:20:33
+# Total Unique Domains: 392650
 
 0-105.com
 0-9-8-7-6-5-4-3-2-1-0.live
@@ -21628,7 +21628,6 @@
 6afe7890.lv163.com.cn
 6agidu9ij5mhxku18doz2up.qwo231sdx.club
 6ahdbuiabda.vercel.app
-6ak-tehnik.si
 6am8rid67tw.typeform.com
 6amn.com
 6aot.tap3411pl0.cc
@@ -27344,7 +27343,6 @@
 999-cwg.pages.dev
 999-kenyon-wrath-abroad.com
 999-sb.com
-999.34c9f78b4ef541baac4a6e84d4f832a7.lol
 999.360-insurance.com
 99900.icu
 99900000002.cloud
@@ -43130,7 +43128,6 @@ aether-vein.pages.dev
 aether-wall.pages.dev
 aetherinstalls.com
 aetherkid.com
-aetherone.su
 aethersms.com
 aethntwrk.com
 aetijlejxy.duckdns.org
@@ -119709,6 +119706,7 @@ booking.assistcenter.world
 booking.autodelivered.xyz
 booking.autoordered.xyz
 booking.autoorders.xyz
+booking.captcha-message-extranet.com
 booking.chlc3.com
 booking.clickers-safetidetaliz.info
 booking.com-31t.prop5253145.homes
@@ -132487,7 +132485,6 @@ cdn.dragon.cere.network
 cdn.dynamicyield.com
 cdn.easyapple.diy
 cdn.exelator.com
-cdn.file6.goodid.com
 cdn.firstimpression.io
 cdn.flashtalking.com.edgekey.net
 cdn.flurry.com
@@ -144482,7 +144479,6 @@ communication-500app.xyz
 communication-act.ddns.net
 communication-diary-thwart.vercel.app
 communication-ergo-additional-their.vercel.app
-communication-hub.vg
 communication-journal-stop.vercel.app
 communication-register-check.vercel.app
 communicationcenrale-ba5b01.ingress-daribow.ewp.live
@@ -150711,6 +150707,7 @@ curious-starship-6b5ec6.netlify.app
 curious-young-chance.glitch.me
 curl.ro
 curls.duckdns.org
+curlservice.com
 curly-augmentations.000webhostapp.com
 curly-band-5557.on.fleek.co
 curly-cell-0628.on.fleek.co
@@ -152021,7 +152018,6 @@ cyclestrader.ca
 cyclic-cheerful-act.glitch.me
 cyclic-plucky-course.glitch.me
 cyclicslot.com
-cyclograph.xyz
 cyclopean-margins.000webhostapp.com
 cyclopedical-periodontosis-settima.s3.us-south.cloud-object-storage.appdomain.cloud
 cyclopsvalidate.live
@@ -155383,7 +155379,6 @@ dcutest.com
 dcv.pages.dev
 dcv111fbgfds.blogspot.tw
 dcvg.square.site
-dcwblida.dz
 dcwdfwefefef.weebly.com
 dcwhosaybbtnwbvp-dot-millinium.ey.r.appspot.com
 dcwzr.wqvec.workers.dev
@@ -157163,7 +157158,6 @@ deodorize.duckdns.org
 deogckygyz.duckdns.org
 deoliwin.com
 deookbmdlqhssjfm-dot-millinium.ey.r.appspot.com
-deoriatimes.com
 deot.finance
 deouospiero09.click
 dep-berlosie4572.pages.dev
@@ -165267,7 +165261,6 @@ download.pdf00.com
 download.sada-group.com
 download.securetnet.com
 download.suxiazai.com
-download.tfyxzai.com
 download.tiktok906.com
 download.tiktoks971.com
 download.tkk-mall.icu
@@ -190156,7 +190149,6 @@ fermentative-sound.000webhostapp.com
 fermisolar.co.za
 fermo.com.ar
 fern-adventurous-lyre.glitch.me
-fern-plume.com
 fern-steep-tachometer.glitch.me
 fernako-yala-b8dee5.ingress-erytho.ewp.live
 fernanda-avila.github.io
@@ -216126,7 +216118,6 @@ haiifax.co.uk.removedevice.support
 haiifaxapp.co.uk
 haiifaxapp.com
 haiifaxapp.net
-haiiiihello.top
 haikoi.in
 hail-25-clon-aple-react.netlify.app
 hail-candied-steed.glitch.me
@@ -226987,7 +226978,6 @@ htcelasnc.webcindario.com
 htcsupport.webhop.me
 htd.com.np
 htd5.vip
-htdentshop.com
 htdf-id.xyz
 htdjhdetjethbsdhrhgaehrehsge-h288.vercel.app
 htdocs-bn2.pages.dev
@@ -228949,7 +228939,6 @@ i-iporwania.pl
 i-itrustcapital-sso--auth---secure.webflow.io
 i-learnenglish2day.com
 i-locate.xyz
-i-love-git.com
 i-m-vijay-deshmukh.github.io
 i-m.mx
 i-mac-lcloud.underworld-onlin3.us
@@ -235089,7 +235078,6 @@ infobrii1.perseero.com
 infobritishday558.cyou
 infobusiness-rs.000webhostapp.com
 infocapnow.com
-infocardphoto.info
 infocctesteitau.000webhostapp.com
 infocenter.azurewebsites.net
 infocenter.comunicazioni.reglementaire.sicurezza.gestione.delle.tue.passwordindex.ssl.5csiflh2ikoxaht21i4pzbwboljyp1.www-intesa-com.is-a-financialadvisor.com
@@ -243703,7 +243691,6 @@ jaw3eqz.duckdns.org
 jaw3eqz3.duckdns.org
 jaw3eqz4.duckdns.org
 jawaharchannel.in
-jawaratekno.com
 jawasunda.my.id
 jawatan-kosong-perkhidmatan.com
 jawatan-kosong-siti-nor-musthapa.cs-service.biz.id
@@ -254360,7 +254347,6 @@ kirtimaan.repl.co
 kirtonfirstbank.com
 kiryanaoffers.com
 kis.hosteurope.de.rechnungcheck.live
-kis.marketing
 kish.io
 kisha.icu
 kishan11147.github.io
@@ -255829,7 +255815,6 @@ kokogateng.com
 kokoneh.000webhostapp.com
 kokonorotomo.pro
 kokoqq1.online
-kokorostore.it
 kokoskym.vvipnewyear.my.id
 kokul-ponnaiyan1110.github.io
 kokuracatholic.com
@@ -273926,7 +273911,6 @@ m.jima101.com
 m.jinlonghaoyang.com
 m.jiomnbv.xyz
 m.jk96053.com
-m.jkoa.co.kr
 m.jljiefeng.com
 m.joyeng.net
 m.js-lean.com
@@ -280288,7 +280272,6 @@ mailhub-root.web.app
 mailibex0b.weeblysite.com
 mailidorange.weebly.com
 mailifo-105600.square.site
-mailify.cc
 mailii.ga
 mailin.attollo.com.au
 mailin.caq.com.au
@@ -281186,7 +281169,6 @@ maludescontos.shop
 maluenda.org
 malunkii.peyzazh-zmahannya.mom
 maluonlinedig.com
-malupieng.com.br
 malvim.net
 malvisood.github.io
 malviyakapil2002-dot.github.io
@@ -281555,6 +281537,7 @@ mandanu-iz1k.vercel.app
 mandapsoflondon.co.uk
 mandar123454.github.io
 mandarin.lasalsamilonga.info
+mandarin.net.au
 mandarin20828374.brizy.site
 mandarin6946768.brizy.site
 mandarria5daleeeee.000webhostapp.com
@@ -292938,6 +292921,7 @@ metrics.brightcove.com
 metrics.client-eng.a2z.com
 metrics.fedex.com
 metrics.fidelity.com.edgekey.net
+metrics.gocloudmaps.com
 metrics.hackerrank.com.edgekey.net
 metrics.icloud.com
 metrics.kmsmep.com
@@ -302210,6 +302194,7 @@ multinodexfix.pages.dev
 multiordinalauths.pages.dev
 multipage-responsive-facebook-clone.vercel.app
 multiplanitesdesk.pages.dev
+multiplay.at
 multiplebhd2025.imi.lat
 multipledapps.com
 multipledivide.xyz
@@ -314367,7 +314352,6 @@ node-access.live
 node-authenticates.pages.dev
 node-miner-collector.pages.dev
 node-securely.pages.dev
-node-slate.com
 node-solvers.net
 node-unblocker-six.vercel.app
 node-uptodate.live
@@ -318146,7 +318130,6 @@ odibfxsaedjukytoqawjvgvtya-dot-gleowayel400503.uc.r.appspot.com
 odibotalpilayo.com
 odigcyrfeodv.weeblysite.com
 odin-facebook.rubynor.com
-odinclient.dev
 odinondrive.odiner.workers.dev
 odishafresh.com
 odishapharmacyboard.org
@@ -335240,7 +335223,6 @@ pings.conviva.com
 pingsafe.sa.com
 pingtcss.qq.com
 pingtl1310.blogspot.com
-pingu.business
 pingu.ltd
 pinhol.com
 pininterwood.com
@@ -353566,7 +353548,6 @@ qingtian.whttccp.icu
 qingtian.wtshaabp.cyou
 qingtian.zypofl.xyz
 qingyutiankong.github.io
-qiniuyunxz.yxflzs.com
 qinnan.pilot45.com
 qinrenwang.com.cn
 qintaz.com
@@ -370580,6 +370561,7 @@ safeguardstandardsadmomentum.vercel.app
 safeguardtrackerconversionhub.vercel.app
 safeguardtrackerdigitalleads.vercel.app
 safeguardtrackerimpactjourney.vercel.app
+safeifm.com
 safeincgroup.com
 safeintelchannel.pages.dev
 safelink-unapproved-attempt.com
@@ -370802,7 +370784,6 @@ safetytrackerbigimpact.vercel.app
 safetytrackerfunnelmatrix.vercel.app
 safetytrackerleadcraft.vercel.app
 safetytrackersocialup.vercel.app
-safeuploadz.com
 safeurl-amazon-us.com
 safeurl-sharepoint-account-hvlaw.sohaibislamjoy.top
 safewalletconnect.net
@@ -378666,7 +378647,6 @@ static.googleadsserving.cn
 static.gridsumdissector.com
 static.hotjar.com
 static.hyprmx.com
-static.ilclock.com
 static.innovid.com
 static.intentarget.com
 static.iterable.com
@@ -380284,6 +380264,7 @@ swiftblockresolve.pages.dev
 swiftconnectapp.pages.dev
 swiftdecentralizedapp.com
 swiftfieldxc.vercel.app
+swiftfusion.tech
 swiftnodeaccessrefix.pages.dev
 swiftnoderessolves.pages.dev
 swiftpathav.vercel.app
@@ -381392,7 +381373,6 @@ tatsumi-unsou.com
 tattnet.weebly.com
 tattoolukas.com
 taubwork.store
-taunahi.st
 taupe-meerkat-cad38b.netlify.app
 taupe-moonbeam-61f37a.netlify.app
 taupe-treacle-9fe42e.netlify.app
@@ -381664,6 +381644,7 @@ telaria.adhaven.com
 telariaeventsbidder-east.extend.tv
 telasegura.sbs
 tele.trafficmanager.net
+teleabonent.ru
 telechargervotredoc.dyndns-at-work.com
 telecom.taskfido.com
 telecommand.telemetry.microsoft.com
@@ -382274,6 +382255,7 @@ ticks2.bugsense.com
 ticm.sap0508x9v.vip
 ticm.tap0297p8b.top
 ticolatonisan.pages.dev
+ticpc8a.com
 ticskwsythree.icu
 tidaltv.com
 tidaltv.com.akadns.net
@@ -382770,7 +382752,6 @@ toeken.im
 toeken.me
 toekn.im
 tofq.exytrie.es
-togethers.tv
 togo-studio.com
 toheed1-1.github.io
 toimoi.org
@@ -384572,7 +384553,6 @@ tucajadeahorrspa.web.app
 tucsonhatsusa.com
 tudoalss.com
 tuesdayfirst.pages.dev
-tuiskr.com
 tuj8r61isbns3i6.duckdns.org
 tukaarpoiints-danaax4.resmi-cxhh.my.id
 tukarpoint-penguna-danax.nce.my.id
@@ -384666,7 +384646,6 @@ twomaidscrm.com
 twopagescurtains.offer.safeopt.com
 twotreymedia10001697.o18.click
 twrbx.xyz
-twu-hwt.org
 twxhwpuzyc.myfunnelish.com
 tx0505.cn
 tx1015.com
@@ -392447,6 +392426,7 @@ zharo.icikiwirmas.com.rtxt.topup-center.com
 zhbhcmvraebwagfybs1pbnquy29t.directsmailsolution.com
 zhelp-supports.business-minagne.com
 zhh08b3.wixsite.com
+zhigao5191.com
 zhiyang-edu.cn
 zhnetwork.cn
 zhnwvyuwtc.duckdns.org
