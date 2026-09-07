@@ -1,6 +1,6 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-09-06 08:20:33
-# Total Unique Domains: 392650
+# Update: 2026-09-07 08:53:57
+# Total Unique Domains: 392641
 
 0-105.com
 0-9-8-7-6-5-4-3-2-1-0.live
@@ -2296,6 +2296,7 @@
 0rangefr-6672-attache-fichier.weebly.com
 0rangesec.ovh
 0rd3r-transout.com
+0rder-ver1f2345.com
 0rg.ink
 0rg4n1z3r-c0mf1rmc3nt3r.000webhostapp.com
 0rlh7e8edno.qwo231sdx.club
@@ -6192,7 +6193,6 @@
 1gym-kilkis.kil.sch.gr
 1h-usghdfy98oiehjs7iyushjg.vercel.app
 1h.vuregyy1.ru
-1h.xeteloi4.ru
 1h16.com
 1h1x7.com
 1h3jr.app.link
@@ -10335,8 +10335,6 @@
 3.vxssy.live
 3.vxswe.solutions
 3.vzxwq.life
-3.zhzy999.net
-3.zhzy999.net3.zhzy999.net
 30-09-vjer09tg-ej5rg-9jker-gk0e-trgjk-r90jg-0rejg-9rr.obs.ap-southeast-3.myhuaweicloud.com
 30-2ki.pages.dev
 30-min.ru
@@ -10549,7 +10547,6 @@
 30ywc.codesandbox.io
 30z98b6q.duckdns.org
 31-192-237-130.cprapid.com
-31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net
 31.172-245-112-195.cprapid.com
 31.59.136.10.sslip.io
 310.noumaceta.eu
@@ -32300,7 +32297,6 @@ abominable789.000webhostapp.com
 abomosalem.com
 aboneebatel.blogspot.mk
 aboneebatel.blogspot.sn
-abonent-app.ru
 abonesepeti.io
 abonnement-canal.com
 abonnement-centredepaiement.com
@@ -132044,7 +132040,6 @@ ccntg.blogspot.fi
 ccntg.blogspot.sn
 ccnz.pl
 ccoac0tij2wpl9cqqvgq.yuexiarts.com
-ccoffice.site
 ccoinbaselogin.blogspot.cl
 ccoinbaselogin.blogspot.sn
 ccoinbasewalletexxtension.webflow.io
@@ -132485,6 +132480,7 @@ cdn.dragon.cere.network
 cdn.dynamicyield.com
 cdn.easyapple.diy
 cdn.exelator.com
+cdn.file6.goodid.com
 cdn.firstimpression.io
 cdn.flashtalking.com.edgekey.net
 cdn.flurry.com
@@ -139625,7 +139621,6 @@ clouddoc-authorize.firebaseapp.com
 cloude-15e5.karsonjacobsen.workers.dev
 cloude-dd47.aeancsesekhi.workers.dev
 cloudeadmin.com
-cloudeliveryenterprise.com
 clouders.cf
 cloudfarecreative.pages.dev
 cloudfares.000webhostapp.com
@@ -150363,6 +150358,7 @@ ctznsvr1fy.com
 ctznsvrfy.com
 ctznvrfyalrt.com
 cu-iccucom.com
+cu.srijanajha.com.np
 cu01991.tw1.ru
 cu03604.tmweb.ru
 cu04350.tmweb.ru
@@ -155379,6 +155375,7 @@ dcutest.com
 dcv.pages.dev
 dcv111fbgfds.blogspot.tw
 dcvg.square.site
+dcwblida.dz
 dcwdfwefefef.weebly.com
 dcwhosaybbtnwbvp-dot-millinium.ey.r.appspot.com
 dcwzr.wqvec.workers.dev
@@ -159566,7 +159563,6 @@ dfcsport.com
 dfcvnxyx.skin
 dfcxvh.000webhostapp.com
 dfczxc.weebly.com
-dfd.zhzy999.net
 dfd55.1yaz7ec5.cardiopedbrasil.com.br
 dfdavsfwfkmkvshecodrevwsge-dot-gle39404049.rj.r.appspot.com
 dfdcvip.com
@@ -162971,6 +162967,7 @@ dl.sj.ijinshan.com
 dl.skyled.it
 dl.t39uvk5.top
 dl.tevipshoo.shop
+dl1.claudflare-gateway.net
 dl2cu.localto.net
 dl3bx-yqaaa-aaaad-qc7xa-cai.raw.ic0.app
 dla-tebya.ru
@@ -165260,7 +165257,6 @@ download.pdf00.cn
 download.pdf00.com
 download.sada-group.com
 download.securetnet.com
-download.suxiazai.com
 download.tiktok906.com
 download.tiktoks971.com
 download.tkk-mall.icu
@@ -175183,6 +175179,7 @@ envoipayboncoin.000webhostapp.com
 envoy-partnerleadsharing.standardseoservices.com
 envoyserials.cf
 envqkmavjrmt.xxoht18.cn
+envs.sh
 envsuport-cliente-n84.jcloud.kz
 envwebcliente-uol.clicketcloud.com
 enx-99584096.spiritualfoodshq.com
@@ -192009,7 +192006,6 @@ fileapp-login.web.app
 filecabinet0i.myftp.biz
 filecomplaintadcurators.vercel.app
 filecomplaintbrandfuel.vercel.app
-filecon.sbs
 fileconsole.vercel.app
 filedn.com
 filedn.eu
@@ -198615,7 +198611,6 @@ funmotor-mod.vercel.app
 funnagresessoi.vercel.app
 funnandmorecogreek.000webhostapp.com
 funnel-assets.startappservice.com
-funneldiy.com
 funnelmatic.net
 funnelsrepacking.co.za
 funny-antonelli.172-245-8-169.plesk.page
@@ -203273,7 +203268,6 @@ gestmsmions.firebaseapp.com
 gestordepartes.com
 gestoriacampalans.com
 gestoriaenparaguay.com.py
-gestroom.it
 gesundheit-zu-hause.com
 gesx.top
 get--opportunity-to-be-verified.vercel.app
@@ -226978,6 +226972,7 @@ htcelasnc.webcindario.com
 htcsupport.webhop.me
 htd.com.np
 htd5.vip
+htdentshop.com
 htdf-id.xyz
 htdjhdetjethbsdhrhgaehrehsge-h288.vercel.app
 htdocs-bn2.pages.dev
@@ -243691,6 +243686,7 @@ jaw3eqz.duckdns.org
 jaw3eqz3.duckdns.org
 jaw3eqz4.duckdns.org
 jawaharchannel.in
+jawaratekno.com
 jawasunda.my.id
 jawatan-kosong-perkhidmatan.com
 jawatan-kosong-siti-nor-musthapa.cs-service.biz.id
@@ -273911,6 +273907,7 @@ m.jima101.com
 m.jinlonghaoyang.com
 m.jiomnbv.xyz
 m.jk96053.com
+m.jkoa.co.kr
 m.jljiefeng.com
 m.joyeng.net
 m.js-lean.com
@@ -281537,7 +281534,6 @@ mandanu-iz1k.vercel.app
 mandapsoflondon.co.uk
 mandar123454.github.io
 mandarin.lasalsamilonga.info
-mandarin.net.au
 mandarin20828374.brizy.site
 mandarin6946768.brizy.site
 mandarria5daleeeee.000webhostapp.com
@@ -292921,7 +292917,6 @@ metrics.brightcove.com
 metrics.client-eng.a2z.com
 metrics.fedex.com
 metrics.fidelity.com.edgekey.net
-metrics.gocloudmaps.com
 metrics.hackerrank.com.edgekey.net
 metrics.icloud.com
 metrics.kmsmep.com
@@ -332104,6 +332099,7 @@ pdf-cd974.web.app
 pdf-cloud-1322509378.cos.sa-saopaulo.myqcloud.com
 pdf-cloudss-d0c9.umcsaynitadol.workers.dev
 pdf-dropbox-dokumenthochladen.weebly.com
+pdf-editore.com
 pdf-flav024.b-cdn.net
 pdf-online-6c05c8-9d66522.webflow.io
 pdf-online-6c05c8.webflow.io
@@ -355086,7 +355082,6 @@ quyendong.com
 quynhanhi006.servebbs.com
 quynhff.sukien-freefire.garenaaa.io.vn
 quynhff.sukien-freefire.garenaaa.vn
-qv.co.ke
 qvajdangwg.duckdns.org
 qvakysuktkdfyeibmbgkcwouwh-dot-gloff849483.uk.r.appspot.com
 qvbgt.blogspot.am
@@ -370215,6 +370210,7 @@ sabinayoga.top
 sabine.co.in
 sabineschippers.nl
 sabinternational.eu
+sablayan.seasonshotelmindoro.com
 sable-different-custard.glitch.me
 sable-difficult-cartwheel.glitch.me
 sable-interesting-bait.glitch.me
@@ -370561,7 +370557,6 @@ safeguardstandardsadmomentum.vercel.app
 safeguardtrackerconversionhub.vercel.app
 safeguardtrackerdigitalleads.vercel.app
 safeguardtrackerimpactjourney.vercel.app
-safeifm.com
 safeincgroup.com
 safeintelchannel.pages.dev
 safelink-unapproved-attempt.com
@@ -374912,7 +374907,6 @@ sentinglinshn.azurewebsites.net
 sentizz.buzz
 sentry.justwatch.com
 senvor-meta-biz-dralen.pages.dev
-seobandung.site
 seomaniya.com
 sepanta.irexon.com
 separadordecc.com
@@ -375779,7 +375773,6 @@ show.3.mediav.com
 show.g.mediav.com
 showads.pubmatic.com
 shparkase.me
-shqdown.ggzuhao.com
 shraddha-chaudhari356.github.io
 shraddhashilwant05.github.io
 shrag-meta.pages.dev
@@ -378647,6 +378640,7 @@ static.googleadsserving.cn
 static.gridsumdissector.com
 static.hotjar.com
 static.hyprmx.com
+static.ilclock.com
 static.innovid.com
 static.intentarget.com
 static.iterable.com
@@ -381345,7 +381339,6 @@ targobank.de.easytan.web14194.cweb05.gamingcontrol.de
 targobank.de.mtan.web14194.cweb05.gamingcontrol.de
 targobank.de.web14245.cweb06.gamingcontrol.de
 targobank.gez-rueckzahlung.de
-tarkioweb.com
 tarn.nhsaportal.com
 tarrt-io-itrezor.pages.dev
 tarsan.g2afse.com
@@ -381373,6 +381366,7 @@ tatsumi-unsou.com
 tattnet.weebly.com
 tattoolukas.com
 taubwork.store
+taunahi.st
 taupe-meerkat-cad38b.netlify.app
 taupe-moonbeam-61f37a.netlify.app
 taupe-treacle-9fe42e.netlify.app
@@ -382255,7 +382249,6 @@ ticks2.bugsense.com
 ticm.sap0508x9v.vip
 ticm.tap0297p8b.top
 ticolatonisan.pages.dev
-ticpc8a.com
 ticskwsythree.icu
 tidaltv.com
 tidaltv.com.akadns.net
@@ -388545,7 +388538,6 @@ w.inmobi.com
 w.sharethis.com
 w.usabilla.com
 w.yieldmo.com
-w.zhzy999.net
 w02f.xyz
 w0kpf.bwjwaypwsd.es
 w0p0t-gesswein.ghjigclbopy.es
@@ -388914,6 +388906,7 @@ waveblooma.vercel.app
 wavebrave.top
 wavecraftev.vercel.app
 wavecrestb-pi.vercel.app
+waveplus.mediabyte.be
 waves.retentionscience.com
 waveslinkcable.com
 wavespringchase.com
@@ -390584,7 +390577,6 @@ win1710.ipv6.microsoft.com
 win3656.cc
 win8.ipv6.microsoft.com
 wincraftnepal.com
-wind.ntlsmartfull.com
 wind1-70f.pages.dev
 windforge-vault.pages.dev
 windomstatetheater.com
@@ -391199,7 +391191,6 @@ www.drgenov.com
 www.exoduswallet.at
 www.first-security-verden.de
 www.geoplugin.net
-www.gestroom.it
 www.google-analytics.com
 www.googleadservices.com
 www.hostingcloud.science
