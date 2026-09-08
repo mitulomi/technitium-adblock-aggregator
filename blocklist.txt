@@ -1,6 +1,6 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-09-07 08:53:57
-# Total Unique Domains: 392641
+# Update: 2026-09-08 08:35:07
+# Total Unique Domains: 392656
 
 0-105.com
 0-9-8-7-6-5-4-3-2-1-0.live
@@ -10335,6 +10335,8 @@
 3.vxssy.live
 3.vxswe.solutions
 3.vzxwq.life
+3.zhzy999.net
+3.zhzy999.net3.zhzy999.net
 30-09-vjer09tg-ej5rg-9jker-gk0e-trgjk-r90jg-0rejg-9rr.obs.ap-southeast-3.myhuaweicloud.com
 30-2ki.pages.dev
 30-min.ru
@@ -10547,6 +10549,7 @@
 30ywc.codesandbox.io
 30z98b6q.duckdns.org
 31-192-237-130.cprapid.com
+31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net
 31.172-245-112-195.cprapid.com
 31.59.136.10.sslip.io
 310.noumaceta.eu
@@ -41155,6 +41158,7 @@ adpoles-86ecd.firebaseapp.com
 adpongodsecure.servebeer.com
 adporbe.club
 adpostgroup.com.au
+adps.pro
 adpsechosussa.webredirect.org
 adpsecruer.otzo.com
 adpsecure.my03.com
@@ -64135,6 +64139,7 @@ api.bvhcredit.com
 api.c.avazunativeads.com
 api.cargomanager.io
 api.cav-visas.com
+api.cdn22.net
 api.cestasbebe.store
 api.chartbeat.com
 api.childrenscenturyclassics.com
@@ -89068,6 +89073,7 @@ auq9hveenbhhhxxoasstky0cepclgb.we9ixzz.co
 auqsuiqrfghiabjn-dot-millinium.ey.r.appspot.com
 auquafinera.tk
 aura-kc.by
+aura.tcplegit.space
 aura7.kindnessheart3.workers.dev
 auracare.com.my
 auraess-olb3abreezleaf.voucrutroo.ru
@@ -91928,6 +91934,7 @@ authfixnow.pages.dev
 authflow-webterms.yj.fr
 authg.rustrelay.net
 authgame.shop
+authgen.deals
 authgripass.t.justns.ru
 authh---coinbasepro---cdn-s-sso.webflow.io
 authh--crypto-cdn--sso.webflow.io
@@ -94204,7 +94211,6 @@ awareness.dss-connect.de
 awareness.pln.co.id
 awareness28.wixsite.com
 awarenesscovert.com
-awarenessexhibition.com
 awareofthat.za.com
 awarlkbprarcxbblrznbulkhburcfeydktwv-dot-glxcel49934343434.rj.r.appspot.com
 awat.ir
@@ -127514,7 +127520,6 @@ buzzonthebible.com
 buzzprosdigital.vercel.app
 buzzsi.com.au
 bv3.impact11.xyz
-bvaco.com
 bvanehanctnrawuf-dot-millinium.ey.r.appspot.com
 bvargus.atozgroup.ir
 bvasecka.inshapeinforma.it
@@ -128243,6 +128248,7 @@ c1xign.com
 c1zmem.lagushotel.com.br
 c2-a5c.pages.dev
 c2-cdw.pages.dev
+c2.mc-live.online
 c2.qbk1.com
 c2.taboola.com
 c203dec1.h6tnbgy.com.cn
@@ -148546,7 +148552,6 @@ cpn5w2jdyjywzzc6.jimdofree.com
 cpniqilbwccycdzdrwyzuojndnrgakyvbpwj-dot-solar-vertex-285913.rj.r.appspot.com
 cpnspppkterbaru2024-update.try-4pp.com
 cpo.co.jp
-cpofficial.com
 cpoohcodmfkucglhzjmmkkeyquhrnxjkzglo-dot-solar-vertex-285913.rj.r.appspot.com
 cpopgiptzd.duckdns.org
 cporiente.cl
@@ -159563,6 +159568,7 @@ dfcsport.com
 dfcvnxyx.skin
 dfcxvh.000webhostapp.com
 dfczxc.weebly.com
+dfd.zhzy999.net
 dfd55.1yaz7ec5.cardiopedbrasil.com.br
 dfdavsfwfkmkvshecodrevwsge-dot-gle39404049.rj.r.appspot.com
 dfdcvip.com
@@ -161537,6 +161543,7 @@ dinamicabloqueotemporal.dinamicabanco.repl.co
 dinamicaenlineatusucursal.com
 dinamicas.sucursalpersonalonline.com
 dinamiccrt.shop
+dinamikakargo.com
 dinamiqueconnects.myddns.me
 dinamyc.owaa-360.workers.dev
 dinanshu2006.github.io
@@ -162265,7 +162272,6 @@ disinibro.duckdns.org
 disinilinknyagasssken.000webhostapp.com
 disizedo.com
 disk-4fb5.pre-ooauth.workers.dev
-disk.accord1key.cn
 disk.vwwv.workers.dev
 diskbae.com
 diskclientapp.com
@@ -165257,6 +165263,7 @@ download.pdf00.cn
 download.pdf00.com
 download.sada-group.com
 download.securetnet.com
+download.suxiazai.com
 download.tiktok906.com
 download.tiktoks971.com
 download.tkk-mall.icu
@@ -173506,7 +173513,6 @@ embed.secondstreetapp.com
 embed.sendtonews.com
 embed.tawk.to.sgdo.nurisfamz.my.id
 embedilekitcdn.flazio.site
-embedone.com
 embellishedsportsman.com
 embellishedworldlyphysics.ferbsanz.repl.co
 ember-axiomatic-muskox.glitch.me
@@ -192138,6 +192144,7 @@ filmaconnect.com
 filmas-online-lietuviskai.over-blog.com
 filmbimcxll.com
 filmblue-69.duckdns.org
+filmchill.net
 filmedy.com
 filmesonlineseries.net
 filmfever.co.in
@@ -226972,7 +226979,6 @@ htcelasnc.webcindario.com
 htcsupport.webhop.me
 htd.com.np
 htd5.vip
-htdentshop.com
 htdf-id.xyz
 htdjhdetjethbsdhrhgaehrehsge-h288.vercel.app
 htdocs-bn2.pages.dev
@@ -232241,6 +232247,7 @@ iloral-vision.com
 ilorlrty.firebaseapp.com
 ilove-herbs.uighurmedicine.org
 iloveamericatour.com.kiaraashanti.com
+iloveboats.st
 ilovebug10.com
 ilovedmt.com
 ilovedogsandpeople.pages.dev
@@ -240643,7 +240650,6 @@ isikliegzos.com
 isikowear.com
 isim.net.ua.usrfiles.com
 isimizdeyiz.duckdns.org
-isiore.com.co
 isipulsa.lol
 isisidjdh.000webhostapp.com
 isitawesome.com
@@ -249199,7 +249205,6 @@ joyceholcomblaw.com
 joydeeppaul399.github.io
 joyella-1dbechoella.thoujoki.ru.com
 joyeriajireh.com.mx
-joyeriatauro.com
 joyful-hummingbird-910772.netlify.app
 joyful-klepon-853a57.netlify.app
 joyful-melba-aeec5d.netlify.app
@@ -264814,7 +264819,6 @@ lindfjpartn.top
 lindhaprofit.com
 lindinasedred.serveminecraft.net
 lindleylabs.com
-lindnerelektroanlagen.de
 lindojon.com.br
 lindprofitt.com
 lindsayhart.click
@@ -272274,7 +272278,6 @@ lulzasegundavlaoficial.com
 lum22-8cfp.vercel.app
 lum22.vercel.app
 lum4.com
-lumacrea.com
 lumanfountiose.com
 lumaqest.vercel.app
 lumbalm.authorizeddns.org
@@ -278923,6 +278926,7 @@ mail.qqbaspasi.uz
 mail.quazzars.com
 mail.quermessedesaofrancisco.com.br
 mail.queroquarto.com
+mail.quietsurfwi.help
 mail.r0ger-lnterac.com
 mail.rabo-betaalpas-aanvragen.info
 mail.rabo-vernieuwing.me
@@ -281166,6 +281170,7 @@ maludescontos.shop
 maluenda.org
 malunkii.peyzazh-zmahannya.mom
 maluonlinedig.com
+malupieng.com.br
 malvim.net
 malvisood.github.io
 malviyakapil2002-dot.github.io
@@ -302943,7 +302948,6 @@ mx7.kathypope.id.au
 mx74.prueba.site
 mx7w33.shop
 mx888.vip
-mx9x.com
 mxapp46.com
 mxaps.appsempresa.ga
 mxardxisqmsl.top
@@ -319976,6 +319980,7 @@ oilgasdieselgovoff.wixsite.com
 oilkmmzx.cf
 oilwykvrnr.duckdns.org
 oilymedication.cn
+oim.doganltd.com.tr
 oim.qjk.mybluehost.me
 oimos.com.mx
 oimszcofiqvmshvhwnrnyemtzwtmtfzbncvg-dot-cryptic-now-290917.ey.r.appspot.com
@@ -321024,7 +321029,6 @@ one-drive.on.fleek.co
 one-drrv.mnbjasd.repl.co
 one-drv-file.ey.r.appspot.com
 one-golos2019.zzz.com.ua
-one-graup.com
 one-keys.com
 one-night-sex-service.pages.dev
 one-note-document.proxymob542.workers.dev
@@ -322743,6 +322747,7 @@ opackmakine.com
 opajasfasfasi.pages.dev
 opakowaniaprzyszlosci.pl
 opakpaypal.my03.com
+opalcraftsmp.com
 opalescent-abalone-billboard.glitch.me
 opalescent-blood.000webhostapp.com
 opalescent-daffy-lynx.glitch.me
@@ -332138,6 +332143,7 @@ pdfiurjmr.pages.dev
 pdflauncher.000webhostapp.com
 pdfmdmfrbnzvrulk-dot-millinium.ey.r.appspot.com
 pdfmeabd.hmcgruop247.com
+pdfmun.software
 pdfonlineviews.com
 pdfpros.net
 pdfshare001.bitbucket.io
@@ -353544,6 +353550,7 @@ qingtian.whttccp.icu
 qingtian.wtshaabp.cyou
 qingtian.zypofl.xyz
 qingyutiankong.github.io
+qiniuyunxz.yxflzs.com
 qinnan.pilot45.com
 qinrenwang.com.cn
 qintaz.com
@@ -354809,6 +354816,7 @@ quiet-wave-8e3a.papode45509253.workers.dev
 quiet-wealthy-bactrosaurus.glitch.me
 quietdoorhardware.com
 quietpine.vercel.app
+quietsurfwi.help
 quietunripegreenware--five-nine.repl.co
 quikapp.pages.dev
 quikcbookapp.com
@@ -355082,6 +355090,7 @@ quyendong.com
 quynhanhi006.servebbs.com
 quynhff.sukien-freefire.garenaaa.io.vn
 quynhff.sukien-freefire.garenaaa.vn
+qv.co.ke
 qvajdangwg.duckdns.org
 qvakysuktkdfyeibmbgkcwouwh-dot-gloff849483.uk.r.appspot.com
 qvbgt.blogspot.am
@@ -357927,7 +357936,6 @@ rcdatasolution.com
 rcdtjtournarkb7895.ml
 rcenter.co.uk
 rception2.wixsite.com
-rcf.co.mz
 rcflightline-1316850103.cos.na-siliconvalley.myqcloud.com
 rcforecasting.com
 rcfpghausbkfnvwg-dot-millinium.ey.r.appspot.com
@@ -370557,6 +370565,7 @@ safeguardstandardsadmomentum.vercel.app
 safeguardtrackerconversionhub.vercel.app
 safeguardtrackerdigitalleads.vercel.app
 safeguardtrackerimpactjourney.vercel.app
+safeifm.com
 safeincgroup.com
 safeintelchannel.pages.dev
 safelink-unapproved-attempt.com
@@ -374107,6 +374116,7 @@ sdsc1.demose.cc
 sdsfasfasd.pages.dev
 sdshoptx.icu
 sdshoptx9.icu
+sdufkghdfshds.cfd
 sdvfbgre.blogspot.com
 sdvfdews.blogspot.com
 sdvfdews.blogspot.kr
@@ -375773,6 +375783,7 @@ show.3.mediav.com
 show.g.mediav.com
 showads.pubmatic.com
 shparkase.me
+shqdown.ggzuhao.com
 shraddha-chaudhari356.github.io
 shraddhashilwant05.github.io
 shrag-meta.pages.dev
@@ -375902,6 +375913,7 @@ signal-layered-circuit.com
 signal-metrics-collector-beta.s-onetag.com
 signalatera.com
 signaled-bind.vercel.app
+signaturenib.rest
 signaturesite-wt3n8kps.brizodata.sbs
 signe-114a88d.ingress-florina.ewp.live
 signgemin-e-log7.godaddysites.com
@@ -376687,7 +376699,6 @@ solana2mix.to
 solankisuryansh.github.io
 solankitanu532-lgtm.github.io
 solar-metal-snickerdoodle.glitch.me
-solar-sanat.net
 solaris-vault-9g6.pages.dev
 solcialpod.jqfdesigns.com
 soldervalidatedapp.pages.dev
@@ -380258,7 +380269,6 @@ swiftblockresolve.pages.dev
 swiftconnectapp.pages.dev
 swiftdecentralizedapp.com
 swiftfieldxc.vercel.app
-swiftfusion.tech
 swiftnodeaccessrefix.pages.dev
 swiftnoderessolves.pages.dev
 swiftpathav.vercel.app
@@ -383005,7 +383015,6 @@ tr.blismedia.com
 tr.creativered7.com
 tr.iadsdk.apple.com
 tr.snapchat.com
-tr.zhzy999.net
 tr2.smarterhq.io
 tr6.snapchat.com
 tra0f-kfjd-sksj.s3.eu-north-1.amazonaws.com
@@ -384639,6 +384648,7 @@ twomaidscrm.com
 twopagescurtains.offer.safeopt.com
 twotreymedia10001697.o18.click
 twrbx.xyz
+twu-hwt.org
 twxhwpuzyc.myfunnelish.com
 tx0505.cn
 tx1015.com
@@ -385213,6 +385223,7 @@ universal-8ef.pages.dev
 universal.iperceptions.com
 universalfxmm.com
 universalmsg.com
+universami.ge
 universe.send.microad.jp
 universeaccountvalidation.weebly.com
 universeactivecircleprofile.weebly.com
@@ -388538,6 +388549,7 @@ w.inmobi.com
 w.sharethis.com
 w.usabilla.com
 w.yieldmo.com
+w.zhzy999.net
 w02f.xyz
 w0kpf.bwjwaypwsd.es
 w0p0t-gesswein.ghjigclbopy.es
@@ -391191,11 +391203,13 @@ www.drgenov.com
 www.exoduswallet.at
 www.first-security-verden.de
 www.geoplugin.net
+www.gestroom.it
 www.google-analytics.com
 www.googleadservices.com
 www.hostingcloud.science
 www.hqsblog.com
 www.hseda.com
+www.iloveboats.st
 www.intelligradeeducation.vicentecisnerospub.com
 www.jozefinskiatelje.si
 www.kenwillzltd.com
@@ -391214,6 +391228,7 @@ www.newsbreak.com
 www.notbak.com
 www.npttech.com
 www.ojang.pe.kr
+www.oringosmod.com
 www.pingu.surf
 www.pointtohealth.com
 www.reifenquick.de
