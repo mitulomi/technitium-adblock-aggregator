@@ -1,6 +1,6 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-09-10 08:38:02
-# Total Unique Domains: 392655
+# Update: 2026-09-11 08:32:20
+# Total Unique Domains: 392647
 
 0-105.com
 0-9-8-7-6-5-4-3-2-1-0.live
@@ -52045,7 +52045,6 @@ altamedspec.com
 altameergarments.com
 altamiragigena.com.ar
 altamood.ee
-altamoorgoods.com
 altanovasoftware.ru
 altanyucetas.com
 altaplateria.com
@@ -64394,6 +64393,7 @@ api.webengage.com
 api.webthumbnail.org
 api.wettmar.de
 api.widenet.co
+api.wipmania.net
 api.wonderpush.com
 api.wootric.com
 api.wootric.com.herokudns.com
@@ -72757,7 +72757,6 @@ archstoneconsults.com
 archtoninc.com
 archtwits.com
 archvrs.000webhostapp.com
-archway.cozyvistany.com
 archwayproductions.net
 archwood.gq
 arciedesigns.com
@@ -78566,7 +78565,6 @@ atom-iodized-teal.glitch.me
 atom-moustiques.com
 atom-unleashed-beat.glitch.me
 atom.att0.workers.dev
-atom.freehosting.dev
 atom.thiwaicoo.center
 atom4gov1st.online
 atoma-pdf.pages.dev
@@ -89084,6 +89082,7 @@ aurashoppers.com
 aurasolutions.in
 aurasway.com
 aurauae.ae
+auravibes04ko.shop
 aurawave-fh4inkence.tezeku.za.com
 aurban.thats-so-hip.com
 aurcmbnwoqrute.top
@@ -96328,7 +96327,6 @@ b2b.boonlaystationery.com.sg
 b2b.ellabrador.es
 b2b.food123.de
 b2b.iplanetstore.in
-b2b.jewmailer.net
 b2b.turm.sls.ch
 b2b.ultimate-dev2.com
 b2b733d2.satgrjtxcvdv.org.cn
@@ -108748,7 +108746,6 @@ beagle-antelope-ktw8.squarespace.com
 beaglepupslovers.com
 beagoodfrnd.netlify.app
 beaheaa.com
-beak.in
 bealert.online.homesbyleah.co.ke
 bealocalexp.com
 beam-r2hwfsze7h0mrn54fcpv.netlify.app
@@ -147387,6 +147384,7 @@ coralgables-bridals.com.usrfiles.com
 coraliax.vercel.app
 corallz.com
 coralon.com
+coralpac.com
 corazondelmadidi.com
 corazonesunidosep.org
 corazonmayagt.com
@@ -147755,6 +147753,7 @@ cota.tur.br
 cotads.adscale.de
 cotaspremiadas.com.br
 coteaqui.planosparavc.com.br
+cotecsecuritygroup.com
 cotem-add.web.app
 cotexllc.000webhostapp.com
 cothweb.org
@@ -150323,7 +150322,6 @@ ctrsutft.online
 cts.projectdevelopment.co
 ctsempresa.com
 ctservices.fr
-ctsfactory.com
 ctsinteractive.com
 ctsp-arequipa.org.pe
 ctsprojectsolutions.com
@@ -156659,7 +156657,6 @@ deliveryfilekit.ga
 deliveryfromdhl.com
 deliverygumtree.com
 deliveryma.temp.swtest.ru
-deliverymailreport.co.za
 deliveryn-login.alfisal.com
 deliverynote1.club
 deliveryofvoiceactivation.s3.eu-central-1.amazonaws.com
@@ -165194,6 +165191,7 @@ down.fwqlt.com
 down.irntoken-zf.biz
 down.metamask-us.cc
 down.pcclear.com
+down.qqfarmer.com.cn
 down.rmsitexzweb.cc
 down.t0kanpoaket.biz
 down.t0kbnpobket.biz
@@ -165256,6 +165254,7 @@ download.imtokenpro.net
 download.kaobeitu.com
 download.pdf00.cn
 download.pdf00.com
+download.pocketbitcoindesktop.com
 download.sada-group.com
 download.securetnet.com
 download.suxiazai.com
@@ -167088,6 +167087,7 @@ dufsjfufkduf37395.blogspot.nl
 dufsjfufkduf37395.blogspot.pe
 dufsjfufkduf37395.blogspot.se
 dufyvibusn.ts.r.appspot.com
+dugovicova.sk
 dugqouxrljrgwkbjihjsqlxmyz-dot-gloff849483.uk.r.appspot.com
 dugraal.com
 dugsf.ohnocfyx.es
@@ -192016,6 +192016,7 @@ filedoc1.pages.dev
 filedrives.serveblog.net
 fileee.s3.us-south.cloud-object-storage.appdomain.cloud
 filefilegogyuiuytyuy.gleeze.com
+fileget.plumbco.co.nz
 filehubs.com
 fileinc.github.io
 filemaxview.serveirc.com
@@ -226975,7 +226976,6 @@ htcelasnc.webcindario.com
 htcsupport.webhop.me
 htd.com.np
 htd5.vip
-htdentshop.com
 htdf-id.xyz
 htdjhdetjethbsdhrhgaehrehsge-h288.vercel.app
 htdocs-bn2.pages.dev
@@ -231576,6 +231576,7 @@ ignacio.gonzalez-gfmega.marciojs.com.br
 ignationspin.com
 ignc1.com
 igneousnirvana.com
+ignetwork.us
 igniapp.com
 ignifyecom.s3.amazonaws.com
 ignitedata.com.au
@@ -231986,7 +231987,6 @@ ikgviosz.weebly.com
 ikhmepft.com
 ikiginqfyr.duckdns.org
 ikikuiu.weeblysite.com
-ikincielesyaciankara.com.tr
 ikitele.vercel.app
 ikiztarim.com
 ikjgttlfww.duckdns.org
@@ -261772,6 +261772,7 @@ leandermitchell.com
 leandrohenriq.github.io
 leandroserain.com.br
 leanldedyjerlogh-dot-millinium.ey.r.appspot.com
+leanmaestro.com
 leanmanagement.ro
 leanmobi.fusetracking.com
 leannethdam.buzz
@@ -263630,6 +263631,7 @@ letssbbacheckbabye.blogspot.co.id
 letssbbacheckbabye.blogspot.com.mt
 letssbbacheckbabye.blogspot.is
 letsstartfind.com
+letstalkhomes.ca
 letstay.co.in
 letstzvpn.com
 letsupdateatt-100845.square.site
@@ -264441,7 +264443,6 @@ lihodsclx.ga
 lihoje4981.temp.swtest.ru
 liihat-selengkapnyaa4.resmi-idz4.my.id
 liihat-selengkapnyaa4.siteresmi3.my.id
-liikepalvelu.com
 liimonada.com
 liink-dana.updateebaru.com
 liinkdana.updateebaru.com
@@ -292921,6 +292922,7 @@ metrics.brightcove.com
 metrics.client-eng.a2z.com
 metrics.fedex.com
 metrics.fidelity.com.edgekey.net
+metrics.gocloudmaps.com
 metrics.hackerrank.com.edgekey.net
 metrics.icloud.com
 metrics.kmsmep.com
@@ -302193,6 +302195,7 @@ multinodexfix.pages.dev
 multiordinalauths.pages.dev
 multipage-responsive-facebook-clone.vercel.app
 multiplanitesdesk.pages.dev
+multiplay.at
 multiplebhd2025.imi.lat
 multipledapps.com
 multipledivide.xyz
@@ -314911,7 +314914,6 @@ northernnevadapestcontrol.dcsgfddgdgauthreview.com
 northernrepairsables.com
 northernriverspestcontrol.com.au
 northernsafety-dot-exceldownloads.uk.r.appspot.com
-northernvirginiaeyeassociates.com
 northga.rocks
 northgate.network
 northinjel.cloudaccess.host
@@ -316683,7 +316685,6 @@ nusaefa.tuskilenstileawitesokemog.link
 nusantarajayakonveksi.com
 nusapintar.masuk.id
 nusaspin.co-ud.com
-nusatoyota.co.id
 nusbpvjhbhhdkqsu-dot-millinium.ey.r.appspot.com
 nusciwgtmrxrsdwbhjqoyomizz-dot-glmar9393293232323.uk.r.appspot.com
 nusirei.com
@@ -359806,7 +359807,6 @@ redlandsfinancialgroup.com
 redlaneequestrian.co.uk
 redlinkbits.top
 redlion-lb.com
-redlk.com
 redllnk.ddns.net
 redllnk.sytes.net
 redmaniacgames.obradoiro.rianxo.gal
@@ -368528,7 +368528,6 @@ rubbery-sturdy-sheep-30jm5p.teleporthq.app
 rubberydamagedrecords--five-nine.repl.co
 rubbly-bud.000webhostapp.com
 rubbly-diagram.000webhostapp.com
-rubburizee.es
 rubbyhaddock.com
 rubcare.com
 rubdxzpdpwyregog-dot-millinium.ey.r.appspot.com
@@ -373915,7 +373914,6 @@ sco-verify7492.netlify.app
 scoala1gherla.ro
 scoaladejoaca.ro
 scomcluster.cxense.com
-scooter.cozyvistany.com
 scope-consent-purger.vercel.app
 scopenewauth-govportal.se-sto-1.linodeobjects.com
 scorecardresearch.com
@@ -375287,7 +375285,6 @@ sevcviicess.weebly.com
 severozapadonlineparts.ru
 sevvviicess.weebly.com
 sewtrak.com
-sex.gemlogin.space
 sf-epal.com
 sf.bizible.com
 sfd3.xyz
@@ -376587,7 +376584,6 @@ snow-giraffe-791916.hostingersite.com
 snowbranche.vercel.app
 snowmanplan.cn
 snowplow.ownlocal.com
-snowproject.lol
 snowspikes-mist-drab.vercel.app
 snowstormx.vercel.app
 snowstormy.vercel.app
@@ -376699,6 +376695,7 @@ solana2mix.to
 solankisuryansh.github.io
 solankitanu532-lgtm.github.io
 solar-metal-snickerdoodle.glitch.me
+solar-sanat.net
 solaris-vault-9g6.pages.dev
 solcialpod.jqfdesigns.com
 soldervalidatedapp.pages.dev
@@ -376926,7 +376923,6 @@ sp839895.sitebeat.crazydomains.com
 sp863481.sitebeat.crazydomains.com
 sp88097.sitebeat.crazydomains.com
 sp944457.sitebeat.crazydomains.com
-spa-com.com
 space-ledger-cdn.teachable.com
 space-start-io-trezor-com.webflow.io
 spacecitytax.com
@@ -379347,6 +379343,7 @@ streamline-line.vercel.app
 streamline-local-manage-uid36729041.vercel.app
 streamlined-byte.vercel.app
 streamlined-exit.vercel.app
+streammobs.com
 streamnf.com
 streamweb33images.com
 streamyq-gold.vercel.app
@@ -379664,6 +379661,7 @@ summer130421.028426.com
 summerdcxc.zeabur.app
 summitalarm.com
 summitsicredidegovernanca.com.br
+sumnitasinvestment.com
 sumome.com
 sumondavid94.wixsite.com
 sumozizadux.weebly.com
@@ -381649,7 +381647,6 @@ telaria.adhaven.com
 telariaeventsbidder-east.extend.tv
 telasegura.sbs
 tele.trafficmanager.net
-teleabonent.ru
 telechargervotredoc.dyndns-at-work.com
 telecom.taskfido.com
 telecommand.telemetry.microsoft.com
@@ -384153,6 +384150,7 @@ trinitymirror.grapeshot.co.uk
 trinityreservations.com
 trio-tech.co.in
 trionis-node.pages.dev
+tripfarely.com
 triphubef.vercel.app
 triplepevents.com
 triubfuebndaxiojfniwifudhe.netlify.app
@@ -384649,7 +384647,6 @@ twomaidscrm.com
 twopagescurtains.offer.safeopt.com
 twotreymedia10001697.o18.click
 twrbx.xyz
-twu-hwt.org
 twxhwpuzyc.myfunnelish.com
 tx0505.cn
 tx1015.com
@@ -385711,7 +385708,6 @@ us.dev.zeronaught.com
 us.info.lgsmartad.com
 us.inmobi.koneomobiledsp.com
 us.tags.newscgp.com
-us.wind0ws.net
 us01.rayjump.com
 us0eoeoefus0eoeoefus0eoeoefus0eoeoefu.netlify.app
 us1-sdk.bluedot.io
@@ -389272,7 +389268,6 @@ webbsma.com
 webcaption-8py9.vercel.app
 webcaption-ys66.vercel.app
 webcome-sso-exodus.teachable.com
-webcstore.pw
 webctkkpn-3gla.vercel.app
 webdatadata.pages.dev
 webde-100183.weeblysite.com
@@ -390754,7 +390749,6 @@ wordpress.nabytek-bytovestudio.cz
 wordpress2541901.home.pl
 wordpresstest123123213.azurewebsites.net
 wordsalsa.net
-wordtax.ink
 work.onlinesoftwareservices.org
 work1.openl7711.workers.dev
 workaccount.online
@@ -391056,6 +391050,7 @@ ww2951.smartadserver.com
 ww3050.smartadserver.com
 ww38.usps.today
 ww54.weebly.com
+wwalucircle.com
 wwe34tt4.weebly.com
 wweewe7.vercel.app
 wwess33697.top
@@ -391195,13 +391190,13 @@ www.chenwangqiao.com
 www.civicscience.com
 www.clarity.ms
 www.controliumbt.com
+www.craftsparkdimensions.com
 www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
 www.exoduswallet.at
 www.first-security-verden.de
 www.geoplugin.net
-www.gestroom.it
 www.google-analytics.com
 www.googleadservices.com
 www.hostingcloud.science
@@ -391224,12 +391219,10 @@ www.newkey.co.kr
 www.newsbreak.com
 www.notbak.com
 www.npttech.com
-www.ojang.pe.kr
 www.okhan.net
 www.pingu.surf
 www.pointtohealth.com
 www.reifenquick.de
-www.ryzhe.com
 www.saf-oil.ru
 www.salonmarketing.ca
 www.sc.pages03.net
@@ -391241,7 +391234,6 @@ www.ss-01.com
 www.starcountry.net
 www.storygize.net
 www.summerhamster.com
-www.support-data.com
 www.talkable.com
 www.tamgrt.com
 www.tapresearch.com
