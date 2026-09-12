@@ -1,6 +1,6 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-09-11 08:32:20
-# Total Unique Domains: 392647
+# Update: 2026-09-12 08:20:45
+# Total Unique Domains: 392645
 
 0-105.com
 0-9-8-7-6-5-4-3-2-1-0.live
@@ -674,7 +674,6 @@
 02sales.redtrimnare.online
 02secure-billing.com
 02servaccnt04.ddns.net
-02teste.cc
 02yah001e0-y0mai11i-winver121-ios19.netlify.app
 02yhsds.pages.dev
 03-04-03-59t-93y5tt-1324992141.cos.ap-bangkok.myqcloud.com
@@ -94209,6 +94208,7 @@ awareness.dss-connect.de
 awareness.pln.co.id
 awareness28.wixsite.com
 awarenesscovert.com
+awarenessexhibition.com
 awareofthat.za.com
 awarlkbprarcxbblrznbulkhburcfeydktwv-dot-glxcel49934343434.rj.r.appspot.com
 awat.ir
@@ -108746,6 +108746,7 @@ beagle-antelope-ktw8.squarespace.com
 beaglepupslovers.com
 beagoodfrnd.netlify.app
 beaheaa.com
+beak.in
 bealert.online.homesbyleah.co.ke
 bealocalexp.com
 beam-r2hwfsze7h0mrn54fcpv.netlify.app
@@ -117054,7 +117055,6 @@ bluenonagon.com
 blueoakretreat.com
 blueocean-plus.com
 blueocean.cl
-blueoceanealtd.co.ke
 blueoceanindustries.com
 blueoceanlean.com
 blueoceanoutdoors.co
@@ -119705,7 +119705,6 @@ booking.assistcenter.world
 booking.autodelivered.xyz
 booking.autoordered.xyz
 booking.autoorders.xyz
-booking.captcha-message-extranet.com
 booking.chlc3.com
 booking.clickers-safetidetaliz.info
 booking.com-31t.prop5253145.homes
@@ -132482,6 +132481,7 @@ cdn.dragon.cere.network
 cdn.dynamicyield.com
 cdn.easyapple.diy
 cdn.exelator.com
+cdn.file6.goodid.com
 cdn.firstimpression.io
 cdn.flashtalking.com.edgekey.net
 cdn.flurry.com
@@ -133021,7 +133021,6 @@ celebirtygossip.com
 celebrate.icu
 celebrated-bublanina-665913.netlify.app
 celebrated-puppy-cf6cdf.netlify.app
-celebratingseniors.net
 celebrityawardi2023.pages.dev
 celebritytvstars.com
 celebshine.com
@@ -136951,6 +136950,7 @@ cicrmglobal.com
 cid-02475326.notice-pages.com
 cid-31037827.notice-pages.com
 cid-67512096.notice-pages.com
+cid.gov.so
 cidabracher.com.br
 cidaderefugio.com.br
 cidadeweb.tv.br
@@ -137688,7 +137688,6 @@ cl.org-notify.beckerpumps.mx
 cl.s10.exct.net
 cl.selfhost.co.in
 cl.serveirc.com
-cl.ssouy.com
 cl.ws000nsxc.cloudns.asia
 cl05460.tmweb.ru
 cl09.cl-three.space
@@ -140491,7 +140490,6 @@ co-54873322-com.preview-domain.com
 co-coinbase-prolgoin.gitbook.io
 co-colat.ws
 co-colidsupport.com
-co-emas.com
 co-es-metaacccaountscenterrhelpverify.pages.dev
 co-find-mi.ws
 co-gmtdmp.mookie1.com
@@ -147384,7 +147382,6 @@ coralgables-bridals.com.usrfiles.com
 coraliax.vercel.app
 corallz.com
 coralon.com
-coralpac.com
 corazondelmadidi.com
 corazonesunidosep.org
 corazonmayagt.com
@@ -147753,7 +147750,6 @@ cota.tur.br
 cotads.adscale.de
 cotaspremiadas.com.br
 coteaqui.planosparavc.com.br
-cotecsecuritygroup.com
 cotem-add.web.app
 cotexllc.000webhostapp.com
 cothweb.org
@@ -191989,6 +191985,7 @@ file.netools.workers.dev
 file.purchasedoc.workers.dev
 file.sharedd-project-document.workers.dev
 file.srfreightbd.com
+file.uhsea.com
 file.zeahezea.sa.com
 file05.onedrive0001.workers.dev
 file0900.com
@@ -192802,6 +192799,7 @@ firmware.meta-mask.info
 firmware.saifmobile.com
 firmwareupdatetrezor.com
 firo-blockbook.twnodes.com
+firojkhan.com.np
 firqi.sbs
 firrewaall.co.vu
 firrstrepublicfile.s3.us-west-2.amazonaws.com
@@ -195602,6 +195600,7 @@ fotook.ru
 fotoporcelanapanama.com
 fotoproductinsta.com
 fotoschuppen.net
+fotosdepuebla.org
 fotosface.info
 fotoshop-instagram.b0tnet.com
 fotoshop-product.com
@@ -200103,7 +200102,6 @@ gagnezduchanvre.000webhostapp.com
 gagsgaga.blogspot.com
 gahcojysfpllwzer-dot-millinium.ey.r.appspot.com
 gahwjj.blogspot.gr
-gaiadeqi.com
 gaiarec.org
 gaif.alvimadvogados.com.br
 gaigai.dongxiaoli94.workers.dev
@@ -203269,6 +203267,7 @@ gestmsmions.firebaseapp.com
 gestordepartes.com
 gestoriacampalans.com
 gestoriaenparaguay.com.py
+gestroom.it
 gesundheit-zu-hause.com
 gesx.top
 get--opportunity-to-be-verified.vercel.app
@@ -205535,6 +205534,7 @@ glazz.dnsget.org
 glballogistics.com
 glbbaserv.ml
 glbe.co
+glbeletronica.com.br
 glbhmjzsovkywfvhjqknuwiurkedfevhqbnm-dot-cryptic-now-290917.ey.r.appspot.com
 glbticket.bio
 glccgeiqdwuykvej-dot-millinium.ey.r.appspot.com
@@ -205846,7 +205846,6 @@ globalservbusiness.com
 globalshopma.top
 globalsrv.srvsupportinfo.com
 globalstylenews.com
-globalsupportupdate.top
 globaltechdeal.com
 globaltiktokshopmall.top
 globaltokenx.com
@@ -206601,7 +206600,6 @@ goberryllium.com
 gobiernoygestion.com.mx
 gobikehike.com
 gobinbbc404.azurewebsites.net
-gobiotechpestcontrol.com
 gobjudicial.royalwebhosting.net
 goblesdd.elementor.cloud
 goblog166.blogspot.com
@@ -222674,7 +222672,6 @@ hip-burly-paranthodon.glitch.me
 hip-cake-mink.glitch.me
 hip-concise-booklet.glitch.me
 hip-cottony-mountain.glitch.me
-hip-hop-comms.com
 hip-tangible-heaven.glitch.me
 hip5-cmm.pages.dev
 hipaapotomus.com
@@ -223970,7 +223967,6 @@ hobgsmlqqmipvrnj-dot-millinium.ey.r.appspot.com
 hobhkk7262owivg.cc
 hobnw-hiaaa-aaaam-abaga-cai.raw.ic0.app
 hoboauvitrznpoer-dot-millinium.ey.r.appspot.com
-hobobot.net
 hobokenpetz.com
 hocallost.com
 hochthurn.de
@@ -226976,6 +226972,7 @@ htcelasnc.webcindario.com
 htcsupport.webhop.me
 htd.com.np
 htd5.vip
+htdentshop.com
 htdf-id.xyz
 htdjhdetjethbsdhrhgaehrehsge-h288.vercel.app
 htdocs-bn2.pages.dev
@@ -231987,6 +231984,7 @@ ikgviosz.weebly.com
 ikhmepft.com
 ikiginqfyr.duckdns.org
 ikikuiu.weeblysite.com
+ikincielesyaciankara.com.tr
 ikitele.vercel.app
 ikiztarim.com
 ikjgttlfww.duckdns.org
@@ -234421,6 +234419,7 @@ indonesia-viral2022.forumz.info
 indonesiabantuandana.fjfu.my.id
 indonesiabasahviral2020.000webhostapp.com
 indonesiaorganik.id
+indonesias.me
 indongrupswadewasa.jdtfz.tk
 indoon14.tk
 indoplexxi.vin
@@ -261772,7 +261771,6 @@ leandermitchell.com
 leandrohenriq.github.io
 leandroserain.com.br
 leanldedyjerlogh-dot-millinium.ey.r.appspot.com
-leanmaestro.com
 leanmanagement.ro
 leanmobi.fusetracking.com
 leannethdam.buzz
@@ -283366,6 +283364,7 @@ masseengxr.xyz
 massege.aaiblab.co
 massege.abaabli.co
 massengernic-support.tk
+massgravel.dev
 massiamimeite03.wixsite.com
 massibale.cu.ma
 massieve-deuren.be
@@ -316685,6 +316684,7 @@ nusaefa.tuskilenstileawitesokemog.link
 nusantarajayakonveksi.com
 nusapintar.masuk.id
 nusaspin.co-ud.com
+nusatoyota.co.id
 nusbpvjhbhhdkqsu-dot-millinium.ey.r.appspot.com
 nusciwgtmrxrsdwbhjqoyomizz-dot-glmar9393293232323.uk.r.appspot.com
 nusirei.com
@@ -324857,6 +324857,7 @@ osram.com.bd
 osrbdusvyrcdhkgs-dot-millinium.ey.r.appspot.com
 osrsvotedd-001-site1.atempurl.com
 osrzmefjyr.pqnsatfas.net
+oss.cop.lat
 oss.sanwe.workers.dev
 ossadiva.com
 ossamazaidi.github.io
@@ -328763,7 +328764,6 @@ panel-one.ru
 panel-sagem-urls-celebs.trycloudflare.com
 panel.hiddify.top
 panel.home.pl.muna.it
-panel.mkk9991999912.observer
 panel.moat.com
 panel.ogspy.net
 panel.openbenchvehicle.org
@@ -375859,7 +375859,6 @@ si.team-pq.com
 si.team-rq.me
 si.team-sey.com
 si.team-stt.com
-siaasesoria.com.mx
 siamlaw.com
 siap.tahory.site
 sibfjytmt5.duckdns.org
@@ -376666,7 +376665,6 @@ softpanela.vercel.app
 softvarious.com
 softwagon.tech
 software-case.vercel.app
-software-gateway.click
 software-manage-git-main-id43651289.vercel.app
 softwindev.vercel.app
 sofugimaseu.vercel.app
@@ -378648,7 +378646,6 @@ static.googleadsserving.cn
 static.gridsumdissector.com
 static.hotjar.com
 static.hyprmx.com
-static.ilclock.com
 static.innovid.com
 static.intentarget.com
 static.iterable.com
@@ -383012,7 +383009,6 @@ tr.blismedia.com
 tr.creativered7.com
 tr.iadsdk.apple.com
 tr.snapchat.com
-tr.zhzy999.net
 tr2.smarterhq.io
 tr6.snapchat.com
 tra0f-kfjd-sksj.s3.eu-north-1.amazonaws.com
@@ -384647,6 +384643,7 @@ twomaidscrm.com
 twopagescurtains.offer.safeopt.com
 twotreymedia10001697.o18.click
 twrbx.xyz
+twu-hwt.org
 twxhwpuzyc.myfunnelish.com
 tx0505.cn
 tx1015.com
@@ -391177,6 +391174,7 @@ www-two-step-businesss-center-2025.onrender.com
 www-two-step-mobilee-manageer.ubpages.com
 www-usps-verification.iphonecvok.dpdns.org
 www-website-dana.rresmii.top
+www.0akw8w.com
 www.adxserve.com
 www.ardguisser.com
 www.astenterprises.com.pk
@@ -391219,6 +391217,7 @@ www.newkey.co.kr
 www.newsbreak.com
 www.notbak.com
 www.npttech.com
+www.ojang.pe.kr
 www.okhan.net
 www.pingu.surf
 www.pointtohealth.com
@@ -392388,7 +392387,6 @@ zero-cool-x0.github.io
 zestful-page-296980.framer.app
 zesty-00000-docusystem0000.glitch.me
 zetalube.co.kr
-zetaval.metcalfphoto.com
 zetyazilim.com
 zeus-user.cc
 zeus.028426.com
