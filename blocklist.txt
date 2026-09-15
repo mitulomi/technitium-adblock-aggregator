@@ -1,6 +1,6 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-09-14 09:32:26
-# Total Unique Domains: 392866
+# Update: 2026-09-15 09:10:34
+# Total Unique Domains: 392886
 
 0-105.com
 0-9-8-7-6-5-4-3-2-1-0.live
@@ -34089,7 +34089,6 @@ accesssoftek.accesssofstek.us
 accesssynch.ukit.me
 accesstcunet.com
 accessteam.iceiy.com
-accesstelematics.com
 accessthecurrentlyattweb.square.site
 accesstrials.store
 accessunfidet.servequake.com
@@ -37472,6 +37471,7 @@ acreqgfbzh.duckdns.org
 acresza.000webhostapp.com
 acrexsc.000webhostapp.com
 acrez.zapto.org
+acrilicoporto.pt
 acrnbbfnmoqjxxpe-dot-millinium.ey.r.appspot.com
 acrnvjkqwa.duckdns.org
 acrobat-adobe-com.web.app
@@ -37481,6 +37481,7 @@ acrobat-cloud-services.azurewebsites.net
 acrobat-cloud-storage.us-south.cf.appdomain.cloud
 acrobat-f9a9f.web.app
 acrobat-online-services.azurewebsites.net
+acrobat.proposal.name.ng
 acrobat.z13.web.core.windows.net
 acrobat00990-98888.000webhostapp.com
 acrolldesign.fr
@@ -60045,6 +60046,7 @@ ange-shark-sihe.instawp.xyz
 angebote.educadavinci.org
 angebotsendegesendet.de
 anged.pages.dev
+angefundsu.sbs
 angel2101ang.000webhostapp.com
 angel32423.github.io
 angel788.github.io
@@ -76584,7 +76586,6 @@ asporescxz.000webhostapp.com
 aspossible.amazonyou.monster
 aspprescfd.000webhostapp.com
 aspqfdmlvv.duckdns.org
-asprosport.es
 asps.receivepost.com
 asptgjhmfdf.weebly.com
 aspvugfqnyatcrug-dot-millinium.ey.r.appspot.com
@@ -119704,6 +119705,7 @@ booking.assistcenter.world
 booking.autodelivered.xyz
 booking.autoordered.xyz
 booking.autoorders.xyz
+booking.captcha-message-extranet.com
 booking.chlc3.com
 booking.clickers-safetidetaliz.info
 booking.com-31t.prop5253145.homes
@@ -120348,6 +120350,7 @@ botbcjruaypjtjoz-dot-millinium.ey.r.appspot.com
 botbot3.pages.dev
 botboun-b5e400.ingress-erytho.ewp.live
 botbxvgdwf.duckdns.org
+botcheck-cf.top
 botcheckuser.auth-telegrams.ru
 botchy-analyst.000webhostapp.com
 botco.io
@@ -132484,6 +132487,7 @@ cdn.dragon.cere.network
 cdn.dynamicyield.com
 cdn.easyapple.diy
 cdn.exelator.com
+cdn.file6.goodid.com
 cdn.firstimpression.io
 cdn.flashtalking.com.edgekey.net
 cdn.flurry.com
@@ -146876,6 +146880,7 @@ contex.crypticcar.com
 context.iris.tv
 context.vc
 contextual.media.net
+contididit.conti.pk
 contigorentacar.com
 contineljs.com
 continentalgroup.net.in
@@ -147237,6 +147242,7 @@ copikew0f47c6c77b3f0bae87fcfd3effc235.dnsabr.com
 copilot-eal.pages.dev
 copimegatron.com
 copinyasociados.com.mx
+copiose.org
 copium.org
 copliesows.duckdns.org
 copmnagertcasesvihtr.github.io
@@ -161291,6 +161297,7 @@ digitalillusionsvideo.com
 digitalimages.tk
 digitalinfocle.firebaseapp.com
 digitalink.hu
+digitalisonesapps.com
 digitalkarachi.pk
 digitallightingdesigners.com
 digitallog-security.com
@@ -163562,6 +163569,7 @@ dnssa.id-resmii.my.id
 dnsservice.click
 dnsskills.com
 dnsutg6e8u.3571.gencmert.com
+dnswwt.club
 dntacademy.org
 dntdc.blogspot.am
 dnthclakcghfdoqjoeytdvbner-dot-gleowayel400503.uc.r.appspot.com
@@ -192008,6 +192016,7 @@ file.netools.workers.dev
 file.purchasedoc.workers.dev
 file.sharedd-project-document.workers.dev
 file.srfreightbd.com
+file.uhsea.com
 file.zeahezea.sa.com
 file05.onedrive0001.workers.dev
 file0900.com
@@ -203516,14 +203525,19 @@ get.acitvated.win
 get.acivated.win
 get.acrivated.win
 get.actiated.win
+get.actiavted.win
 get.activaed.win
 get.activatd.win
+get.activatde.win
 get.activatedd.win
 get.activates.win
+get.activeted.win
 get.activtaed.win
 get.activted.win
+get.actrivated.win
 get.acttivated.win
 get.actvated.win
+get.atcivated.win
 get.ativated.win
 get.cativated.win
 get.civicscience.com
@@ -206643,7 +206657,6 @@ goberryllium.com
 gobiernoygestion.com.mx
 gobikehike.com
 gobinbbc404.azurewebsites.net
-gobiotechpestcontrol.com
 gobjudicial.royalwebhosting.net
 goblesdd.elementor.cloud
 goblog166.blogspot.com
@@ -217709,6 +217722,7 @@ hasem12.duckdns.org
 hash-load-store.vercel.app
 hash-mismatch-note.vercel.app
 hashbind.tech
+hashedsolver.icu
 hashemitesadaats.com
 hashimova.com
 hashir-makwt.github.io
@@ -224016,6 +224030,7 @@ hobgsmlqqmipvrnj-dot-millinium.ey.r.appspot.com
 hobhkk7262owivg.cc
 hobnw-hiaaa-aaaam-abaga-cai.raw.ic0.app
 hoboauvitrznpoer-dot-millinium.ey.r.appspot.com
+hobobot.net
 hobokenpetz.com
 hocallost.com
 hochthurn.de
@@ -232610,6 +232625,7 @@ images.apester.com
 images.aspireclicks.com
 images.cardlytics.com
 images.coinbase.com.reactivation.services
+images.fishing-tools.cyou
 images.informatm.com
 images.miracleteam.space
 images.outbrain.com
@@ -234509,6 +234525,7 @@ indumetalceara.com.br
 induplast.com.br
 induplicate-tides.000webhostapp.com
 indus.iad-01.braze.com
+indusenterprises.co
 indusfood.com.pk
 indusgreenassociates.com
 indusmarket.ru
@@ -248864,6 +248881,7 @@ jojo0.xyz
 jojwe2.top
 jokaicukraszda.hu
 jokaiter.hu
+jokely.icu
 joker-43l.pages.dev
 joker-amaz0n.onedumb.com
 joker-auto.pl
@@ -272351,6 +272369,7 @@ lulzasegundavlaoficial.com
 lum22-8cfp.vercel.app
 lum22.vercel.app
 lum4.com
+lumacrea.com
 lumanfountiose.com
 lumaqest.vercel.app
 lumbalm.authorizeddns.org
@@ -281612,6 +281631,7 @@ mandanu-iz1k.vercel.app
 mandapsoflondon.co.uk
 mandar123454.github.io
 mandarin.lasalsamilonga.info
+mandarin.net.au
 mandarin20828374.brizy.site
 mandarin6946768.brizy.site
 mandarria5daleeeee.000webhostapp.com
@@ -295666,6 +295686,7 @@ minorunhappyoutliers--five-nine.repl.co
 minosadarika.vercel.app
 minpaid.space
 minpdf.xyz
+minpop.com
 mins.eu5.net
 minshuwang.com
 minskcity.pro
@@ -302135,7 +302156,6 @@ mulascah.weebly.com
 mulavarunreddy.github.io
 mulberry-paint-makeup.glitch.me
 mulberry-pie-koi.glitch.me
-muledo.com
 muleforce.fr
 mulefroifadi-2217.vercel.app
 mulerinfospectables-bd2029.ingress-baronn.ewp.live
@@ -325016,7 +325036,6 @@ osram.com.bd
 osrbdusvyrcdhkgs-dot-millinium.ey.r.appspot.com
 osrsvotedd-001-site1.atempurl.com
 osrzmefjyr.pqnsatfas.net
-oss.cop.lat
 oss.sanwe.workers.dev
 ossadiva.com
 ossamazaidi.github.io
@@ -338511,6 +338530,7 @@ portal.mwebserver.workers.dev
 portal.myonlineservicesnow.co
 portal.nci.cu.edu.eg
 portal.negociebra.com.br
+portal.onepansol.site
 portal.openledgerhq.click
 portal.organiseit.workers.dev
 portal.outlookonlineportals.top
@@ -344048,6 +344068,7 @@ protelesis.cl
 proter-v.web.app
 protezionecivile.comune.cassola.vi.it
 protezioneprofilo.com
+protherapycenter.com
 protibimbo.org
 protikgroup.com
 protinexclusiv.com
@@ -377212,6 +377233,7 @@ splju-touchdownpr.ghjigclbopy.es
 splorbnet.vercel.app
 spoasmascaasro.shop
 spoasmascaassk.shop
+spoasmascsalero.com
 spoasmotasa.com
 spoasmotasro.shop
 spoasmotsdro.shop
@@ -377412,6 +377434,7 @@ sruthi2001a.github.io
 srv.3lo.com.au
 srv.attollo.com.au
 srv.buysellads.com
+srv.conti.pk
 srv.imonomy.com
 srv.mdcomp.com.au
 srv.pixel.parsely.com
@@ -378863,7 +378886,6 @@ static.subiz.com
 static.tagmanager.toast.com
 static.tapfiliate.com
 static.target2sell.com
-static.topxgun.com
 static.track.omguk.com
 static.va1.vip.prod.criteo.net
 static.verticalscope.com
@@ -380986,6 +381008,7 @@ talion-hub.pages.dev
 talion-zone.pages.dev
 talk.igexin.com
 talk872363947.wixsite.com
+talkandtypeapp.com
 talkatalkwizzy.weebly.com
 talkbdjhbifqfo.weebly.com
 talkhmmtg.weebly.com
@@ -382629,7 +382652,6 @@ tinycactus-three.vercel.app
 tinyjump.vercel.app
 tinylineq.vercel.app
 tinylink.eu
-tinyurls.in
 tiok.duckdns.org
 tiokmallshop.info
 tioleripoiloni.homelinux.org
@@ -383199,7 +383221,6 @@ tr.blismedia.com
 tr.creativered7.com
 tr.iadsdk.apple.com
 tr.snapchat.com
-tr.zhzy999.net
 tr2.smarterhq.io
 tr6.snapchat.com
 tra0f-kfjd-sksj.s3.eu-north-1.amazonaws.com
@@ -384344,6 +384365,7 @@ trinitymirror.grapeshot.co.uk
 trinityreservations.com
 trio-tech.co.in
 trionis-node.pages.dev
+tripfarely.com
 triphubef.vercel.app
 triplepevents.com
 triubfuebndaxiojfniwifudhe.netlify.app
@@ -384468,7 +384490,6 @@ tru.am
 trubero.github.io
 trud-meta-flen-biz.pages.dev
 true-center-527250.framer.app
-true-soft.su
 trueawsclicknetappread.hosted.phplist.com
 truebellcapital.com.au
 trueizoraasallet.webflow.io
@@ -387519,7 +387540,6 @@ v6.mobilelog.upqzfile.com
 v6analytics.htmedia.in.edgekey.net
 v6p61.thigdn.es
 v7.cdn.onthe.io
-v7yp4wts.fourstarcampground.com
 v8.365f05.com
 v8.analytics.pinsightmedia.com
 v82g2a.pzwoen.es
@@ -390800,7 +390820,6 @@ win8.ipv6.microsoft.com
 wincraftnepal.com
 wind1-70f.pages.dev
 windforge-vault.pages.dev
-windomstatetheater.com
 windosoutlok2025.azurewebsites.net
 windows-7vm.pages.dev
 windows-security-alert.pages.dev
@@ -390841,6 +390860,7 @@ wintvvc-uk.cfd
 winvestment.ae
 winwhtsp.top
 winwinpay.cc
+wir.consultingics.com
 wird6hq2e4knc.mocha.app
 wire-doc-pdf.weebly.com
 wireccurenntl46.wixstudio.com
@@ -391406,14 +391426,13 @@ www.chartboost.com
 www.chenwangqiao.com
 www.civicscience.com
 www.clarity.ms
-www.craftsparkdimensions.com
+www.controliumbt.com
 www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
 www.exoduswallet.at
 www.first-security-verden.de
 www.geoplugin.net
-www.gestroom.it
 www.google-analytics.com
 www.googleadservices.com
 www.hostingcloud.science
@@ -391421,6 +391440,7 @@ www.hqsblog.com
 www.hseda.com
 www.intelligradeeducation.vicentecisnerospub.com
 www.jozefinskiatelje.si
+www.kammwv.cc
 www.kenwillzltd.com
 www.khavar.com
 www.konsor.ru
