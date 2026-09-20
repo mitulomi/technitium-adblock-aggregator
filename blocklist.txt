@@ -1,6 +1,6 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-09-19 08:30:22
-# Total Unique Domains: 392888
+# Update: 2026-09-20 09:03:06
+# Total Unique Domains: 392875
 
 0-105.com
 0-9-8-7-6-5-4-3-2-1-0.live
@@ -13142,7 +13142,6 @@
 3bnwebbpichincha.webcindario.com
 3bood89.standardseoservices.com
 3boredguys.com
-3brosstore.com
 3bscafe.com
 3btgzfk74gxejzr.qwo231sdx.club
 3btvalruqoxo.wusps.xyz
@@ -108742,7 +108741,6 @@ beagle-antelope-ktw8.squarespace.com
 beaglepupslovers.com
 beagoodfrnd.netlify.app
 beaheaa.com
-beak.in
 bealert.online.homesbyleah.co.ke
 bealocalexp.com
 beam-r2hwfsze7h0mrn54fcpv.netlify.app
@@ -108999,6 +108997,7 @@ beckymccrea.com
 beclosertogod.com
 becmj-aiaaa-aaaad-qd26q-cai.raw.ic0.app
 becnb.blogspot.com
+becof.org
 become-hypesquad.com
 becomeawordpressguru.com
 becomeeco.com
@@ -117067,6 +117066,7 @@ bluepmc.byethost18.com
 bluepointtech.weebly.com
 bluepoppy.co.uk
 blueprime.eu
+blueprint-71.com
 blueprint.3azeb.info
 blueprint.sd
 blueprintgame.net
@@ -155300,7 +155300,6 @@ dcdprjdxqwoksgyaspgqjcsfccmbkxglvrzw-dot-cedar-code-289917.nn.r.appspot.com
 dceklpcrtupzfcld-dot-millinium.ey.r.appspot.com
 dcfdbgfnjdcvfcfb.blogspot.tw
 dcfffg.vrl2023.com
-dcfpp.com
 dcfsabtldlhpxukh-dot-owaonk399399393.uk.r.appspot.com
 dcfvdsdf.blogspot.be
 dcfvre11.blogspot.com
@@ -174153,7 +174152,6 @@ en.securebanking.com.sg
 en.service-paypal.net
 en.smartappweb.org
 en.super-cleaning.be
-en.taichuan.com
 en.timoutupdate.in
 en.ucbi-groups.com
 en.ufm.edu.vn
@@ -174373,7 +174371,6 @@ endorse.dessertboxku.gif15.duckdns.org
 endorsed-loran.000webhostapp.com
 endorseddu.com
 endpoint-fail.vercel.app
-endpoint.project0.cc
 endrizzi.com
 enduld.tk
 endurable-emerald-lip.glitch.me
@@ -175383,7 +175380,6 @@ ephnrssuypjbtbuu-dot-millinium.ey.r.appspot.com
 ephotostudio.sg
 epi-genetica.com
 epi-k.com.mx
-epibenie.dz
 epic-agnesi-be0ff4.netlify.app
 epic-albattani-ae03e7.netlify.app
 epic-banach-e4261c.netlify.app
@@ -192012,6 +192008,7 @@ file.netools.workers.dev
 file.purchasedoc.workers.dev
 file.sharedd-project-document.workers.dev
 file.srfreightbd.com
+file.uhsea.com
 file.zeahezea.sa.com
 file05.onedrive0001.workers.dev
 file0900.com
@@ -195676,7 +195673,6 @@ founders-center-1994545233616657579.tk
 founders-center-1994545233616657580.tk
 foundersclick.com
 foundmydevice.000webhostapp.com
-foundrysourcings.co.uk
 fountainbob.com
 fountainmediaandcommunicationsgroup.com
 fountainofhope.com
@@ -207140,7 +207136,6 @@ gonzalezgarcia.pl
 gonzalezlawnandlandscaping.com
 gonzaloperezburillo.com
 gonzalopides.github.io
-gonzaskid-1.paiza-user-free.cloud
 goo-gleauthentication.000webhostapp.com
 goo.ggledrive.com
 goo.gs
@@ -226235,7 +226230,6 @@ hpepretd.cc
 hper.in
 hperkins4809.myportfolio.com
 hpfhnpztmvvhxmcv-dot-millinium.ey.r.appspot.com
-hpfile.cyou
 hpfzqjmdmfazukhu-dot-millinium.ey.r.appspot.com
 hpg.depy.pro
 hpgratisgabungdanambil.loseyourip.com
@@ -227016,7 +227010,6 @@ htcelasnc.webcindario.com
 htcsupport.webhop.me
 htd.com.np
 htd5.vip
-htdentshop.com
 htdf-id.xyz
 htdjhdetjethbsdhrhgaehrehsge-h288.vercel.app
 htdocs-bn2.pages.dev
@@ -232700,7 +232693,6 @@ imap.oficinadoestudante.com.br
 imap.royal-eng.ps
 imap.sspl.com.au
 imap.updateantivir.us
-imap.usslimsounds.com
 imap1.attollo.com.au
 imap1.blackwatch71.com
 imap1.lectec.com.au
@@ -245803,6 +245795,7 @@ jltownerg-r-m-o-f-h-allc.net
 jlusas.cn
 jluxelit.com
 jluxnagcjv.duckdns.org
+jlwz.cn
 jlxk-casefb349361.vercel.app
 jlxuy-7iaaa-aaaad-qa7xa-cai.icp0.io
 jlybujcs.sovereignty2020.com
@@ -257210,7 +257203,6 @@ kryptoconnect-support.com
 kryptomoney.000webhostapp.com
 kryptonclient-cracked.com
 kryptonclient-donutsmp.com
-kryptonclient.vip
 kryptonmedia.click
 kryptonserver.com
 krypyispji.duckdns.org
@@ -272351,6 +272343,7 @@ lulzasegundavlaoficial.com
 lum22-8cfp.vercel.app
 lum22.vercel.app
 lum4.com
+lumacrea.com
 lumanfountiose.com
 lumaqest.vercel.app
 lumbalm.authorizeddns.org
@@ -281613,6 +281606,7 @@ mandanu-iz1k.vercel.app
 mandapsoflondon.co.uk
 mandar123454.github.io
 mandarin.lasalsamilonga.info
+mandarin.net.au
 mandarin20828374.brizy.site
 mandarin6946768.brizy.site
 mandarria5daleeeee.000webhostapp.com
@@ -293002,7 +292996,6 @@ metrics.brightcove.com
 metrics.client-eng.a2z.com
 metrics.fedex.com
 metrics.fidelity.com.edgekey.net
-metrics.gocloudmaps.com
 metrics.hackerrank.com.edgekey.net
 metrics.icloud.com
 metrics.kmsmep.com
@@ -328404,7 +328397,6 @@ palermoimagen.com
 palestinevoteingd.blogspot.com
 paletimpot.beget.tech
 palettoa.vercel.app
-palharesinformatica.com.br
 paliatorio.ru.com
 palingviralsxx.duckdns.org
 paliodasti.com.usrfiles.com
@@ -367054,7 +367046,6 @@ ropjqqlatqbdonsf-dot-owaonk399399393.uk.r.appspot.com
 roplixa.vercel.app
 ropones.net
 roproabiasetermanufacture.live
-roptik.com
 ropxoeos.aero.tt
 roq3rs1.hyperphp.com
 roqers.ml
@@ -371998,6 +371989,7 @@ sandbox.the-cave.co.uk
 sandbox.tinypass.com
 sandbox.trinket-shell.com
 sandbox.winschool.jp
+sandboxle.com.cn
 sandboxww.top
 sandburg.xfinityhelp.com
 sandeep-yallamilli.github.io
@@ -376089,7 +376081,6 @@ sign-upguld0n.godaddysites.com
 sign.in.fib.xqj.mybluehost.me
 sign.in.support.wxo.tma.mybluehost.me
 sign.tikmaillnow.com
-signageinsignia.co.za
 signal-beacon.s-onetag.com
 signal-layered-circuit.com
 signal-metrics-collector-beta.s-onetag.com
@@ -380977,7 +380968,6 @@ taiquan.cc
 taira9611.github.io
 taitei-andreea.ro
 taiyangchengwangshangkaihuqunaliya.verifytoken.com
-taizi.fdstat.vip
 tajs.qq.com
 takaecawl.xyz
 takaecawy.xyz
@@ -381005,6 +380995,7 @@ talion-hub.pages.dev
 talion-zone.pages.dev
 talk.igexin.com
 talk872363947.wixsite.com
+talkandtypeapp.com
 talkatalkwizzy.weebly.com
 talkbdjhbifqfo.weebly.com
 talkhmmtg.weebly.com
@@ -385038,7 +385029,6 @@ uaid.tap4459hzb.cc
 uakqz.cn
 uao-wswhatsapp.cc
 uartela.today
-uasputnik.com
 uasr208.github.io
 uaszxcsura.icu
 uaszxcsurc.icu
@@ -385444,6 +385434,7 @@ universal-8ef.pages.dev
 universal.iperceptions.com
 universalfxmm.com
 universalmsg.com
+universami.ge
 universe.send.microad.jp
 universeaccountvalidation.weebly.com
 universeactivecircleprofile.weebly.com
@@ -387821,7 +387812,6 @@ veltronixa.vercel.app
 veluntra-technology-productivity-boost-odd-wood-f26b.ellenplum9.workers.dev
 velvet-haven-dfk.pages.dev
 velvet-vault.pages.dev
-velvetcanyonline.xyz
 velvetce.vip
 velvetresidence.it
 velvetstone.vercel.app
@@ -389500,7 +389490,6 @@ webbsma.com
 webcaption-8py9.vercel.app
 webcaption-ys66.vercel.app
 webcome-sso-exodus.teachable.com
-webcstore.pw
 webctkkpn-3gla.vercel.app
 webdatadata.pages.dev
 webde-100183.weeblysite.com
@@ -391009,7 +390998,6 @@ worker4.advertnative.com
 workers-income25-encrypserver38782821-agreement.scanlonchiro.com
 workers-playground-cold-violet-5b28.jusang425.workers.dev
 workers-playground-wandering-dew-9153.jusang425.workers.dev
-workerstats.net
 workflix.myfunnelish.com
 workflow-hotfix.jimpike.com.au
 workflow.alpha.jimpike.com.au
@@ -391444,7 +391432,6 @@ www.jozefinskiatelje.si
 www.kenwillzltd.com
 www.khavar.com
 www.konsor.ru
-www.kryptonclient.lol
 www.leanplum.com
 www.lightboxcdn.com
 www.localytics.com
