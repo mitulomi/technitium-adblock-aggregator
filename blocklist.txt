@@ -1,6 +1,6 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-09-20 09:03:06
-# Total Unique Domains: 392875
+# Update: 2026-09-21 09:34:33
+# Total Unique Domains: 392878
 
 0-105.com
 0-9-8-7-6-5-4-3-2-1-0.live
@@ -37474,6 +37474,7 @@ acreqgfbzh.duckdns.org
 acresza.000webhostapp.com
 acrexsc.000webhostapp.com
 acrez.zapto.org
+acrilicoporto.pt
 acrnbbfnmoqjxxpe-dot-millinium.ey.r.appspot.com
 acrnvjkqwa.duckdns.org
 acrobat-adobe-com.web.app
@@ -37891,6 +37892,7 @@ activatedefiprotocol.com
 activatedmailservi.wixsite.com
 activatedmainnet.com
 activatedrepair.com
+activatef.win
 activatelinkedin1.weebly.com
 activatem4ilsaccount.hstn.me
 activatemembercc.com
@@ -64044,7 +64046,6 @@ api-payow.staging-technologies.com
 api-proxy.bee7.com
 api-public.addthis.com
 api-rectifynode.pages.dev
-api-relay.cc
 api-rewarded-video.fyber.com
 api-run-cloud.gatevvay365.workers.dev
 api-sdk.datadome.co
@@ -108741,6 +108742,7 @@ beagle-antelope-ktw8.squarespace.com
 beaglepupslovers.com
 beagoodfrnd.netlify.app
 beaheaa.com
+beak.in
 bealert.online.homesbyleah.co.ke
 bealocalexp.com
 beam-r2hwfsze7h0mrn54fcpv.netlify.app
@@ -128164,7 +128166,6 @@ c0xclient.cmsmarino.gob.ve
 c0ytfuootpqsnjvtv.qwo231sdx.club
 c1-3vw.pages.dev
 c1.adform.net
-c1.dstatbots.win
 c1.popads.net
 c1.seevinleboncoind.com
 c1.telemovil.tv
@@ -132484,6 +132485,7 @@ cdn.dragon.cere.network
 cdn.dynamicyield.com
 cdn.easyapple.diy
 cdn.exelator.com
+cdn.file6.goodid.com
 cdn.firstimpression.io
 cdn.flashtalking.com.edgekey.net
 cdn.flurry.com
@@ -140183,6 +140185,7 @@ cn.98mebetx.com
 cn.adidai.com
 cn.bemxpq.com
 cn.bomxpw.com
+cn.devglobal.biz
 cn.edu688.com
 cn.ey1dwqddmu2x.com
 cn.facebook.clbug.com
@@ -163564,7 +163567,6 @@ dnssa.id-resmii.my.id
 dnsservice.click
 dnsskills.com
 dnsutg6e8u.3571.gencmert.com
-dnswwt.club
 dntacademy.org
 dntdc.blogspot.am
 dnthclakcghfdoqjoeytdvbner-dot-gleowayel400503.uc.r.appspot.com
@@ -174152,6 +174154,7 @@ en.securebanking.com.sg
 en.service-paypal.net
 en.smartappweb.org
 en.super-cleaning.be
+en.taichuan.com
 en.timoutupdate.in
 en.ucbi-groups.com
 en.ufm.edu.vn
@@ -174371,6 +174374,7 @@ endorse.dessertboxku.gif15.duckdns.org
 endorsed-loran.000webhostapp.com
 endorseddu.com
 endpoint-fail.vercel.app
+endpoint.project0.cc
 endrizzi.com
 enduld.tk
 endurable-emerald-lip.glitch.me
@@ -195200,6 +195204,7 @@ forget-me.net
 forgetful-districts.000webhostapp.com
 forgetis-001-site1.gtempurl.com
 forgetskinny.xyz
+forgewillow.com
 forggbgvyc.duckdns.org
 forgivemeforwhoiam.pages.dev
 forgiving-star-868716.framer.app
@@ -226856,7 +226861,6 @@ hsebzcbyrm.duckdns.org
 hsecurity-accountprotection.000webhostapp.com
 hsecuritypayees.com
 hsecuritystoprequest.com
-hseda.com
 hsegbpscrbnatxeufgqjkpvzqz-dot-goff039302032323.rj.r.appspot.com
 hsegeeqjqx.duckdns.org
 hsehome.ga
@@ -227010,6 +227014,7 @@ htcelasnc.webcindario.com
 htcsupport.webhop.me
 htd.com.np
 htd5.vip
+htdentshop.com
 htdf-id.xyz
 htdjhdetjethbsdhrhgaehrehsge-h288.vercel.app
 htdocs-bn2.pages.dev
@@ -233044,7 +233049,6 @@ impkali.manibatel-karochi.com
 implant-inga.builderallwppro.com
 implantadoresdeusbyableadosporsistema.tk
 implantatpreise.de
-implantdentistrytx.com
 implantseminars.monster
 implanttik.com
 implanum.shop
@@ -234458,7 +234462,6 @@ indonesia-viral2022.forumz.info
 indonesiabantuandana.fjfu.my.id
 indonesiabasahviral2020.000webhostapp.com
 indonesiaorganik.id
-indonesias.me
 indongrupswadewasa.jdtfz.tk
 indoon14.tk
 indoplexxi.vin
@@ -235943,6 +235946,7 @@ inhuman-warning.000webhostapp.com
 inic-suc-si.dianacorre.repl.co
 inicial-instagram.vercel.app
 iniciamossegu.webcindario.com
+iniciaonline.com
 iniciar-id98230.zya.me
 iniciar-sesion-pers0nas.redwebhost.com
 iniciar-sesion12.webcindario.com
@@ -239287,7 +239291,6 @@ invittgrupwattsap.duckdns.org
 invitwa-2021.duckdns.org
 invixp.me
 invk-cace.elovngeeignlnyn.workers.dev
-invmove.com
 invoca.net
 invocacdn.com
 invodi12.com
@@ -254205,6 +254208,7 @@ kinesicintell.com
 kinetc-0auth.pages.dev
 kineticblu.cfd
 kineticboy.co.za
+kineticlenz.com
 kineticwindstreams.pages.dev
 kinetiq.com.au
 kinfinfmkafa.vercel.app
@@ -257202,7 +257206,6 @@ kryptocom-logon.gitbook.io
 kryptoconnect-support.com
 kryptomoney.000webhostapp.com
 kryptonclient-cracked.com
-kryptonclient-donutsmp.com
 kryptonmedia.click
 kryptonserver.com
 krypyispji.duckdns.org
@@ -260815,7 +260818,6 @@ lavozdelquequen.com.ar
 lavozdepucon.cl
 lavyh8.github.io
 law-aspekt.ru
-law-daej-osaimi.com
 law-firm.uk
 law.cleancarenh.com.br
 law.puc.edu.kh
@@ -281606,7 +281608,6 @@ mandanu-iz1k.vercel.app
 mandapsoflondon.co.uk
 mandar123454.github.io
 mandarin.lasalsamilonga.info
-mandarin.net.au
 mandarin20828374.brizy.site
 mandarin6946768.brizy.site
 mandarria5daleeeee.000webhostapp.com
@@ -292996,6 +292997,7 @@ metrics.brightcove.com
 metrics.client-eng.a2z.com
 metrics.fedex.com
 metrics.fidelity.com.edgekey.net
+metrics.gocloudmaps.com
 metrics.hackerrank.com.edgekey.net
 metrics.icloud.com
 metrics.kmsmep.com
@@ -323828,6 +323830,7 @@ opseaclick914.vercel.app
 opseaclick98.vercel.app
 opseaclick99.vercel.app
 opseamint-19.vercel.app
+opsecmod.st
 opsensea-web3.com
 opsg3iztv.top
 opskpqxydfcfhinezjhwqipunhwofmotnpgr-dot-glegen303939423233.ue.r.appspot.com
@@ -328397,6 +328400,7 @@ palermoimagen.com
 palestinevoteingd.blogspot.com
 paletimpot.beget.tech
 palettoa.vercel.app
+palharesinformatica.com.br
 paliatorio.ru.com
 palingviralsxx.duckdns.org
 paliodasti.com.usrfiles.com
@@ -337278,7 +337282,6 @@ polar-unruly-stallion.glitch.me
 polarbearpropertiesflorida.com
 polarcdn-pentos.com
 polarcdn-terrax.com
-polarclient.net
 polarelectronics.net
 polaris-ad6895.ingress-alpha.easywp.com
 polaris.dance
@@ -341652,6 +341655,7 @@ prestation-urgenceqc.ca
 prestationqc-interac.ca
 presteel.com.my
 prestige-client.org
+prestigeclient.st
 prestigeconsultingint.com
 prestigecustodialservices.com
 prestigedunjour.com
@@ -342487,6 +342491,7 @@ pro85.godaddysites.com
 proactivept.biz
 proaffordablemovers.com
 proahmad069.000webhostapp.com
+proalamir.dz
 proapg.com
 proappliance.co.tz
 proasphaltsealandstripe.net
@@ -356206,7 +356211,6 @@ radiovidamx.com
 radiozote.com.usrfiles.com
 radishtastefulr.com
 radissoncartagena.co
-radium-client.org
 radius-global.soimper.com.br
 radixolive.com
 radkvara.top
@@ -364219,7 +364223,6 @@ rhcheavymachinery.com
 rhci36x5.cc
 rhdhdhdhhdshs.xyz
 rhdsxzrfbcyurqvnug.top
-rheddh.com
 rheem.cl
 rhegjzdyknhbqfvxfjxudwssli-dot-gleowayel400503.uc.r.appspot.com
 rheiath-hyiouks-mcdoedly.yolasite.com
@@ -365458,7 +365461,6 @@ rmkarts.com
 rmkblsmyvadmeijv-dot-millinium.ey.r.appspot.com
 rmkpatashaala.ac.in
 rmlgvozdkb.duckdns.org
-rmm.smartscreen.lifestyle
 rmmedia.net
 rmmh-casefb959231.vercel.app
 rmmslmkxqntoisvdgqjfunaataaqfrwgrits-dot-cedar-code-289917.nn.r.appspot.com
@@ -370735,7 +370737,6 @@ safeguardstandardsadmomentum.vercel.app
 safeguardtrackerconversionhub.vercel.app
 safeguardtrackerdigitalleads.vercel.app
 safeguardtrackerimpactjourney.vercel.app
-safeifm.com
 safeincgroup.com
 safeintelchannel.pages.dev
 safelink-unapproved-attempt.com
@@ -376476,12 +376477,12 @@ sky-ishigh.github.io
 sky-v2.vercel.app
 sky36.godaddysites.com
 skyblock-addons.com
-skyblock-extras.org
 skyera-hk.com
 skyhighcraft.com
 skyloungedxb.com
 skymailre-validate.weebly.com
 skymailsurport.weebly.com
+skymoders.top
 skypelsd.top
 skypicker-api.infinario.com
 skys.com.br
@@ -380460,7 +380461,6 @@ swiftblockresolve.pages.dev
 swiftconnectapp.pages.dev
 swiftdecentralizedapp.com
 swiftfieldxc.vercel.app
-swiftfusion.tech
 swiftnodeaccessrefix.pages.dev
 swiftnoderessolves.pages.dev
 swiftpathav.vercel.app
@@ -380968,6 +380968,7 @@ taiquan.cc
 taira9611.github.io
 taitei-andreea.ro
 taiyangchengwangshangkaihuqunaliya.verifytoken.com
+taizi.fdstat.vip
 tajs.qq.com
 takaecawl.xyz
 takaecawy.xyz
@@ -381570,6 +381571,7 @@ tatsumi-unsou.com
 tattnet.weebly.com
 tattoolukas.com
 taubwork.store
+taunahi.client.farm
 taunahi.st
 taupe-meerkat-cad38b.netlify.app
 taupe-moonbeam-61f37a.netlify.app
@@ -382290,6 +382292,7 @@ thefaber0009.github.io
 thefirstloan.in
 thegederalist.com
 thegr8coderlazyrepos.github.io
+thehaider.com
 thehcaresystem.com
 thehellplisuippostmanaga-ccemteraioutroiiompagie.sbs
 thehelprvverrypporrtcemtter-smetaiipages.sbs
@@ -384853,7 +384856,6 @@ twomaidscrm.com
 twopagescurtains.offer.safeopt.com
 twotreymedia10001697.o18.click
 twrbx.xyz
-twu-hwt.org
 twxhwpuzyc.myfunnelish.com
 tx0505.cn
 tx1015.com
@@ -385434,7 +385436,6 @@ universal-8ef.pages.dev
 universal.iperceptions.com
 universalfxmm.com
 universalmsg.com
-universami.ge
 universe.send.microad.jp
 universeaccountvalidation.weebly.com
 universeactivecircleprofile.weebly.com
@@ -385529,7 +385530,6 @@ update.account.support.login.yjevhn.cn
 update.adsrvr.org
 update.appwrite.network
 update.cg100iii.com
-update.googlecert.help
 update.indexww.com
 update.kmpmedia.net
 update.morgdog.springserve.com
@@ -389490,6 +389490,7 @@ webbsma.com
 webcaption-8py9.vercel.app
 webcaption-ys66.vercel.app
 webcome-sso-exodus.teachable.com
+webcstore.pw
 webctkkpn-3gla.vercel.app
 webdatadata.pages.dev
 webde-100183.weeblysite.com
@@ -391445,6 +391446,7 @@ www.newkey.co.kr
 www.newsbreak.com
 www.notbak.com
 www.npttech.com
+www.ojang.pe.kr
 www.okhan.net
 www.pointtohealth.com
 www.reifenquick.de
@@ -392658,6 +392660,7 @@ zhong.pilot45.com
 zhongchuangzhuli.com
 zhongning.pilot45.com
 zhongshan.pilot45.com
+zhostz.com
 zib-meta-tor-biz.pages.dev
 zib-meta-tor-xyn.pages.dev
 zib-meta-tor.pages.dev
