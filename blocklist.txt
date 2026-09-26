@@ -1,6 +1,6 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-09-25 09:21:29
-# Total Unique Domains: 392914
+# Update: 2026-09-26 09:04:37
+# Total Unique Domains: 392901
 
 0-105.com
 0-9-8-7-6-5-4-3-2-1-0.live
@@ -10549,6 +10549,7 @@
 31-192-237-130.cprapid.com
 31.172-245-112-195.cprapid.com
 31.59.136.10.sslip.io
+31.shaderzone.org
 310.noumaceta.eu
 310.su
 310051-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
@@ -114119,8 +114120,6 @@ biol.pages.dev
 biolabinsights.com
 biolife.co.in
 biolink.co.de
-biolink.info
-biolink.website
 biolinky.co
 biolinky.com
 biologet-al.com
@@ -121542,7 +121541,6 @@ brasilcardassistenciaia.xyz
 brasilchoice.com.br
 brasilconsultahoje.org
 brasilconsultashoje.online
-brasilengenhariaecom.store
 brasilgame.network
 brasiljp.duckdns.org
 brasiljustrt.node.cloudlets.zone
@@ -121587,7 +121585,6 @@ brassy-strong-oak.glitch.me
 brassy-sudsy-knee.glitch.me
 brassy-violet-subway-adsfghnmj.glitch.me
 brat.com.br
-bratarfood.com
 bratseg.com.br
 braucrarasuteu-2470.vercel.app
 brauhausschmitzoktoberfest.com
@@ -140189,6 +140186,7 @@ cn.98mebetx.com
 cn.adidai.com
 cn.bemxpq.com
 cn.bomxpw.com
+cn.devglobal.biz
 cn.edu688.com
 cn.ey1dwqddmu2x.com
 cn.facebook.clbug.com
@@ -144487,7 +144485,6 @@ communication-500app.xyz
 communication-act.ddns.net
 communication-diary-thwart.vercel.app
 communication-ergo-additional-their.vercel.app
-communication-hub.vg
 communication-journal-stop.vercel.app
 communication-register-check.vercel.app
 communicationcenrale-ba5b01.ingress-daribow.ewp.live
@@ -147766,7 +147763,6 @@ cota.tur.br
 cotads.adscale.de
 cotaspremiadas.com.br
 coteaqui.planosparavc.com.br
-cotecsecuritygroup.com
 cotem-add.web.app
 cotexllc.000webhostapp.com
 cothweb.org
@@ -151990,7 +151986,6 @@ cybereducation.in
 cyberfortte.com
 cyberguard-academy.com
 cyberleague-auth.com
-cyberleak.top
 cyberlink.co.in
 cybermati.co.uk
 cybermeinc.org
@@ -156734,7 +156729,6 @@ dels.com.au
 delsquarelinking.com
 delta-auth-ndax-nav.webflow.io
 delta-bravo36db.de
-delta-canvas.com
 delta-control.es
 delta-haven.pages.dev
 delta-hydraulic.com
@@ -164102,7 +164096,6 @@ docs.securecreditcardsonline.org
 docs.secureinvestingonline.com
 docs.securetnet.com
 docs.spreadsheets.google.securely-logout.com
-docs.thelobbyx.info
 docs.webstore.guru
 docs.whitepaperstack.com
 docs20974678994.myphotos.cc
@@ -192027,7 +192020,6 @@ file.netools.workers.dev
 file.purchasedoc.workers.dev
 file.sharedd-project-document.workers.dev
 file.srfreightbd.com
-file.uhsea.com
 file.zeahezea.sa.com
 file05.onedrive0001.workers.dev
 file0900.com
@@ -196742,7 +196734,6 @@ freeclaimset2020.dns04.com
 freeclaimskinkof.itemdb.com
 freeclaimskinmlbb.tk
 freeclaym-evntagts2021.duckdns.org
-freeclients.net
 freeclub0127.sytes.net
 freeclub0996.64-b.it
 freeclub29194member.duckdns.org
@@ -198701,7 +198692,6 @@ funnyvideos3.pagedemo.co
 funnyvideoss1.000webhostapp.com
 funnyvids.rf.gd
 funnyyahoo.00server.com
-funrat.co
 funresortstays.com
 funshae.com
 funtechworld2020.000webhostapp.com
@@ -203009,7 +202999,6 @@ genusmlrdr.site
 genusskreuzfahrt.com
 genxshops.com
 geny83h92.atwebpages.com
-geo-foundation.vg
 geo-tracker.smadex.com
 geo.adobe.com
 geo.adpushup.com
@@ -203315,13 +203304,13 @@ gestiononlinear.com
 gestionpersonaldeseguros.w3spaces.com
 gestionpyme.cl
 gestionsegurovirtual.brizy.site
-gestionycobranzas.com
 gestiscionline.com
 gestiscismartbper.com
 gestmsmions.firebaseapp.com
 gestordepartes.com
 gestoriacampalans.com
 gestoriaenparaguay.com.py
+gestroom.it
 gesundheit-zu-hause.com
 gesx.top
 get--opportunity-to-be-verified.vercel.app
@@ -205590,6 +205579,7 @@ glazz.dnsget.org
 glballogistics.com
 glbbaserv.ml
 glbe.co
+glbeletronica.com.br
 glbhmjzsovkywfvhjqknuwiurkedfevhqbnm-dot-cryptic-now-290917.ey.r.appspot.com
 glbticket.bio
 glccgeiqdwuykvej-dot-millinium.ey.r.appspot.com
@@ -224030,7 +224020,6 @@ hobgsmlqqmipvrnj-dot-millinium.ey.r.appspot.com
 hobhkk7262owivg.cc
 hobnw-hiaaa-aaaam-abaga-cai.raw.ic0.app
 hoboauvitrznpoer-dot-millinium.ey.r.appspot.com
-hobobot.net
 hobokenpetz.com
 hocallost.com
 hochthurn.de
@@ -226883,6 +226872,7 @@ hsebzcbyrm.duckdns.org
 hsecurity-accountprotection.000webhostapp.com
 hsecuritypayees.com
 hsecuritystoprequest.com
+hseda.com
 hsegbpscrbnatxeufgqjkpvzqz-dot-goff039302032323.rj.r.appspot.com
 hsegeeqjqx.duckdns.org
 hsehome.ga
@@ -235968,7 +235958,6 @@ inhuman-warning.000webhostapp.com
 inic-suc-si.dianacorre.repl.co
 inicial-instagram.vercel.app
 iniciamossegu.webcindario.com
-iniciaonline.com
 iniciar-id98230.zya.me
 iniciar-sesion-pers0nas.redwebhost.com
 iniciar-sesion12.webcindario.com
@@ -243756,6 +243745,7 @@ jaw3eqz.duckdns.org
 jaw3eqz3.duckdns.org
 jaw3eqz4.duckdns.org
 jawaharchannel.in
+jawaratekno.com
 jawasunda.my.id
 jawatan-kosong-perkhidmatan.com
 jawatan-kosong-siti-nor-musthapa.cs-service.biz.id
@@ -249205,7 +249195,6 @@ journey-x-provides.com
 journey-x-simple.com
 journeyed-exodus-cdn.teachable.com
 journeyeng.ca.healthinsurez.net
-journeylake11.com
 journeymanbd.com
 journeysinto.com
 journeythroughclimatechange.com
@@ -256207,7 +256196,6 @@ koreasoulcek.vercel.app
 korelanos.za.com
 koremarka.ru
 koretherwallet.com
-korexnode.xyz
 korfezbirlik.com
 korfezhali.com
 korgod.ct8.pl
@@ -258665,7 +258653,6 @@ kuponbriberhadiahgratis.ytfcd.biz.id
 kuponundianbrlfstvl0.cloud
 kuppanchate.pl
 kupuj-marketplace.pl
-kupunasvolpiano.com
 kuqcoiinlgin.godaddysites.com
 kuqcoinlloson.webflow.io
 kuqcooinlgin.godaddysites.com
@@ -260445,6 +260432,7 @@ larochelle.com.br
 larodprod.net
 laroque.co.za
 laroverejbs.wixsite.com
+larpdebug.com
 larquiropraxia.com.br
 larrie42culiman.000webhostapp.com
 larryacannon.com
@@ -263721,7 +263709,6 @@ letssbbacheckbabye.blogspot.is
 letsstartfind.com
 letstay.co.in
 letstzvpn.com
-letsupconfig.sbs
 letsupdateatt-100845.square.site
 letsverify.vercel.app
 lettdahayper5.simontok2022.xyz
@@ -296228,7 +296215,6 @@ misstau.tiatidijlana.link
 missteentourism2019onlinevotes.netlify.com
 missy-hmb.biz
 missyhydrick.com
-missysgym.com
 mistake-post.com
 mistakemablack.page.link
 mistercertified.net
@@ -314973,6 +314959,7 @@ nordeajubileum.com
 nordeasecure.wpenginepowered.com
 nordeclairwbe.ru
 nordenlifescience.com
+nordertextil.de
 nordex-online.com.smr-machinery.com
 nordexonline.azurewebsites.net
 nordiadata.com
@@ -340516,6 +340503,7 @@ power-contacts.000webhostapp.com
 power-leveling-fast.com
 power-quirky-wave.glitch.me
 power-tree.com
+power.belyxhost.in
 power.myuminlwinhtangtc.workers.dev
 power4event.extra16.com
 power4goods.com
@@ -340581,7 +340569,6 @@ poweron-v82.ga
 powerprecinct.com.au
 powerrunicevent.com
 powersfully.com
-powershell-storage.vg
 powershell.noogousto.dev
 powerskrfton.com
 powersoccer.ca
@@ -344090,6 +344077,7 @@ protelesis.cl
 proter-v.web.app
 protezionecivile.comune.cassola.vi.it
 protezioneprofilo.com
+protherapycenter.com
 protibimbo.org
 protikgroup.com
 protinexclusiv.com
@@ -360154,7 +360142,6 @@ ref855779.weebly.com
 ref9300245.com
 ref94jsmgmtcoderuremitaug14796.ue.r.appspot.com
 ref97hsdf323.welcome.online.id62hhd5fs6.gateway.acc.bingobabe.co.uk
-refaccionesalma.com.mx
 refactored-giggle.vercel.app
 refactory-antiques.jp
 refankozmetik.com
@@ -371281,6 +371268,7 @@ saikumar-245.github.io
 saikumar-guna.github.io
 saikumarmudumunthala.github.io
 saikumarseepana01.github.io
+sail.autolabsouthgate.com
 sailesh3000.github.io
 sailinghowto.com
 saillite.com
@@ -374169,7 +374157,6 @@ scripts.mediavine.com
 scripts.speedshiftmedia.com
 scripts.webcontentassessor.com
 scriv-meta.pages.dev
-scrroeder.com
 scrumus.com
 scst.booksvala.in
 scsvsgg-bsg3.vercel.app
@@ -377240,7 +377227,6 @@ spire.aarki.net
 spiritclassichomes.com
 spiritual-descriptive-juice.glitch.me
 spiritualitymeansbusiness.academy
-spitandmalachite.com
 spiv-meta.pages.dev
 spixel.adsafeprotected.com
 spk-tan1.top
@@ -378915,6 +378901,7 @@ static.subiz.com
 static.tagmanager.toast.com
 static.tapfiliate.com
 static.target2sell.com
+static.topxgun.com
 static.track.omguk.com
 static.va1.vip.prod.criteo.net
 static.verticalscope.com
@@ -383207,6 +383194,7 @@ tpfranchiseengagements.com
 tpfranchiseinquiries.com
 tpg-wswhatsapp.cc
 tpo-yu.xyz
+tpp.om-stock.com
 tps-wlb-uswest.dvgtm.akadns.net
 tps.doubleverify.com
 tps10232.doubleverify.com
@@ -383248,7 +383236,6 @@ tr.blismedia.com
 tr.creativered7.com
 tr.iadsdk.apple.com
 tr.snapchat.com
-tr.zhzy999.net
 tr2.smarterhq.io
 tr6.snapchat.com
 tra0f-kfjd-sksj.s3.eu-north-1.amazonaws.com
@@ -384880,7 +384867,6 @@ twilight-hollow.pages.dev
 twimle.cn
 twinkle-14.github.io
 twinson32.wixsite.com
-twitch.tj
 twix-meta-plom-biz.pages.dev
 twix-meta.pages.dev
 twiz-infhjjhj.onrender.com
@@ -389530,6 +389516,7 @@ webbsma.com
 webcaption-8py9.vercel.app
 webcaption-ys66.vercel.app
 webcome-sso-exodus.teachable.com
+webcstore.pw
 webctkkpn-3gla.vercel.app
 webdatadata.pages.dev
 webde-100183.weeblysite.com
@@ -391462,6 +391449,7 @@ www.drgenov.com
 www.exoduswallet.at
 www.first-security-verden.de
 www.geoplugin.net
+www.gestroom.it
 www.google-analytics.com
 www.googleadservices.com
 www.hostingcloud.science
@@ -391481,7 +391469,6 @@ www.myvcart.com
 www.namuvpn.com
 www.newkey.co.kr
 www.newsbreak.com
-www.notbak.com
 www.npttech.com
 www.ojang.pe.kr
 www.okhan.net
