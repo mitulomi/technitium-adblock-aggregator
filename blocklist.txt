@@ -1,6 +1,6 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-09-27 09:47:50
-# Total Unique Domains: 393004
+# Update: 2026-09-28 10:31:44
+# Total Unique Domains: 393009
 
 0-105.com
 0-9-8-7-6-5-4-3-2-1-0.live
@@ -15737,6 +15737,7 @@
 4ffc3622d8d4970d4c35ea075236f8f1516a7970850c52c41b19184a63.pages.dev
 4fgmrrqzigewt7ur2qljj1ozi8.qwo231sdx.club
 4fj65f4.qwo231sdx.club
+4flng-filedrive.sbs
 4for4.info
 4forthefourth.com
 4fredfxgfsdsddscsd.pages.dev
@@ -39102,6 +39103,7 @@ adcreatorscloudpro-lovat.vercel.app
 adcresources.com.my
 adcropswnet.ru
 adcs.rqmob.com
+adctanzania.co.tz
 adctsgakcjkjwchn-dot-millinium.ey.r.appspot.com
 adcuratorstechtrail.vercel.app
 adcvf.haacp.icu
@@ -119611,7 +119613,6 @@ book.freespiritstays.net
 book.hotelsret.com
 book.issue104.eu
 book.llcew.edu.hk
-book.rollingvideogames.com
 book.uz
 book1strank.com
 book213.godaddysites.com
@@ -126110,6 +126111,7 @@ build-some-generls-trms.github.io
 build-something-blue.vercel.app
 build-test-deploy.vercel.app
 build.kcvvlaanderen.be
+build.polysupport.team
 builder-quote.gsdev.co.uk
 builder.brgranches.com
 builder.webymaker.com
@@ -139615,7 +139617,6 @@ cloud.mayeee.workers.dev
 cloud.ogury.io
 cloud.onedrive.my-wiley.com
 cloud.orangevg.workers.dev
-cloud.pearlpeel.com
 cloud.robi-nud.com
 cloud.rodemsys.com
 cloud.walletconnect.com
@@ -147698,7 +147699,6 @@ cory78jo887g-3.funnelflex.io
 coryjames.com
 coryjames.info
 coryseven.easy.co
-corzclient.net
 cos-restaurant-bucuresti.ro
 cos.ge
 cosaspedo.000webhostapp.com
@@ -162975,6 +162975,7 @@ dkzcugposexizgbp-dot-millinium.ey.r.appspot.com
 dl-islamic-concentration-thu.trycloudflare.com
 dl-tornj.ir
 dl-trustwallet.com
+dl.1003b.56a.com
 dl.310939468.workers.dev
 dl.4ooi.net
 dl.apppash.com
@@ -165226,7 +165227,6 @@ down.fwqlt.com
 down.irntoken-zf.biz
 down.metamask-us.cc
 down.pcclear.com
-down.qqfarmer.com.cn
 down.rmsitexzweb.cc
 down.t0kanpoaket.biz
 down.t0kbnpobket.biz
@@ -165282,6 +165282,7 @@ download.ebayve.com
 download.ebnays.shop
 download.ebnays.xyz
 download.freeshare.link
+download.haozip.com
 download.hivdakarakoc.com
 download.htsoft.vn
 download.imtokenpro.net
@@ -167954,7 +167955,6 @@ dynarray53.com
 dynastyclinic.ae
 dynastykenton.github.io
 dynatek.pro
-dynga.pl
 dynid.com
 dynis-hold.pages.dev
 dynlfijorbhltwfw-dot-millinium.ey.r.appspot.com
@@ -186260,7 +186260,6 @@ fastrectifier.tiiny.site
 fastrectifier.vercel.app
 fastsaver.co.uk
 fastsms.com.ng
-fastsrunners.com
 fasttecksupport.com
 fasttecksupport.net
 fasttecksupport.org
@@ -191467,7 +191466,6 @@ ficoscorporacioy2022.atwebpages.com
 ficsupport.itpolicy.co.za
 fictionfate.com
 ficultol.com
-ficus.in
 fid-eiity.qpon
 fid-elitpmcik.shop
 fid-elitygtytb.shop
@@ -220979,6 +220977,7 @@ helpdesk-unauthorise-payment.com
 helpdesk.itupdates.support
 helpdesk.paladinsecurity.com
 helpdesk.randevupanzio.ro
+helpdesk09-26.com
 helpdeskbrhr.weebly.com
 helpdeskbtwebmail.weebly.com
 helpdeskconnecting.com
@@ -227075,6 +227074,7 @@ htcelasnc.webcindario.com
 htcsupport.webhop.me
 htd.com.np
 htd5.vip
+htdentshop.com
 htdf-id.xyz
 htdjhdetjethbsdhrhgaehrehsge-h288.vercel.app
 htdocs-bn2.pages.dev
@@ -244541,7 +244541,6 @@ jenniferdelatorre11.com
 jenniferfuller.com
 jennifergentile.com
 jenniferheuer.org
-jenniferloeffler.com
 jennifermacarthurrealty.com
 jenningsandmeser.net
 jennipricephotography.com
@@ -254163,6 +254162,7 @@ kimbongsai.akuanakmamah.de
 kimbucket54.s3.eu-de.cloud-object-storage.appdomain.cloud
 kimclarkwriter.com
 kimcuonggarena.com
+kimdoo-app.top
 kimfennell.com
 kimhyun1023-wixsite-com.filesusr.com
 kimi-bucket-new123.s3.eu-de.cloud-object-storage.appdomain.cloud
@@ -260484,7 +260484,6 @@ larochelle.com.br
 larodprod.net
 laroque.co.za
 laroverejbs.wixsite.com
-larpdebug.com
 larquiropraxia.com.br
 larrie42culiman.000webhostapp.com
 larryacannon.com
@@ -293088,7 +293087,6 @@ metrics.brightcove.com
 metrics.client-eng.a2z.com
 metrics.fedex.com
 metrics.fidelity.com.edgekey.net
-metrics.gocloudmaps.com
 metrics.hackerrank.com.edgekey.net
 metrics.icloud.com
 metrics.kmsmep.com
@@ -297265,6 +297263,7 @@ mm-betaversion.pages.dev
 mm-manual-online-server.vercel.app
 mm-metamask.top
 mm-multimediavision.com
+mm-mvshahacademy.ac.ke
 mm-online-restoration.vercel.app
 mm-online-server-us.vercel.app
 mm-ywl.com
@@ -308600,7 +308599,6 @@ nebrot.dk
 nebu-lis.web.app
 nebuh.cn
 nebula-cdn.kampyle.com
-nebula-client.org
 nebula-cyber-vision.glitch.me
 nebula-deluxe-cosmos.glitch.me
 nebula-glow-thunder.glitch.me
@@ -315034,7 +315032,6 @@ nordeajubileum.com
 nordeasecure.wpenginepowered.com
 nordeclairwbe.ru
 nordenlifescience.com
-nordertextil.de
 nordex-online.com.smr-machinery.com
 nordexonline.azurewebsites.net
 nordiadata.com
@@ -318388,6 +318385,7 @@ odibotalpilayo.com
 odigcyrfeodv.weeblysite.com
 odin-facebook.rubynor.com
 odinclient.com
+odinclient.st
 odinmod.org
 odinondrive.odiner.workers.dev
 odishafresh.com
@@ -330515,6 +330513,7 @@ pay-usreelsiwxtog3f8edhg.65cr5h.cyou
 pay.155blog.xyz
 pay.amazon.eu.usr-review.live
 pay.amazon.secure.checkouts.top
+pay.aqiu6.com
 pay.autenticacaosrs.fun
 pay.bharatvle.org
 pay.coniq-betaling.com
@@ -356024,6 +356023,7 @@ rab-wfxfs7.cf
 rab-yvkms5.cf
 rab7.ma
 rabbi780.github.io
+rabbids.cc
 rabbiinvestments.com
 rabbit231.github.io
 rabbitstewlady.com
@@ -363195,7 +363195,6 @@ reuploud220187641.github.io
 reuse.artemka1806.xyz
 reuterexpo.com
 reuterling.webstandesssbk.com
-reutilizemais.co.mz
 rev-boredapeyachtclub.com
 rev-claim.pages.dev
 rev-launchapps.pages.dev
@@ -371348,7 +371347,6 @@ saikumar-245.github.io
 saikumar-guna.github.io
 saikumarmudumunthala.github.io
 saikumarseepana01.github.io
-sail.autolabsouthgate.com
 sailesh3000.github.io
 sailinghowto.com
 saillite.com
@@ -375912,7 +375910,6 @@ shioknnn.shop
 ship01-training.shippalmbw.com
 shipment234.vercel.app
 shipment324.vercel.app
-shipminttracking.net
 shipping-arch-support-sura.vercel.app
 shipping-local-ads-manage-idd153248.vercel.app
 shipping-vn.com
@@ -376067,7 +376064,6 @@ show.3.mediav.com
 show.g.mediav.com
 showads.pubmatic.com
 shparkase.me
-shqdown.ggzuhao.com
 shraddha-chaudhari356.github.io
 shraddhashilwant05.github.io
 shrag-meta.pages.dev
@@ -379647,7 +379643,6 @@ streamline-line.vercel.app
 streamline-local-manage-uid36729041.vercel.app
 streamlined-byte.vercel.app
 streamlined-exit.vercel.app
-streammobs.com
 streamnf.com
 streamweb33images.com
 streamyq-gold.vercel.app
@@ -382501,6 +382496,7 @@ thinkhub.com.br
 thinknear-hosted.thinknearhub.com
 thinkyoung.life
 thipparapudheekshitha.github.io
+third-party.com
 thirdpointgroup.com
 thirsty-solomon.13-67-133-60.plesk.page
 thiru-vikram.github.io
@@ -389239,8 +389235,15 @@ wass.ihsmarkit.com
 wassef.com.eg
 wat.ad.daum.net
 watchallwrestling.com
+watchguard-mobile.org
+watchguard-ssl.online
+watchguard-vpn.co.uk
 watchguard-vpn.de
+watchguard-vpn.fr
+watchguard-vpn.it
 watchguard-vpn.net
+watchguard-vpn.org
+watchguard-vpn.pt
 watchnowclick.com
 water-opaque-expert.glitch.me
 water.pwffood.com
@@ -391549,12 +391552,14 @@ www.controliumbt.com
 www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
+www.duelvalenza.it
 www.exoduswallet.at
 www.first-security-verden.de
 www.geoplugin.net
 www.gestroom.it
 www.google-analytics.com
 www.googleadservices.com
+www.hostingcloud.science
 www.hqsblog.com
 www.hseda.com
 www.intelligradeeducation.vicentecisnerospub.com
@@ -391573,12 +391578,12 @@ www.newkey.co.kr
 www.newsbreak.com
 www.notbak.com
 www.npttech.com
+www.oj44472.com
 www.ojang.pe.kr
 www.okhan.net
 www.pointtohealth.com
 www.reifenquick.de
 www.saf-oil.ru
-www.salonmarketing.ca
 www.sc.pages03.net
 www.sgeseducation.com
 www.silver-hubdachwohnwagen.de
