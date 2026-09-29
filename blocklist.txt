@@ -1,6 +1,6 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-09-28 10:31:44
-# Total Unique Domains: 393009
+# Update: 2026-09-29 10:23:21
+# Total Unique Domains: 393016
 
 0-105.com
 0-9-8-7-6-5-4-3-2-1-0.live
@@ -10550,7 +10550,6 @@
 31-192-237-130.cprapid.com
 31.172-245-112-195.cprapid.com
 31.59.136.10.sslip.io
-31.shaderzone.org
 310.noumaceta.eu
 310.su
 310051-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
@@ -28239,7 +28238,6 @@ a.guidiroberto.com
 a.haardhoutservice.com
 a.hahauahjsklalapskananzmanah.net
 a.hbsmepreview.com
-a.hbweb.icu
 a.hostpoint.ch.pphuvelum.pl
 a.hqdho.sbs
 a.hzqcfw.com.cn
@@ -37156,7 +37154,6 @@ acikmobildenizvk2.tk
 acikmobilldenizv2.tk
 acikv2denizislerimlerinizonline.giize.com
 acilebanon.com
-acilfov.ro
 acilsxwebp.duckdns.org
 acilyapiguclendirme.com
 acim-28031796.firebaseapp.com
@@ -37477,7 +37474,6 @@ acreqgfbzh.duckdns.org
 acresza.000webhostapp.com
 acrexsc.000webhostapp.com
 acrez.zapto.org
-acrilicoporto.pt
 acrnbbfnmoqjxxpe-dot-millinium.ey.r.appspot.com
 acrnvjkqwa.duckdns.org
 acrobat-adobe-com.web.app
@@ -38086,7 +38082,6 @@ activeflavourtechnology.top
 activefootspa.com
 activegirlstoys.com
 activegreeting.icu
-activegrp.co.za
 activeh2.tokyo
 activehtmail.hstn.me
 activeinmobiliaria.mx
@@ -39103,7 +39098,6 @@ adcreatorscloudpro-lovat.vercel.app
 adcresources.com.my
 adcropswnet.ru
 adcs.rqmob.com
-adctanzania.co.tz
 adctsgakcjkjwchn-dot-millinium.ey.r.appspot.com
 adcuratorstechtrail.vercel.app
 adcvf.haacp.icu
@@ -45554,6 +45548,7 @@ ahshsadaltun.net
 ahshsjsnsbs.duckdns.org
 ahsje.000webhostapp.com
 ahsmocks.com
+ahsniper.org
 ahsop.com
 ahsptwsrvfbruxxhusopcscatn-dot-gle39404049.rj.r.appspot.com
 ahsschool.com
@@ -46026,7 +46021,6 @@ aidijia999.com
 aidiscord.jiayiapi.cn
 aidiscord.whalespet.com
 aidjekibawa9jv7.53244ds.xyz
-aidlifempowerment.com
 aidmoving.com
 aidnnrue2.duckdns.org
 aidojdaaijioaad89.top
@@ -77321,6 +77315,7 @@ astraleducation.com
 astralinterior.com
 astralix-haven.pages.dev
 astralmagik.com
+astraluxclient.com
 astrarwego.com
 astrazenecall.com
 astrea-strategies.com
@@ -119613,6 +119608,7 @@ book.freespiritstays.net
 book.hotelsret.com
 book.issue104.eu
 book.llcew.edu.hk
+book.rollingvideogames.com
 book.uz
 book1strank.com
 book213.godaddysites.com
@@ -122457,7 +122453,6 @@ brightupu.vercel.app
 brightviewschools.com
 brightwaybaptist.org
 brightwebworks.com
-brightworks.cz
 brigidineasp.org.au
 brigidnovakpa.com
 brigittefinkele030usqunbtqkuekeo-9c1646.ingress-baronn.easywp.com
@@ -129918,7 +129913,6 @@ cappadociabookingtravel.net
 capppitalonelong.azurewebsites.net
 cappyswindows.com
 capri-salincak.com
-capricecapitalpartners.com
 capricious-leathers.000webhostapp.com
 capricious-rustic-radiator.glitch.me
 capricornsecurity.co.in
@@ -149905,6 +149899,7 @@ crystal-ridge-bqz.pages.dev
 crystal-vault-c4k.pages.dev
 crystal-zinc-mayonnaise.glitch.me
 crystal.crystal.theperfectpocketbook.com
+crystalbranchtw.blog
 crystalburkholder.com
 crystalciancio.com
 crystalhorizoni.vercel.app
@@ -156740,6 +156735,7 @@ deloton.com
 delow.co.uk
 delp-heizungsbau.de
 delphi-hold.pages.dev
+delphiaonline.top
 delphineberre008.wixsite.com
 delphscameroon.com
 dels.com.au
@@ -165227,6 +165223,7 @@ down.fwqlt.com
 down.irntoken-zf.biz
 down.metamask-us.cc
 down.pcclear.com
+down.qqfarmer.com.cn
 down.rmsitexzweb.cc
 down.t0kanpoaket.biz
 down.t0kbnpobket.biz
@@ -165295,6 +165292,7 @@ download.tiktok906.com
 download.tiktoks971.com
 download.tkk-mall.icu
 download.windowsmicrosoft.ml
+download.youlovemybiba.com
 download.zachchan.workers.dev
 download1.uchihaudin.workers.dev
 download2128.mediafire.com
@@ -165985,6 +165983,7 @@ dreamtojo.tk
 dreamtooz.ru
 dreamvalli.com
 dreamvention.myshopunity.com
+dreamwatchevent.com
 dreamweavesolutions.com
 dreamx.duckdns.org
 dreamxmaterials.com
@@ -177584,6 +177583,7 @@ ev79.me
 eva-r-headley-a370bf.ingress-daribow.easywp.com
 eva.annieway.dns-dynamic.net
 eva.cenoa.com.ar
+evacompltd.site
 evacus.ru
 evaezzell.wixsite.com
 evagreen.fr
@@ -198450,6 +198450,7 @@ fuckkkemdi.giize.com
 fuckkkemdi.xyz
 fuckl.myftp.org
 fucknet.club
+fucktermedfir.st
 fuckyou8.duckdns.org
 fucons.com.vn
 fucrupricoffu-3534.vercel.app
@@ -236265,6 +236266,7 @@ innovativetechshop.xyz
 innovativetelevisioners.top
 innovatory-islands.000webhostapp.com
 innoventa.fi
+innoverseprime.com
 innovestin.pages.dev
 innovid.com
 innovid.com.akadns.net
@@ -252616,6 +252618,7 @@ kazanciholdinq.com
 kazandirbayi.0fees.us
 kazbeatz.github.io
 kazda-informacja.pl
+kazdiyden.ru
 kaze.global
 kazeevkablues.star-go.ru
 kazefamc.net
@@ -254473,7 +254476,6 @@ kislayanand1803.github.io
 kislevt-kossar.vercel.app
 kisliy.techplanetmobile.com
 kisnp.nepgeeks.com
-kiss.a-dog.top
 kissable-bypasses.000webhostapp.com
 kissaprauzikei.vercel.app
 kissberry.ru
@@ -255742,6 +255744,7 @@ kobev13545.github.io
 kobiety.podpisz-petycje.eu
 kobika.tripod.com
 kobiofclientsupport.pqzredservice.com
+koboldcpp.com
 kobqxgevtgbugcoe-dot-millinium.ey.r.appspot.com
 kobrobafrecre-9556.vercel.app
 kobskoba6.wixstudio.com
@@ -256006,7 +256009,6 @@ komuvesszaki.hu
 kon.renm4maxys.com
 konaamii.net
 konakluye.duckdns.org
-konakonacricket.com
 konamedlcalconsulting.com
 konark-ariapark.com
 konark.ua
@@ -282128,7 +282130,6 @@ mapjordan-org.jordancode.co
 maple-endurable-octagon.glitch.me
 maple-paper-shelf.glitch.me
 maple.fh3364482.workers.dev
-maple30.com
 mapleaiongroup.co.uk
 maplegreaseutowa.com
 mapleleafandswallow.com
@@ -293082,11 +293083,11 @@ metrendalytics.com
 metricreceiver.cellrebel.com
 metrics-logger.spot.im
 metrics.aetn.com
-metrics.agoxpathbet.one
 metrics.brightcove.com
 metrics.client-eng.a2z.com
 metrics.fedex.com
 metrics.fidelity.com.edgekey.net
+metrics.gocloudmaps.com
 metrics.hackerrank.com.edgekey.net
 metrics.icloud.com
 metrics.kmsmep.com
@@ -299410,6 +299411,7 @@ monika-dangar.github.io
 monika-ironing.telejobltd.co.uk
 monikareplin.pl
 moninfosma.temp.swtest.ru
+moniquejhingon.com
 moniquerfrancis.com
 moniquestunning.sellfy.store
 monirshouvo.github.io
@@ -323007,7 +323009,6 @@ opackmakine.com
 opajasfasfasi.pages.dev
 opakowaniaprzyszlosci.pl
 opakpaypal.my03.com
-opalcraftsmp.com
 opalescent-abalone-billboard.glitch.me
 opalescent-blood.000webhostapp.com
 opalescent-daffy-lynx.glitch.me
@@ -332331,7 +332332,6 @@ pcswap.dev
 pcswap.org
 pctblue.mypict1.com
 pcunaxypzeaimpew-dot-millinium.ey.r.appspot.com
-pcupd.com
 pcvzaeomjipof.run-eu-central1.goorm.site
 pcw.lafilgroup.com
 pcwibovhzjcwownl-dot-millinium.ey.r.appspot.com
@@ -340578,7 +340578,6 @@ power-contacts.000webhostapp.com
 power-leveling-fast.com
 power-quirky-wave.glitch.me
 power-tree.com
-power.belyxhost.in
 power.myuminlwinhtangtc.workers.dev
 power4event.extra16.com
 power4goods.com
@@ -355093,7 +355092,6 @@ quikcbookapp.com
 quikkwebrepbook.tw
 quikye.pages.dev
 quill-common-pisces.glitch.me
-quillchant14.com
 quilled-early-square.glitch.me
 quilled-sparkly-oriole.glitch.me
 quilled-unmarred-zebra.glitch.me
@@ -360019,6 +360017,7 @@ redirectinn.byethost32.com
 redirection-actif.ath.cx
 redirection-assistance.surge.sh
 redirection-auth.netsons.org
+redirection-claim.innoverseprime.com
 redirection-secureca.duckdns.org
 redirection-vers-connexion-securisee.duckdns.org
 redirection.aloepuro.com
@@ -360824,6 +360823,7 @@ reinforced-rank.vercel.app
 reinfosec.000webhostapp.com
 reingerta.dz4i6dmjgn-ez94ddnyz4mr.p.temp-site.link
 reinhold.zeiner.maksema.com.tr
+reinigung-kosanke.de
 reinodossonhos.com
 reinonobre.com.br
 reinoo1.co.vu
@@ -363195,6 +363195,7 @@ reuploud220187641.github.io
 reuse.artemka1806.xyz
 reuterexpo.com
 reuterling.webstandesssbk.com
+reutilizemais.co.mz
 rev-boredapeyachtclub.com
 rev-claim.pages.dev
 rev-launchapps.pages.dev
@@ -376064,6 +376065,7 @@ show.3.mediav.com
 show.g.mediav.com
 showads.pubmatic.com
 shparkase.me
+shqdown.ggzuhao.com
 shraddha-chaudhari356.github.io
 shraddhashilwant05.github.io
 shrag-meta.pages.dev
@@ -376269,6 +376271,7 @@ simple-assistant-660974.framer.app
 simple-connect.serveirc.com
 simple-ledger.teachable.com
 simple-swap.to
+simplecheck.online
 simplesharebuttons.com
 simplesvvvap.cyou
 simpleswap-app.to
@@ -378546,6 +378549,7 @@ stanleygunleri.com.tr
 star-koala-hcy9.squarespace.com
 star-trezzor.webflow.io
 star.inh.workers.dev
+star.zcnet.net
 starat-en-trezorr.pages.dev
 starbarylwdager.webflow.io
 starfish-app-mmjs2.ondigitalocean.app
@@ -378980,7 +378984,6 @@ static.subiz.com
 static.tagmanager.toast.com
 static.tapfiliate.com
 static.target2sell.com
-static.topxgun.com
 static.track.omguk.com
 static.va1.vip.prod.criteo.net
 static.verticalscope.com
@@ -379643,6 +379646,7 @@ streamline-line.vercel.app
 streamline-local-manage-uid36729041.vercel.app
 streamlined-byte.vercel.app
 streamlined-exit.vercel.app
+streammobs.com
 streamnf.com
 streamweb33images.com
 streamyq-gold.vercel.app
@@ -380568,7 +380572,6 @@ swiftblockresolve.pages.dev
 swiftconnectapp.pages.dev
 swiftdecentralizedapp.com
 swiftfieldxc.vercel.app
-swiftfusion.tech
 swiftnodeaccessrefix.pages.dev
 swiftnoderessolves.pages.dev
 swiftpathav.vercel.app
@@ -384513,8 +384516,10 @@ troihbwloi.duckdns.org
 trolink.top
 trom-meta.pages.dev
 tron-five.vercel.app
+tron-foundation.com
 tron-qr-code-generator.com
 tron-qr-code-generator.to
+tron.redirection-claim.innoverseprime.com
 trongnam13823.github.io
 tronlink-my.co.com
 tronlink.bet
@@ -384609,6 +384614,7 @@ trust-download.co.com
 trust-icapital-signin.pages.dev
 trust-idverify.net
 trust-secure-wallet.info
+trust-soft.cc
 trust-wallet-app.to
 trust-wallet-restore-lu4h.vercel.app
 trust-wallet-security-upgrade.ptitcroc.com
@@ -384721,7 +384727,6 @@ trxnva.pages.dev
 try-proje.vercel.app
 try8575.thefeedsy.com
 trycentremembersortup44.weebly.com
-tryclix.com
 tryhardcup.pro
 trymounfit.online
 trynightvisionpro.com
@@ -389736,6 +389741,7 @@ webpage--ndax.webflow.io
 webpage-kucoin-io-cdn-auth.webflow.io
 webpage-ledger-live.teachable.com
 webpage-ndax-cdn-web.webflow.io
+webpagehelp.online
 webprincipal-iniciologin.pages.dev
 webradiomaisfm.com
 webreklaam.ee
@@ -391843,6 +391849,7 @@ xellon.xin
 xeniatalerwholesale.com
 xenodochial-liskov.34-125-197-109.plesk.page
 xenon.studio
+xenonclient.com
 xenpcparicha.braincert.com
 xenra-studio.pages.dev
 xepcobdpxc.duckdns.org
