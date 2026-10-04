@@ -1,6 +1,6 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-10-03 09:39:15
-# Total Unique Domains: 393091
+# Update: 2026-10-04 10:23:35
+# Total Unique Domains: 393094
 
 0-105.com
 0-9-8-7-6-5-4-3-2-1-0.live
@@ -51238,6 +51238,7 @@ allow-verification.ddns.net
 allowances.000webhostapp.com
 allowanceteft.ga
 allowcopy.com
+allowcsxan2.site
 allowed-checking-business.firebaseapp.com
 allowed-checking-business.web.app
 allowingcaresupport.com
@@ -77336,6 +77337,7 @@ astroamericanchenical.com
 astrochemistry412.com
 astrofell-donsy-d96153e8-446ffd016bf4afbd7-d75e03ed7bdb87f.pages.dev
 astrohemalath.com
+astroliper.ac
 astrolog-elvira.com
 astrologacristal.com.br
 astrologervasturajnish.com
@@ -115694,7 +115696,6 @@ blavi.cl
 blawut.pages.dev
 blax-meta-quip-biz.pages.dev
 blax-meta-quip.pages.dev
-blaxllantas.com
 blaykeinteriors.com.au
 blazberg.cz
 blazberg.cz.dax.lv
@@ -136099,6 +136100,7 @@ chegeian.github.io
 chegou-destaques-da-semana.com
 chegouesquentadablack.com
 chekalefa.co.za
+chekcms432.cc
 cheking-online.com
 chekpoiint-issue.problematic-request.com
 cheks2021.000webhostapp.com
@@ -136258,6 +136260,7 @@ chiao1129.github.io
 chiaracamila-wixsite-com.filesusr.com
 chiaracaterina-supportmeta.pages.dev
 chiasel.com
+chibomaydan.devs.surf
 chibutzorjokuy2k.weebly.com
 chic-pothos-10e942.netlify.app
 chic-travesseiro-3a8a8c.netlify.app
@@ -136727,7 +136730,6 @@ chrome-nkbihfbeogaeaoehlefnkodbefgpgkns.onrender.com
 chrome-spangled-bell.glitch.me
 chrome-support-metamskin.gitbook.io
 chrome.browserdownloads.ru
-chrome.windows-browser.net
 chromecust.org
 chromemetmsk.webflow.io
 chrometamusk-extns.gitbook.io
@@ -140213,7 +140215,6 @@ cn.98mebetx.com
 cn.adidai.com
 cn.bemxpq.com
 cn.bomxpw.com
-cn.devglobal.biz
 cn.edu688.com
 cn.ey1dwqddmu2x.com
 cn.facebook.clbug.com
@@ -144512,7 +144513,6 @@ communication-500app.xyz
 communication-act.ddns.net
 communication-diary-thwart.vercel.app
 communication-ergo-additional-their.vercel.app
-communication-hub.vg
 communication-journal-stop.vercel.app
 communication-register-check.vercel.app
 communicationcenrale-ba5b01.ingress-daribow.ewp.live
@@ -162993,7 +162993,6 @@ dkzcugposexizgbp-dot-millinium.ey.r.appspot.com
 dl-islamic-concentration-thu.trycloudflare.com
 dl-tornj.ir
 dl-trustwallet.com
-dl.1003b.56a.com
 dl.310939468.workers.dev
 dl.4ooi.net
 dl.apppash.com
@@ -165000,7 +164999,9 @@ dontopraidedecoverinstagram.blogspot.com.cy
 donttolinii.wixsite.com
 dontwastefoodtrust.org
 dontworry52.000webhostapp.com
+donutclients.org
 donutecocolate.com
+donutsmpclient.com
 donweeseinc.com
 donyaiajor.com
 donyluc.wixsite.com
@@ -165306,6 +165307,7 @@ download.haozip.com
 download.hivdakarakoc.com
 download.htsoft.vn
 download.imtokenpro.net
+download.kaobeitu.com
 download.pdf00.cn
 download.pdf00.com
 download.sada-group.com
@@ -173564,7 +173566,6 @@ embed.secondstreetapp.com
 embed.sendtonews.com
 embed.tawk.to.sgdo.nurisfamz.my.id
 embedilekitcdn.flazio.site
-embedone.com
 embellishedsportsman.com
 embellishedworldlyphysics.ferbsanz.repl.co
 ember-axiomatic-muskox.glitch.me
@@ -181987,6 +181988,7 @@ facaeaproveiteseusbeneficios.club
 facaer.buyshouses.net
 facagall.com
 facai.icolorbiotech.cn
+facai.makaaop.cc
 facai.y82lj7e.cn
 facai2024.xn--bvs11es3ujti.com
 facai524.icu
@@ -191489,7 +191491,6 @@ ficoscorporacioy2022.atwebpages.com
 ficsupport.itpolicy.co.za
 fictionfate.com
 ficultol.com
-ficus.in
 fid-eiity.qpon
 fid-elitpmcik.shop
 fid-elitygtytb.shop
@@ -223140,7 +223141,6 @@ hjgkhlkhfhlsdjgdzfsdfsdfhio.web.app
 hjgkujtdryhtryr.mywebsites360.com
 hjgpcplswmpvwuij-dot-millinium.ey.r.appspot.com
 hjgrc.cn
-hjha.ao
 hjhgjfgndgvd.000webhostapp.com
 hjhhdfdfhhgghggryuuuuyuj-104847.weeblysite.com
 hjhkgdtf.cf
@@ -225440,6 +225440,7 @@ horn-prism-hippodraco.glitch.me
 hornelink.cn
 hornhost.xyz
 hornitosdellayllay.cl
+horno-rafelet.es
 hornusycia.com.ar.ca6.toservers.com
 horocopovuapclouds.pages.dev
 horosho.house
@@ -243833,7 +243834,6 @@ jaw3eqz.duckdns.org
 jaw3eqz3.duckdns.org
 jaw3eqz4.duckdns.org
 jawaharchannel.in
-jawaratekno.com
 jawasunda.my.id
 jawatan-kosong-perkhidmatan.com
 jawatan-kosong-siti-nor-musthapa.cs-service.biz.id
@@ -264660,6 +264660,7 @@ likeariver.co.uk
 liked-certification.000webhostapp.com
 likedater.com
 likedinmastmwndfhztcxnziyzf-sqa3h.kinsta.page
+likedrink.beer
 likeek.ru
 likeez.xyz
 likeezz.pp.ru
@@ -268235,7 +268236,6 @@ localdepothelp.com
 localdepots-help.com
 localedevice.ru
 localenchantment.com
-localfiles.live
 localfloristflowers.com
 localgrowthmarketing.com
 localhelpdepots.com
@@ -281366,7 +281366,6 @@ maludescontos.shop
 maluenda.org
 malunkii.peyzazh-zmahannya.mom
 maluonlinedig.com
-malupieng.com.br
 malvim.net
 malvisood.github.io
 malviyakapil2002-dot.github.io
@@ -284336,6 +284335,7 @@ mav.info
 mavebave.weeblysite.com
 maven-media.com
 maven.blueconic.net
+maverick174.org
 maverickcod.github.io
 maverifmonmobmobile.com
 mavetamskxlogin.webflow.io
@@ -284491,6 +284491,7 @@ maxwellconst.com
 maxwelldubuzz.github.io
 maxwinelec.com
 maxwize.co.uk
+maxxlavalink.cyou
 maxxworld.co.th
 maxxy.life
 maxycnav.cf
@@ -292758,6 +292759,7 @@ meteor-meadow-petunia.glitch.me
 meteorclients.com
 meteorologia.florianopolis.ifsc.edu.br
 meteorplyp.live
+meteorrejects.net
 meter-svc.nytimes.com
 metergas-2.easy.co
 metesdfmasktrie.gitbook.io
@@ -293124,7 +293126,6 @@ metrics.brightcove.com
 metrics.client-eng.a2z.com
 metrics.fedex.com
 metrics.fidelity.com.edgekey.net
-metrics.gocloudmaps.com
 metrics.hackerrank.com.edgekey.net
 metrics.icloud.com
 metrics.kmsmep.com
@@ -299416,6 +299417,7 @@ moneylinebuilder.com
 moneylionmxk.top
 moneylionwvh.top
 moneylionzwu.top
+moneylord.org
 moneymatters.ch
 moneymedicine.com
 moneyprintcoin.dev
@@ -302426,6 +302428,7 @@ multinodexfix.pages.dev
 multiordinalauths.pages.dev
 multipage-responsive-facebook-clone.vercel.app
 multiplanitesdesk.pages.dev
+multiplay.at
 multiplebhd2025.imi.lat
 multipledapps.com
 multipledivide.xyz
@@ -302593,7 +302596,6 @@ muref.tk
 murenzi.org
 murf-meta-lix-biz.pages.dev
 murge.io
-muriaspetin.es
 muriatic-speed.000webhostapp.com
 murizpebtihglhtu-dot-millinium.ey.r.appspot.com
 murkasikoterma.co.vu
@@ -303182,6 +303184,7 @@ mx7.kathypope.id.au
 mx74.prueba.site
 mx7w33.shop
 mx888.vip
+mx9x.com
 mxapp46.com
 mxaps.appsempresa.ga
 mxardxisqmsl.top
@@ -316409,7 +316412,6 @@ nsbhaso.ml
 nsbonline.updatehub.net
 nsc-dnaindonsia.cz1.us.kg
 nscfbpage.000webhostapp.com
-nsci.space
 nscluqvkxe.duckdns.org
 nsconstrucciones.cl
 nscott.bhagat.com.au
@@ -317019,6 +317021,7 @@ nutrifins.com
 nutrign.com
 nutrikalia.com
 nutrilshop.net.tr.ht
+nutrisc.com.br
 nutrisilviaramos.com.br
 nutrisincera.com
 nutritionalapproaches.com
@@ -321690,7 +321693,6 @@ oneycomb.duckdns.org
 oneyog.com
 onezamueac.com
 onf6sb82y.duckdns.org
-onfiltre.com.tr
 onfire11.mbamep.com
 onfttqpttrvhzvggroikakwqsphdppsjgmhy-dot-glenxpecial3009493.ey.r.appspot.com
 ong.wpbuilder.net
@@ -322771,6 +322773,7 @@ onlyfansgratismx938.blogspot.com
 onlyfansgratiswebonlyfaansgratisweeb19.filesusr.com
 onlyfansregistrogratis89.filesusr.com
 onlyfewminutes988.club
+onlyfiles.com
 onlyforchristmas.com
 onlyforhelp755.bar
 onlyforsexsss.pages.dev
@@ -364670,7 +364673,6 @@ ridepico.com
 rider-taxi.com
 rider2711.github.io
 rideranalyzer.cloud
-riderspin.com
 ridetaxivail.com
 ridethecable.com
 ridetv.com-rlstzwq2vk0dvfn13ngq.rlstzwq2vk0dvfn13ngq.manxttrider.com
@@ -372175,7 +372177,6 @@ sandibad.fr
 sandiego-hardmoneyloans.com
 sandiego-va-loans.com
 sandiegoca.buzz
-sandiegomobiletire.com
 sandijohnsonruble.com
 sandike.tripod.com
 sandimasgroup.com
@@ -374455,6 +374456,7 @@ sdsc1.demose.cc
 sdsfasfasd.pages.dev
 sdshoptx.icu
 sdshoptx9.icu
+sdufkghdfshds.cfd
 sdvfbgre.blogspot.com
 sdvfdews.blogspot.com
 sdvfdews.blogspot.kr
@@ -375577,6 +375579,7 @@ servupsedcserc.wpenginepowered.com
 serwer2466145.home.pl
 seryl-vision.pages.dev
 seryl-works.pages.dev
+sesdigitalsolutions.com
 sese.th0707.sa.com
 sese.vaabhi4.sa.com
 sese.vintiqshop.sa.com
@@ -378603,7 +378606,6 @@ stanleygunleri.com.tr
 star-koala-hcy9.squarespace.com
 star-trezzor.webflow.io
 star.inh.workers.dev
-star.zcnet.net
 starat-en-trezorr.pages.dev
 starbarylwdager.webflow.io
 starfish-app-mmjs2.ondigitalocean.app
@@ -384773,6 +384775,7 @@ trustwallett.xyz
 trustwalletwithdrawal.pages.dev
 trustwallllet.cn
 trustweb.vercel.app
+truswallet.foundation
 truzorllegim.webflow.io
 truzorwalet.webflow.io
 truzurwallet.webflow.io
@@ -384981,7 +384984,6 @@ tusn6ok3-elww.vercel.app
 tuspromosxlatam.co
 tutoads.tv
 tutoriel-quetes.pro
-tutpaste.com
 tutti.total29011.cfd
 tuv24.icissitudion.ru
 tuz.drdsq.com
@@ -391628,7 +391630,6 @@ www.chenwangqiao.com
 www.civicscience.com
 www.clarity.ms
 www.controliumbt.com
-www.correa.ind.br
 www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
@@ -391636,6 +391637,7 @@ www.duelvalenza.it
 www.exoduswallet.at
 www.first-security-verden.de
 www.geoplugin.net
+www.gestroom.it
 www.google-analytics.com
 www.googleadservices.com
 www.hostingcloud.science
@@ -391682,6 +391684,7 @@ www.ugdturner.com
 www.usefomo.com
 www.vuelaviajero.com
 www.website.mypetapp.co.za
+www.wuming0.tech
 www.xn--on3b15m2lco2u.com
 www.zamilgroups.com
 www.zergnet.com
