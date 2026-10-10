@@ -1,6 +1,6 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-10-09 11:06:39
-# Total Unique Domains: 393098
+# Update: 2026-10-10 10:24:28
+# Total Unique Domains: 393094
 
 0-105.com
 0-9-8-7-6-5-4-3-2-1-0.live
@@ -21629,6 +21629,7 @@
 6afe7890.lv163.com.cn
 6agidu9ij5mhxku18doz2up.qwo231sdx.club
 6ahdbuiabda.vercel.app
+6ak-tehnik.si
 6am8rid67tw.typeform.com
 6amn.com
 6aot.tap3411pl0.cc
@@ -43133,7 +43134,6 @@ aether-trail.pages.dev
 aether-vein.pages.dev
 aether-wall.pages.dev
 aetherinstalls.com
-aetherius.live
 aetherkid.com
 aethersms.com
 aethntwrk.com
@@ -59749,7 +59749,6 @@ andavoconnections.com
 andavolux.com
 andavopro.com
 andavotravel.co
-andbake.cam
 andbank.me.ma
 andbondewer.zzux.com
 andc.ml
@@ -95970,7 +95969,6 @@ b.apple-cn-manager-portal.com
 b.bodymaker.jp
 b.bsgemsgiveaway.online
 b.close-the.my.id
-b.clu-e.eu
 b.criteo.com
 b.curry-legend.ch
 b.de.inmobi.com
@@ -122118,6 +122116,7 @@ brianlitwinowich.com
 brianmadho.nl
 brianmsoto.com
 brianna.carlisle.youdeh.co.za
+briannacorporation.com
 briannalopezphotography.com
 briannao50.hk-parcel.com
 brianoliviawedding.com
@@ -133346,6 +133345,7 @@ ceoprhn.duckdns.org
 ceowqpeola342.ga
 cepa.gob.sv
 cepam.med.br
+cepde.org
 cepedirne.com
 cepemaikm.ga
 cepemaikm.tk
@@ -148589,7 +148589,6 @@ cpn5w2jdyjywzzc6.jimdofree.com
 cpniqilbwccycdzdrwyzuojndnrgakyvbpwj-dot-solar-vertex-285913.rj.r.appspot.com
 cpnspppkterbaru2024-update.try-4pp.com
 cpo.co.jp
-cpofficial.com
 cpoohcodmfkucglhzjmmkkeyquhrnxjkzglo-dot-solar-vertex-285913.rj.r.appspot.com
 cpopgiptzd.duckdns.org
 cporiente.cl
@@ -155893,6 +155892,7 @@ deartoawae.jungleheart.com
 deasaawogbappaoni.vercel.app
 deashuifae.co.vu
 death-beforedecaf.com
+deathboundcraft.com
 deathreturns.my
 deaths-fin-choice-reseller.trycloudflare.com
 deathvenom.com
@@ -156298,7 +156298,6 @@ defenselessstill.htmlpasta.com
 defensepro.me
 defensevpnpro.me
 defeokounabgeouja.freewebhostmost.com
-deffnelreports.bramblequarz.ru
 defgbh.dlvry.repl.co
 defghjjmsks.work.gd
 defi-connector.firebaseapp.com
@@ -162322,6 +162321,7 @@ disinibro.duckdns.org
 disinilinknyagasssken.000webhostapp.com
 disizedo.com
 disk-4fb5.pre-ooauth.workers.dev
+disk.accord1key.cn
 disk.vwwv.workers.dev
 diskbae.com
 diskclientapp.com
@@ -164112,7 +164112,6 @@ docs.associateratings.com
 docs.au.bezpiecznyserwerpocztyelektronicznej.pl
 docs.booneservicse.com
 docs.codethemes.co
-docs.cs-supplements.de
 docs.econeurqa.com
 docs.edoctransfer.com
 docs.envytheme.com
@@ -165313,6 +165312,7 @@ download.htsoft.vn
 download.imtokenpro.net
 download.kaobeitu.com
 download.pdf00.cn
+download.pdf00.com
 download.sada-group.com
 download.securetnet.com
 download.tiktok906.com
@@ -165336,6 +165336,7 @@ downloadledgeerlivewallet.webflow.io
 downloadmovieslinks24.com
 downloadontheapple.live
 downloadpay.pp.ru
+downloads.go-xlr.com
 downloads.studionolights.workers.dev
 downloads.tinylinks.click
 downloadtlg130.com
@@ -191441,7 +191442,6 @@ fibercow.top
 fiberfusioninc.com
 fiberglassrestorations.com
 fiberinternetoptions.com
-fibernetperu.pe
 fibertech.ro
 fibertectelecom.com.br
 fibill.com
@@ -191491,6 +191491,7 @@ ficoscorporacioy2022.atwebpages.com
 ficsupport.itpolicy.co.za
 fictionfate.com
 ficultol.com
+ficus.in
 fid-eiity.qpon
 fid-elitpmcik.shop
 fid-elitygtytb.shop
@@ -192081,6 +192082,7 @@ file.netools.workers.dev
 file.purchasedoc.workers.dev
 file.sharedd-project-document.workers.dev
 file.srfreightbd.com
+file.uhsea.com
 file.zeahezea.sa.com
 file05.onedrive0001.workers.dev
 file0900.com
@@ -205240,7 +205242,6 @@ gitml.vu
 gito.dyn-vpn.de
 gitoba1216.temp.swtest.ru
 gitpaxful.com
-gitrm.cfd
 gits.freemevent.com
 gitsubhranshu.github.io
 gittodowvhpgoatt-dot-millinium.ey.r.appspot.com
@@ -225441,6 +225442,7 @@ horn-prism-hippodraco.glitch.me
 hornelink.cn
 hornhost.xyz
 hornitosdellayllay.cl
+horno-rafelet.es
 hornusycia.com.ar.ca6.toservers.com
 horocopovuapclouds.pages.dev
 horosho.house
@@ -226956,7 +226958,6 @@ hsebzcbyrm.duckdns.org
 hsecurity-accountprotection.000webhostapp.com
 hsecuritypayees.com
 hsecuritystoprequest.com
-hseda.com
 hsegbpscrbnatxeufgqjkpvzqz-dot-goff039302032323.rj.r.appspot.com
 hsegeeqjqx.duckdns.org
 hsehome.ga
@@ -238313,7 +238314,6 @@ intellectual-property-91321648.web.app
 intellectual-property-verify.vercel.app
 intellectual-selfie-575568.framer.app
 intelli-patterns-12e9.jiyeg28043.workers.dev
-intelli-sys.co.zw
 intellibridge53.xyz
 intelligence-head.pinsightmedia.com
 intelligence.jimpike.com.au
@@ -241484,7 +241484,6 @@ itcentralsupport.net
 itchyladybird.build067.wpsandbox.app
 itcicloud.cn
 itcitymm.com
-itco.pe
 itcom-cm.net
 itcomm.co.id
 itcommunication.co.za
@@ -294887,6 +294886,7 @@ micseofetuecnlinte.000webhostapp.com
 micservapp.ey.r.appspot.com
 micshhdhgdhhhh.weebly.com
 micssta.weebly.com
+micstndasap.world
 micuenta-teach.github.io
 micuenta.sailinginversiones.com
 micuentapple-desbloqueartc.vdn3-eu-nord1.net
@@ -296242,7 +296242,6 @@ misionesfronterizas.org
 misionesinfo.com
 misionhome-agric.hostkda.com
 misionweb.net
-miskolc-dugulaselharitas.hu
 mismaaiauuipymfhlepjgurpjulmtyqxlmrv-dot-gl494903049.wl.r.appspot.com
 mismuskan.github.io
 misoft2389.s3.eu-west-2.amazonaws.com
@@ -299420,7 +299419,6 @@ moneylinebuilder.com
 moneylionmxk.top
 moneylionwvh.top
 moneylionzwu.top
-moneylord.org
 moneymatters.ch
 moneymedicine.com
 moneyprintcoin.dev
@@ -306619,6 +306617,7 @@ n.mail.verifyyahoomail.com
 n.maxi-l.de
 n.pilot45.com
 n.pkup.fr
+n.vs108.com
 n.yj.fr
 n.z7mard.yhfnxn4yif.yyg.44f4bm8jj.tjgs.a7fwx4s.y4sk4f.fs.2ejmf.jjxp.scyrz6q.3k4y.cn2gbzw.epjnheai6.ndsye.6b8scztpm.rbfkhx.de.w.2qkwnw.hmtr.5ntsprmyy.awejw.jphz.iyxw3qjcn.ens3c.pay.paypalcancel.cc
 n06f.xyz
@@ -307469,6 +307468,7 @@ natann-dev.github.io
 natant-stripes.000webhostapp.com
 natasa-arts.com
 natashagomez.ibx.lat
+natashamohan.com
 nataticcoarts.com
 natatt.weebly.com
 natchezms.buzz
@@ -316982,7 +316982,6 @@ nusaefa.tuskilenstileawitesokemog.link
 nusantarajayakonveksi.com
 nusapintar.masuk.id
 nusaspin.co-ud.com
-nusatoyota.co.id
 nusbpvjhbhhdkqsu-dot-millinium.ey.r.appspot.com
 nusciwgtmrxrsdwbhjqoyomizz-dot-glmar9393293232323.uk.r.appspot.com
 nusirei.com
@@ -320281,7 +320280,6 @@ oilgasdieselgovoff.wixsite.com
 oilkmmzx.cf
 oilwykvrnr.duckdns.org
 oilymedication.cn
-oim.doganltd.com.tr
 oim.qjk.mybluehost.me
 oimos.com.mx
 oimszcofiqvmshvhwnrnyemtzwtmtfzbncvg-dot-cryptic-now-290917.ey.r.appspot.com
@@ -321196,7 +321194,6 @@ omserv.weebly.com
 omshete0550.github.io
 omshjijgxtlsesgn-dot-millinium.ey.r.appspot.com
 omsje.duckdns.org
-omskin.org
 omskpets.ru
 omsmexico.com
 omsnne-d6c24d.ingress-earth.ewp.live
@@ -325049,6 +325046,7 @@ osbbsvvylomo.wcnv20.cn
 osbconseil.com
 osbdaluyskvh.top
 osbnrfmc.dogestocks.com
+osbot.net
 osbzalbhmd.duckdns.org
 oscalewest.com
 oscarcampbellb1eoi.pages.dev
@@ -328543,7 +328541,6 @@ palermoimagen.com
 palestinevoteingd.blogspot.com
 paletimpot.beget.tech
 palettoa.vercel.app
-palharesinformatica.com.br
 paliatorio.ru.com
 palingviralsxx.duckdns.org
 paliodasti.com.usrfiles.com
@@ -336118,7 +336115,6 @@ planet-olivine-beechnut.glitch.me
 planet-strengthened-bactrosaurus.glitch.me
 planet-super-turkey.glitch.me
 planetanaturalaju.com.br
-planetariumobil.ro
 planetbait.com
 planetodoo.kinsta.cloud
 planetofscissors.com
@@ -336588,7 +336584,6 @@ plf5.915vip19.xyz
 plf5.951hd129.xyz
 plf6.915vip18.xyz
 plf6.915vip19.xyz
-plf7x.valci.store
 plfa1.vercel.app
 plfptrtkmdldadmy-dot-millinium.ey.r.appspot.com
 plfuhjdrtltafacepjrdgcibttoiokhqfcnn-dot-cryptic-now-290917.ey.r.appspot.com
@@ -354375,6 +354370,7 @@ qpymp6moh.top
 qpzfxkzwuvydwvce-dot-millinium.ey.r.appspot.com
 qpzgviukwjutjtae-dot-millinium.ey.r.appspot.com
 qq-liveregister.com
+qq.kipsharijan.cfd
 qq1.999818.xyz
 qq1q.biz
 qq522455.w103.xunnet.wang
@@ -372216,7 +372212,6 @@ sandy-ancient-wanderer.glitch.me
 sandy-thread-hortensia.glitch.me
 sandyandkristin.com
 sandybaytours.com
-sandybeachesandsunsets.com
 sandybrown-wolverine-124843.hostingersite.com
 sandykrohlas.com
 sandymaddox.com
@@ -375264,6 +375259,7 @@ sepayments.com
 sepia-splendid-crush.glitch.me
 sepport-teazor--apps.webflow.io
 sepume-xokaxu.com
+seputartuban.com
 ser-tribune-require-bodies.trycloudflare.com
 ser6v-portlandbottling.gksnhlbhkq.es
 sera-node.pages.dev
@@ -375624,7 +375620,6 @@ seusbeneficios.dynv6.net
 sev.sev2.workers.dev
 sevceiicess.weebly.com
 sevcviicess.weebly.com
-severidades.cfd
 severozapadonlineparts.ru
 sevvviicess.weebly.com
 sewtrak.com
@@ -379707,7 +379702,6 @@ streamline-line.vercel.app
 streamline-local-manage-uid36729041.vercel.app
 streamlined-byte.vercel.app
 streamlined-exit.vercel.app
-streammobs.com
 streamnf.com
 streamweb33images.com
 streamyq-gold.vercel.app
@@ -382151,6 +382145,7 @@ temporarily-limited-mo3p.vercel.app
 temporarily-limited-ri1w.vercel.app
 tend.io
 tender-employees-375499.framer.app
+tengfeidn.cn
 tenhazirnasiparislerinde.cloud
 tenis-team-km.com
 tenlw.cyou
@@ -384605,6 +384600,7 @@ tronscan.app
 tronskan.com
 tronskan.info
 tronssan.github.io
+tronzadorasnng.com
 trop.starbearingcentre.com
 tropicalgatefoundation.com.ng
 trorstartyio.webflow.io
@@ -387979,6 +387975,7 @@ ve1odrome.net
 vechainliveclaimdapp.pages.dev
 vechainofficial.org
 vedant364.github.io
+vedantawisdom.org
 vedaprathikgattu.github.io
 vedhasssss.github.io
 vedkam.pages.dev
@@ -389704,7 +389701,6 @@ webbsma.com
 webcaption-8py9.vercel.app
 webcaption-ys66.vercel.app
 webcome-sso-exodus.teachable.com
-webcstore.pw
 webctkkpn-3gla.vercel.app
 webdatadata.pages.dev
 webde-100183.weeblysite.com
@@ -390926,7 +390922,6 @@ wi3c.msyoxvxe.es
 wiadomoscionet.pythonanywhere.com
 wicked-thursday-graduate-whom.trycloudflare.com
 wickhamhouse.co.uk
-wicresetconnect.com
 wide-dinner-shrilling.on-fleek.app
 widespace.com
 widexenmexico.com.mx
@@ -391666,6 +391661,7 @@ www.notbak.com
 www.npttech.com
 www.ojang.pe.kr
 www.okhan.net
+www.osmb.net
 www.pointtohealth.com
 www.reifenquick.de
 www.saf-oil.ru
@@ -391684,6 +391680,7 @@ www.tapresearch.com
 www.tdejb.com
 www.tecunonline.com
 www.test.peperoncinochepassione.it
+www.tmcksa.com
 www.tns-counter.ru
 www.ugdturner.com
 www.usefomo.com
@@ -392090,7 +392087,6 @@ xn--vigrdemokrati-kmb.se
 xn--wqr44au58h7ev.com
 xn--www-ofus-touch-j1b.com
 xn--yet824cpd.vip
-xn--yh4bx88a.com
 xn--z6uz08g.com
 xn--zahnarztpraxis-wnsdorf-7lc.de
 xn.fyfou.my.id
