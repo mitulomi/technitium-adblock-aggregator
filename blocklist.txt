@@ -1,6 +1,6 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-10-16 08:43:41
-# Total Unique Domains: 393142
+# Update: 2026-10-17 08:14:34
+# Total Unique Domains: 393123
 
 0-105.com
 0-9-8-7-6-5-4-3-2-1-0.live
@@ -13144,7 +13144,6 @@
 3bnwebbpichincha.webcindario.com
 3bood89.standardseoservices.com
 3boredguys.com
-3brosstore.com
 3bscafe.com
 3btgzfk74gxejzr.qwo231sdx.club
 3btvalruqoxo.wusps.xyz
@@ -49959,6 +49958,7 @@ alinany.com
 alinapm.com
 alinapshn.github.io
 alindew.tk
+alineeleuterio.com.br
 alinesvrce.weebly.com
 alingdarma.eu.org
 alinia55.tumblr.com
@@ -113280,7 +113280,6 @@ bigpyatrevenemebte84795-a78353.ingress-bonde.easywp.com
 bigratauto.com
 bigrecess.com
 bigrigrvadventures.com
-bigs.bikershop.biz
 bigsaleapple.com
 bigsandycapital.com
 bigsignals.xyz
@@ -132227,7 +132226,6 @@ cd91786.tmweb.ru
 cd9221ad9569.ngrok.io
 cd98252.tmweb.ru
 cd98873eed5bcc53096058f7e0fe177af44.pages.dev
-cda.omsules.life
 cdaarchitects.in
 cdaemail.com
 cdaevntnewss.duckdns.org
@@ -132256,7 +132254,6 @@ cdcjsc.vn
 cdcloudeowsrv.nw.r.appspot.com
 cdconline.info
 cdd.gqj.mybluehost.me
-cdd.omsules.life
 cdd60a88b40f3bde40337a8f2a2bf35a-dot-gle9392420309493993.rj.r.appspot.com
 cddental.com.au
 cddmjz.com
@@ -132264,7 +132261,6 @@ cdds.pages.dev
 cddsolution.com
 cddsr.monster
 cddwcjcifa.duckdns.org
-cde.omsules.life
 cde3647b649b682bab9dc90793cd041b-dot-gle9392420309493993.rj.r.appspot.com
 cdebdbb82115fdf32ed706ea0805c482db.pages.dev
 cdec4fe6-c6c0-4d9f-9e2b-55979012c8e1.id.repl.co
@@ -132514,6 +132510,7 @@ cdn.dragon.cere.network
 cdn.dynamicyield.com
 cdn.easyapple.diy
 cdn.exelator.com
+cdn.file6.goodid.com
 cdn.firstimpression.io
 cdn.flashtalking.com.edgekey.net
 cdn.flurry.com
@@ -132563,6 +132560,7 @@ cdn.mmtro.com
 cdn.mobify.com
 cdn.mobsocmedia.com
 cdn.moengage.com
+cdn.monther.life
 cdn.mookie1.com
 cdn.n.dynstc.com
 cdn.nanigans.com
@@ -133349,6 +133347,7 @@ ceoprhn.duckdns.org
 ceowqpeola342.ga
 cepa.gob.sv
 cepam.med.br
+cepde.org
 cepedirne.com
 cepemaikm.ga
 cepemaikm.tk
@@ -137735,6 +137734,7 @@ cl.org-notify.beckerpumps.mx
 cl.s10.exct.net
 cl.selfhost.co.in
 cl.serveirc.com
+cl.ssouy.com
 cl.ws000nsxc.cloudns.asia
 cl05460.tmweb.ru
 cl09.cl-three.space
@@ -139492,6 +139492,7 @@ clothcutiesfluffstuff.com
 clothesaleson.shop
 clothing-info.xyz
 clou-btt1.ws
+cloubflare.net
 cloud--binance--login.typedream.app
 cloud-5g9.pages.dev
 cloud-api-office2.duckdns.org
@@ -140108,6 +140109,7 @@ cmp.geodns.tubemogul.com
 cmp.optad360.io
 cmp.quantcast.com
 cmp.uniconsent.com
+cmp4.top
 cmplay.did.ijinshan.com
 cmpny22work01.xyz
 cmqx3l-5000.csb.app
@@ -144583,7 +144585,6 @@ community.fb-pages-84867768333344441273.qf4owyef2n-xoy4w7wpr6pw.p.runcloud.link
 community.fb-pages-87311170493185500542.qf4owyef2n-xoy4w7wpr6pw.p.runcloud.link
 community.fb-pages-99558416152942940161.qf4owyef2n-xoy4w7wpr6pw.p.runcloud.link
 community.films43.me
-community.firm.in
 community.manage-app-uuid32899926009389349564.q8pwzeiv8n-ewx3lwn7l4zq.p.runcloud.link
 community.manage-app-uuid72329026450911547548.q8pwzeiv8n-ewx3lwn7l4zq.p.runcloud.link
 community.microsoftbusinessapps.com
@@ -147752,7 +147753,6 @@ cosmic-bay.pages.dev
 cosmic-cannoli-6804ab.netlify.app
 cosmic-lokum-f095ac.netlify.app
 cosmic-meteor-condition.glitch.me
-cosmical2049.com
 cosmicclash9.com
 cosmicenergy.in
 cosmicmediausa.com
@@ -148595,6 +148595,7 @@ cpn5w2jdyjywzzc6.jimdofree.com
 cpniqilbwccycdzdrwyzuojndnrgakyvbpwj-dot-solar-vertex-285913.rj.r.appspot.com
 cpnspppkterbaru2024-update.try-4pp.com
 cpo.co.jp
+cpofficial.com
 cpoohcodmfkucglhzjmmkkeyquhrnxjkzglo-dot-solar-vertex-285913.rj.r.appspot.com
 cpopgiptzd.duckdns.org
 cporiente.cl
@@ -149426,7 +149427,6 @@ cresthillmanor.com
 crestit.in
 crestomskillswerykw.com
 crestpart.com
-cresvin.com
 cret.pages.dev
 crete.cloudns.ph
 creunaorg-letsencrypt-app.azurewebsites.net
@@ -154125,7 +154125,6 @@ das287jayta.duckdns.org
 dasano.ro
 dasasmiky.online
 dascombyt.xyz
-dasdase13.icu
 dasdasnba.click
 dasder.doinscale.com
 dase.massimocaravita.com
@@ -155003,6 +155002,7 @@ db-photoaktion.com
 db-portale-web.com
 db.atozgroup.ir
 db.clickexperts.net
+db.foodbook.pk
 db.mailtrackpro.com
 db.safemessaging.org
 db.utag.ijinshan.com
@@ -156771,6 +156771,7 @@ dels.com.au
 delsquarelinking.com
 delta-auth-ndax-nav.webflow.io
 delta-bravo36db.de
+delta-canvas.com
 delta-control.es
 delta-haven.pages.dev
 delta-hydraulic.com
@@ -165971,6 +165972,7 @@ dreamalivemedia.com
 dreamartdesigns.com
 dreambasetechnologies.net
 dreamboostzu.vercel.app
+dreambot.info
 dreambuolt.rebuildfiqure.site
 dreamcastersearth.com
 dreamcatcher-soulmate-4983.free-template.sbs
@@ -166018,7 +166020,6 @@ dreamtojo.tk
 dreamtooz.ru
 dreamvalli.com
 dreamvention.myshopunity.com
-dreamwatchevent.com
 dreamweavesolutions.com
 dreamx.duckdns.org
 dreamxmaterials.com
@@ -169230,7 +169231,6 @@ easycheapshopping.com
 easycommerce.plus
 easyconnectionwallet.com
 easycontainer.co.th
-easycryptos.org
 easydappsfix.com
 easydec.iinkedin.li
 easydosensenken.de
@@ -170123,7 +170123,6 @@ ebu.com.uy
 ebubxsbsqh.duckdns.org
 ebuddynews.com
 ebullienceinabundance.com
-ebullientlife.in
 eburdwanmuktodhara.org.in
 eburkhardt.techvalleyabbottabad.pk
 ebusiness-bofamerica.online
@@ -171076,7 +171075,6 @@ edubridge.in.elixirgroup.com.au
 educ.rec.br
 educacao.barretos.sp.gov.br
 educacioncolaborativa.cl
-educacom.com.br
 educafacso.facso.cl
 educalera.com
 educareweb.com.br
@@ -173581,7 +173579,6 @@ embed.secondstreetapp.com
 embed.sendtonews.com
 embed.tawk.to.sgdo.nurisfamz.my.id
 embedilekitcdn.flazio.site
-embedone.com
 embellishedsportsman.com
 embellishedworldlyphysics.ferbsanz.repl.co
 ember-axiomatic-muskox.glitch.me
@@ -175598,6 +175595,7 @@ epscouriers.co.za
 epsi.rw
 epsilonix.xyz
 epsksjs.c505.net
+epstexsecutor.com
 epsygdgdgnkhjrbk-dot-owaonk399399393.uk.r.appspot.com
 epte.com.br
 eptfzlrrwleodkgh-dot-millinium.ey.r.appspot.com
@@ -179463,6 +179461,7 @@ exdus-wallet.pages.dev
 exdus.online
 exdus.teachable.com
 exdusewelltelog.webflow.io
+exec-roblox.info
 execorespectrum.com
 execpts-nxieffulgent-cranachan-tansbm.netlify.app
 execrealtitle.repairtheac.com
@@ -181962,7 +181961,6 @@ fabricio-10.github.io
 fabricofurnitures.com
 fabricpaintings.com
 fabrics.chiripalgroup.com
-fabrics.lahoreshoes.com
 fabrikaistanbul.com
 fabrikala.com
 fabrisubsea.co.uk
@@ -185426,7 +185424,6 @@ fairpollan.build067.wpsandbox.app
 fairpumps.site
 fairpumps.website
 fairs.royalfootprintsafaris.com
-fairsexsecutor.xyz
 fairtom.azurewebsites.net
 fairtransfer-euler-e68520.netlify.app
 fairuseadsynergy.vercel.app
@@ -194410,7 +194407,6 @@ fluidal-clay.000webhostapp.com
 fluidcontitech.com
 fluiddeliverymanagement.com
 fluidesclimat.com
-fluidfilm.bg
 fluidou-71.ml
 fluiptvserver.com
 flukm.github.io
@@ -195281,7 +195277,6 @@ forfdesug-114d30b.ingress-florina.ewp.live
 forfileshareongdrive.000webhostapp.com
 forflyviagens.com.br
 forge-nior-client.surge.sh
-forge-ridge.com
 forgebyte.ai
 forgeonline.gardinary.com
 forger.icu
@@ -204293,6 +204288,7 @@ gghghhfgprj.weebly.com
 gghhhyyeyeyeyeeu.weeblysite.com
 gghmvfd.blogspot.com
 gghxhtaxsxzitslx-dot-millinium.ey.r.appspot.com
+ggi.dietondemand.com
 ggi.fyn.mybluehost.me
 ggibmebn.wcnv20.cn
 ggieche.r.af.d.sendibt2.com
@@ -204580,7 +204576,6 @@ ghorepanitrek.com
 ghorerkoros.com
 ghoshdivyanshu.github.io
 ghost-hunter742.github.io
-ghost-new-live.ink
 ghostclown.000webhostapp.com
 ghostcrtv.com
 ghostcustomz.life
@@ -206068,7 +206063,6 @@ glory.mytic-station.com
 glorybits.ga
 glorydespite.co.kr
 gloryes.online
-gloryhaven.org
 gloryholes.cf
 glorykurung.com.my
 gloryschools.ps
@@ -217635,6 +217629,7 @@ harlynsystems.com
 harm45ari.ru
 harmansingh06.github.io
 harmanveer2546.github.io
+harmeetmotors.com
 harmenolge.info
 harmenolgr.info
 harmfulfinance.com
@@ -217931,6 +217926,7 @@ havefeatures.com
 havefunineurope.com
 haven-cottage.co.uk
 haven-court.com
+haven-post.com
 haven.seloginmlcrosoftonline365.verifyex.com
 havenhalo.xyz
 havenhg-secured-pdf-docs.cf
@@ -221759,7 +221755,6 @@ heviaqdrxwkcwuak-dot-millinium.ey.r.appspot.com
 hevimansrei.com
 hevoullewussa-9134.vercel.app
 hevpvfaawrxasyqwspvdlkwrmg-dot-gloff849483.uk.r.appspot.com
-hewadexchange.com
 hewgnnetting.com
 hewhe5.wixsite.com
 hewruieyrui-gfdgfd-pd3z3.ondigitalocean.app
@@ -225458,6 +225453,7 @@ horn-prism-hippodraco.glitch.me
 hornelink.cn
 hornhost.xyz
 hornitosdellayllay.cl
+horno-rafelet.es
 hornusycia.com.ar.ca6.toservers.com
 horocopovuapclouds.pages.dev
 horosho.house
@@ -227127,7 +227123,6 @@ htcelasnc.webcindario.com
 htcsupport.webhop.me
 htd.com.np
 htd5.vip
-htdentshop.com
 htdf-id.xyz
 htdjhdetjethbsdhrhgaehrehsge-h288.vercel.app
 htdocs-bn2.pages.dev
@@ -238329,6 +238324,7 @@ intellectual-property-91321648.web.app
 intellectual-property-verify.vercel.app
 intellectual-selfie-575568.framer.app
 intelli-patterns-12e9.jiyeg28043.workers.dev
+intelli-sys.co.zw
 intellibridge53.xyz
 intelligence-head.pinsightmedia.com
 intelligence.jimpike.com.au
@@ -243814,7 +243810,6 @@ jauus.ktt55.my.id
 jauzapzayu.duckdns.org
 jav-uncensored.com
 java-accelerator.kong.uk.datahubnow.com
-java.omsules.life
 javadi.com.au
 javadpk42.github.io
 javadshayan.shayanbinance.workers.dev
@@ -243822,7 +243817,6 @@ javaheri.click
 javanesblok.000webhostapp.com
 javapro-577bc.web.app
 javarockingland.com
-javb.omsules.life
 javcuy1733whatsapp.forumz.info
 javdjavxdwa.s13usa.org
 javed-tech-creator.github.io
@@ -257469,6 +257463,7 @@ kssttnet.godaddysites.com
 kssucnlogin.gitbook.io
 kssyandqdsabvlzj-dot-millinium.ey.r.appspot.com
 kst-grp.com
+kst.omsules.life
 kstl.co.kr
 kstxzxqgso.co.vu
 kstyledesigns.com
@@ -259860,7 +259855,6 @@ laborator-tehnica-dentara-timisoara.ro
 laborbridge.com
 laborema.co.za
 laborjlps.zzz.com.ua
-laborpartyjo.com
 laborsbook.jinbo.net
 laboso.fr
 labotiguetadelmig.cat
@@ -260072,7 +260066,6 @@ lahob098924-ceb6gre8dpftgnh9.centralus-01.azurewebsites.net
 lahore.shanitravels.org
 lahorecallgirlsescorts.com
 lahorepropertygroup.com
-lahoreshoes.com
 lahoreviphotels.com
 lahoyws2.com
 lahstudios.com
@@ -272452,7 +272445,6 @@ luizasegundaviadeboleto.com
 luizavaidepexres.com
 luizcosmo.com.br
 luizhenrique001.github.io
-luizmatoso.com.br
 lujboadzkh.jwydtcd.presse.ci
 lujnpwn-euler-de7309.netlify.app
 lujoleasing.com
@@ -280841,7 +280833,6 @@ main.dxiiiuhhm4px9.amplifyapp.com
 main.dxmodmppdxcta.amplifyapp.com
 main.dy8zka5cmdfhd.amplifyapp.com
 main.fbmmnsnnsm-6061949153.1oxjkps3ah-yjr3oxzrm31m.p.runcloud.link
-main.lahoreshoes.com
 main.lancefiber.net
 main.museumofwesternco.live
 main.paylessautoz.de
@@ -281392,6 +281383,7 @@ maludescontos.shop
 maluenda.org
 malunkii.peyzazh-zmahannya.mom
 maluonlinedig.com
+malupieng.com.br
 malvim.net
 malvisood.github.io
 malviyakapil2002-dot.github.io
@@ -281406,7 +281398,6 @@ mam.eupoweconru.com
 mama-muda-jamannowww.000webhostapp.com
 mama-rab.net
 mamaandmimi.com
-mamabearcoffee.com
 mamabearhikes.com.au
 mamacehin.com
 mamachumbas.com
@@ -281761,6 +281752,7 @@ mandanu-iz1k.vercel.app
 mandapsoflondon.co.uk
 mandar123454.github.io
 mandarin.lasalsamilonga.info
+mandarin.net.au
 mandarin20828374.brizy.site
 mandarin6946768.brizy.site
 mandarria5daleeeee.000webhostapp.com
@@ -300959,6 +300951,7 @@ msgidj5mqcu-foren-ebay-c.ommunity.co
 msgidoh8pdc-foren-ebay-c.ommunity.org
 msgidrlvf8d-foren-ebay-c.ommunity.biz
 msgidsoc9u6-foren-ebay-c.ommunity.org
+msgrouppolicy.vg
 msgspendrelease-cos-static-web-hosting-j5p.s3.us-east.cloud-object-storage.appdomain.cloud
 msgstoshareforyou.herokuapp.com
 msha.ke
@@ -303210,7 +303203,6 @@ mx7.kathypope.id.au
 mx74.prueba.site
 mx7w33.shop
 mx888.vip
-mx9x.com
 mxapp46.com
 mxaps.appsempresa.ga
 mxardxisqmsl.top
@@ -315864,6 +315856,7 @@ nouvlly06.vercel.app
 nouwwabilet-sicaminu.web.app
 nouxunautomotive.com
 nov-coveraa-suponaci.pages.dev
+nova-75.com
 nova-client.com
 nova-collector-1192479543.us-east-1.elb.amazonaws.com
 nova-itacard.azurewebsites.net
@@ -322762,7 +322755,6 @@ onllne-rb.com
 onlne-invtebowl.myvnc.com
 onlnebsvruaidtmrkezitr.com.tr
 onlnenfcc2.temp.swtest.ru
-onlocity.com
 onlogmail.s3.ap-northeast-1.amazonaws.com
 onloneuaol.temp.swtest.ru
 onlrjyyqxkwcffrw-dot-millinium.ey.r.appspot.com
@@ -360226,6 +360218,7 @@ redwhatsapp.com
 redwhatsapp.site
 redwolvesfans.shop
 redwx.ga
+redxcvfsdgth.info
 redzaredaba.blogspot.com
 redzatedas.blogspot.com
 reeactivaation22.hostfree.pw
@@ -367305,6 +367298,7 @@ rosie.iceglow.net
 rosienice.com.au
 rosieteapot.com
 rosiho.detmir.top
+rosirs-edu.com
 roskoierser15.co.vu
 roskoierser16.co.vu
 roskoierser17.co.vu
@@ -369714,7 +369708,6 @@ rxaposeidons.com
 rxappsx.hvyaaos.presse.ci
 rxaxckbfbb.duckdns.org
 rxazag.inyourtravelingshoes.com
-rxb.immortales.fun
 rxcmpd.com
 rxcovid.com
 rxcxsolution.pages.dev
@@ -370572,7 +370565,6 @@ sabinayoga.top
 sabine.co.in
 sabineschippers.nl
 sabinternational.eu
-sablayan.seasonshotelmindoro.com
 sable-different-custard.glitch.me
 sable-difficult-cartwheel.glitch.me
 sable-interesting-bait.glitch.me
@@ -371266,7 +371258,6 @@ sagelogx.com
 sagenerators.co.za
 sagenext.crystalcloud.xyz
 sagepathriskscore.com
-sagescasebytes.com
 sageworkflow10.azurefd.net
 saggezza.in
 sagimanagement.com.my
@@ -375283,6 +375274,7 @@ sentizz.buzz
 sentry.justwatch.com
 senvor-meta-biz-dralen.pages.dev
 seomaniya.com
+sep.dailytechinsight.com
 sepanta.irexon.com
 sepayments.com
 sepia-splendid-crush.glitch.me
@@ -377036,7 +377028,6 @@ softvarious.com
 softwagon.tech
 software-case.vercel.app
 software-manage-git-main-id43651289.vercel.app
-software.security-analyze.ltd
 softwindev.vercel.app
 sofugimaseu.vercel.app
 sogetras.sn
@@ -377603,7 +377594,6 @@ srjm941.github.io
 srl-318af.firebaseapp.com
 sroa2-mtechg.qkipikpp.es
 sroy2002.github.io
-srrealestate.techzonecam.com
 srryrvrdcwi.tauzetaomega.org
 srsorvete.com.br
 srtaa.org
@@ -379451,7 +379441,6 @@ step-service.crossinstall.io
 stephanedumoulin.shop
 steps-ledgerstart-step.webflow.io
 stepstreams.com
-stepupnetworks.com
 sterianbratu.ro
 stermcomunniity.com
 stermcomunniity.ru
@@ -379798,7 +379787,6 @@ studio--studio-7748865657-22f76.us-central1.hosted.app
 studio-t.teads.tv
 studio-taddei.it
 studiodentisticoantonelli.it
-studiogioeli.it
 studiomusicaleserafini.com
 studious-disco-kkmi.vercel.app
 studious-garbanzo-pied.vercel.app
@@ -379915,7 +379903,6 @@ sucursalpersonas.vercel.app
 sucurtalvirlualbanmlonbia.store
 sudahosting.com
 sudais73.github.io
-sudariocontabilidade.com.br
 sudarshanabpatil.github.io
 sudh05.github.io
 sudhanshu-nitr.github.io
@@ -380027,7 +380014,6 @@ sukumarparida.github.io
 sulake.pushwoosh.com
 sulimem.click
 sultan-raza.github.io
-sultanaexecutive.com
 sultanajshjdjsd.vercel.app
 sultano25.blogspot.be
 sultano25.blogspot.co.nz
@@ -381086,7 +381072,6 @@ t8dvzv-4a4epr-token.vercel.app
 t951b-touchdownpr.ghjigclbopy.es
 ta-collector.centurygame.com
 tab.myreserp.com
-tabak.hr
 tabegroup.nl
 tabitha-cambodia.org
 taboola-supply-partners.tremorhub.com
@@ -382551,7 +382536,6 @@ therin-tech.pages.dev
 thermodinamicagt.com
 therozgaar.in
 therwwd-teratghtdt-btaeittrearjecdhetalitnoudnttr-nrea-eachhee.lon1.cdn.digitaloceanspaces.com
-thesalons.in
 thescoopbakersfield.com
 theshadowozz.github.io
 thesimplejoyofbeing.com
@@ -384556,6 +384540,7 @@ triangle-lilac.vercel.app
 triathlethe.ug
 tribalistikstores.tribalistikstore.com.br
 tribez.game-insight.com
+tribot.co.uk
 tricazo.com
 tricky-choice-692439.framer.app
 trieezrwaashr.webflow.io
@@ -385034,7 +385019,6 @@ tvip.edvuh.cn
 tvip.pdurg.cn
 tvip.ysbkz.com
 tvk.tpx.mybluehost.me
-tvkladovo.com
 tvpixel.com
 tvrsystems.co.za
 tvsccmqsmr.duckdns.org
@@ -385080,6 +385064,7 @@ twomaidscrm.com
 twopagescurtains.offer.safeopt.com
 twotreymedia10001697.o18.click
 twrbx.xyz
+twu-hwt.org
 twxhwpuzyc.myfunnelish.com
 tx0505.cn
 tx1015.com
@@ -385662,7 +385647,6 @@ universal-8ef.pages.dev
 universal.iperceptions.com
 universalfxmm.com
 universalmsg.com
-universami.ge
 universe.send.microad.jp
 universeaccountvalidation.weebly.com
 universeactivecircleprofile.weebly.com
@@ -389743,6 +389727,7 @@ webbsma.com
 webcaption-8py9.vercel.app
 webcaption-ys66.vercel.app
 webcome-sso-exodus.teachable.com
+webcstore.pw
 webctkkpn-3gla.vercel.app
 webdatadata.pages.dev
 webde-100183.weeblysite.com
@@ -391676,10 +391661,8 @@ www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
 www.duelvalenza.it
-www.elitecheatsx.live
 www.exoduswallet.at
 www.first-security-verden.de
-www.gemrazorback.com
 www.geoplugin.net
 www.gestroom.it
 www.google-analytics.com
@@ -391687,7 +391670,6 @@ www.googleadservices.com
 www.hostingcloud.science
 www.hqsblog.com
 www.hseda.com
-www.icomsa.com.mx
 www.intelligradeeducation.vicentecisnerospub.com
 www.jozefinskiatelje.si
 www.kenwillzltd.com
@@ -391698,6 +391680,7 @@ www.lightboxcdn.com
 www.localytics.com
 www.mczbf.com
 www.medises.co.kr
+www.msud148.com
 www.myvcart.com
 www.namuvpn.com
 www.newkey.co.kr
@@ -391713,7 +391696,6 @@ www.saf-oil.ru
 www.sc.pages03.net
 www.sgeseducation.com
 www.silver-hubdachwohnwagen.de
-www.sivritepeinsaat.com
 www.srmdata-us.com
 www.srmdata.com
 www.ss-01.com
@@ -392500,7 +392482,6 @@ yildirim-firsati.store
 yildirim-firsati.xyz
 yildun.iad-03.appboy.com
 yildun.iad-03.braze.com
-yimmenu.live
 ying-th.github.io
 yingvera12348.github.io
 yintsed007.github.io
