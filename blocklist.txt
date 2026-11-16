@@ -1,5 +1,5 @@
 # Technitium Blocklist Aggregator
-# Update: 2026-11-15 11:44:35
+# Update: 2026-11-16 12:25:01
 # Total Unique Domains: 392701
 
 0-105.com
